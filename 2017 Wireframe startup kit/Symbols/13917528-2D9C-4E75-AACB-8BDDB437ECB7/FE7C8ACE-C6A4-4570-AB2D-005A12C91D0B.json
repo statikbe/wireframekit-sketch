@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE7C8ACE-C6A4-4570-AB2D-005A12C91D0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97DBB8A2-00F0-402C-A74E-B6181984758A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F5BC8977-3082-4A76-9F03-42BF28A90D7C",
+    "height": 27,
+    "width": 358,
+    "x": 152,
+    "y": 303
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Input/Radio/Real/Unchecked Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "042EF7B1-C54D-43BC-9E1D-EEC73B2B3E9A",
+      "overrideName": "6B321D9C-2F9C-4C28-9AB5-28CFAF43EB8F_stringValue",
+      "value": "Free pick-up at Sway Store Leuven"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41E1EAAD-FF6A-4ABF-BE66-B10EE321C104",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "255D42AB-57F6-430E-9534-FCC50EAFDF3B",
+  "verticalSpacing": 0
+}

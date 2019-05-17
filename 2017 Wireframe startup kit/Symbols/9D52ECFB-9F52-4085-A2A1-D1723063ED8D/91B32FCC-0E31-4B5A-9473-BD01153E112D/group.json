@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "91B32FCC-0E31-4B5A-9473-BD01153E112D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "513C934A-59BE-46C4-AF6C-E1B4C483B5C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "450FF13D-86CE-42E9-9737-D2067CE383BA",
+    "height": 495,
+    "width": 780,
+    "x": 130,
+    "y": 346
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "29A246EE-FF0C-46AB-9B14-D5454D13A108"
+    },
+    {
+      "class": "text",
+      "id": "51FE1FF1-87F9-41A1-B813-EB619FD05A70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AFF2CF28-4926-423B-97CB-7BCE8A68BC65"
+    }
+  ],
+  "name": "Commerce/Checkout/Components/Gegevens form",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A86D475-8325-47F8-94B9-74151C342A56",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

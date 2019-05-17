@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE61219C-7940-4EB1-8266-149B2FE625B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "663E003D-9D01-4E65-BB1F-CB9E462ECF65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8A18DDC-C608-4F85-8D79-15656A4D688C",
+    "height": 280,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4453A46D-73DC-4136-9516-E85B1DCFC12C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "924C1295-3084-4C69-88DF-39EF28E80E43"
+    }
+  ],
+  "name": "Placeholder/Image/Square",
+  "nameIsFixed": false,
+  "originalObjectID": "A96C3194-0518-4B0A-88F0-E1E2A04B798A",
+  "resizingConstraint": 23,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE963F34-E118-4991-8923-D9CF11840D83",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "51457582-817C-4214-8CC2-92A75EE760F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "714D9FC8-F2CB-421B-A869-A40147AECB9C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0897011E-575E-4E82-8AA6-4A803D898A00",
+    "height": 77,
+    "width": 280,
+    "x": 500,
+    "y": 107
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Combinations/Label + Input Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B4FD8F9-7D4F-4BBA-B42A-B25F5B3E29A9/B90FE01E-95CE-4153-B006-AD3D33B17C94_stringValue",
+      "value": "Number"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CEC82C1-5F7E-4845-B14D-58BF81F477F1",
+      "overrideName": "8F400D8A-8633-44B6-BF82-59109285A4BA/73D3E976-DF69-422E-B55E-12226B68426C_stringValue",
+      "value": "46"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A3EE42E-A8E6-42AC-A36A-48E97D8C9072",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CBEC5C51-CB7E-4803-896F-2265EAFD71ED",
+  "verticalSpacing": 0
+}

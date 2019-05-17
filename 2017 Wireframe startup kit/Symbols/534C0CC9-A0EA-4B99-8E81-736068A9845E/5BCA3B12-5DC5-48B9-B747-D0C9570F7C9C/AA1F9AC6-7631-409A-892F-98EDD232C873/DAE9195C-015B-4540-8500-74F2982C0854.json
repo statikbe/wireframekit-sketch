@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DAE9195C-015B-4540-8500-74F2982C0854",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68B55A46-596C-4DF9-B434-E9761575EDDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53059267-84B5-4E19-A325-15B0A8759A1C",
+    "height": 40,
+    "width": 120,
+    "x": 0,
+    "y": 36
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Input/Number/Filled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D924D4D1-1B2A-45AA-A97C-26034070C482",
+      "overrideName": "67C1A724-4B77-4D51-AF19-A617B6E8E6A5_stringValue",
+      "value": "XL"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F55FEE5-E6FF-454C-8F05-744978066BB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5FB5926-9C0F-43FD-A047-45044E6548A8",
+  "verticalSpacing": 0
+}

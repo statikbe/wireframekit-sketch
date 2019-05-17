@@ -1,0 +1,101 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3309D243-DF85-4668-A7AD-8BD45499ACB6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1252,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8C4117A-F3F0-4E77-B008-2B5FDA5B61B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4450103-D57E-436B-B0CE-65EDAC009658",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F228995F-89DA-4299-A501-4DADE179B3FA",
+    "height": 24,
+    "width": 24,
+    "x": 440,
+    "y": 745
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CE68E68C-6E17-4D1C-A9B0-0418A06D6A2F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3D8AC31F-E233-4A48-963E-8168C3C7A227"
+    }
+  ],
+  "name": "Icon/Clock time watch",
+  "nameIsFixed": true,
+  "originalObjectID": "B413EF49-19D7-450F-B7F5-910F2437886B",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "78A36B59-6C20-439E-BCEA-B4A33C45C16A_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "745E94C9-1636-40EE-B5F3-237D4CBE3316",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D943D4B2-28D9-47A9-98A8-C718F31508C7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "30289FB2-6BDA-4AA9-A4EB-ADF671D2B82E",
+    "guides": [
+    ]
+  }
+}

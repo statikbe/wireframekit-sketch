@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "20684187-72E6-48F1-9C06-F5E35E059D18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E99B97CF-9EE5-4724-A794-5CA8B050031D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B744D103-CBEB-48EF-A5B0-2F2FE8CEF527",
+    "height": 40,
+    "width": 229,
+    "x": 210,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Square/Primary/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "00D9156C-2244-47A8-B825-261B3B8E1A36",
+      "overrideName": "A65F279B-B286-481F-98AD-2A35936F8BF4_stringValue",
+      "value": "Add personal info"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F98893B8-5037-4355-9469-FD8FD68A3366",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9ECA11B7-B2E6-4A80-9C2E-CDD6CCA274F0",
+  "verticalSpacing": 0
+}

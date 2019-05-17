@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5259004-40A1-4631-9428-791FEB4C8EAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A0D0A8E-E2CB-4E18-98B2-DCA5F7737738",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "94AD27C2-03CD-4DBF-88DC-93EF4F8F86C9",
+    "height": 20,
+    "width": 20,
+    "x": 2,
+    "y": 3.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/Email",
+  "nameIsFixed": false,
+  "originalObjectID": "C3275AFA-9354-41E3-A1B4-3CD113129000",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A83A8247-A564-4276-8F6D-D65756E77364",
+      "overrideName": "ABB35CE2-4C02-4FD8-AAEC-2A25C73A569B_symbolID",
+      "value": "4EEB4B71-E918-4E79-93D2-317102C40E81"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D8A585A-3E4A-451D-A0CC-D3338A3F72E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A10CF72-C405-4041-8B24-B26D57B04839",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

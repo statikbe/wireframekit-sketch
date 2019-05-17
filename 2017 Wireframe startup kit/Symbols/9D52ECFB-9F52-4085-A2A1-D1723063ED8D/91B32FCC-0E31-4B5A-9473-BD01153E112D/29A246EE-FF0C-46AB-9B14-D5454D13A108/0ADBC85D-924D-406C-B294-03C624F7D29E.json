@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0ADBC85D-924D-406C-B294-03C624F7D29E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1673A9DB-5B46-45D5-86FE-F0496C29846C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF2183EC-9E07-4924-8DC8-CA4245D9C235",
+    "height": 77,
+    "width": 380,
+    "x": 400,
+    "y": 321
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Combinations/Label + Input Copy 8",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3B4FD8F9-7D4F-4BBA-B42A-B25F5B3E29A9/B90FE01E-95CE-4153-B006-AD3D33B17C94_stringValue",
+      "value": "Email address"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC5FCC58-1168-4FEF-A44D-787EE7A96BAE",
+      "overrideName": "8F400D8A-8633-44B6-BF82-59109285A4BA/73D3E976-DF69-422E-B55E-12226B68426C_stringValue",
+      "value": "email@bedrijf.be"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00F8A8C8-52F8-4E42-A9EF-E0B80AA7B6B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CBEC5C51-CB7E-4803-896F-2265EAFD71ED",
+  "verticalSpacing": 0
+}

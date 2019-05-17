@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "17D7288C-C78A-4675-BDAD-0B34CA2E8C3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5179258A-D740-4D65-9F4C-29CDE314148B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FECDE62E-9A16-4FFC-8599-F2F72ED1D2A3",
+    "height": 40,
+    "width": 190,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Square/Primary/Enabled Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79EC1B90-4ADA-4E0E-A36E-EDF4A0568360",
+      "overrideName": "9A0B6937-9088-40A4-B7DC-E50EA863080B_stringValue",
+      "value": "Previous step"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0E379145-6C86-4CCD-8198-7E8B7BCCBB8F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6624354E-F3DD-4F63-99A9-49A250715C23",
+  "verticalSpacing": 0
+}

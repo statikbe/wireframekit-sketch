@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0338E965-8984-4274-B56D-2E4E66AE8980",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CECEC7C-E255-4F89-ACF7-80D830A431AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56CE42C0-C132-4936-9C3B-A9B8700A12B7",
+    "height": 398,
+    "width": 749,
+    "x": 160,
+    "y": 277
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AC263584-A803-45B4-9B7F-AFD43FD2B587"
+    }
+  ],
+  "name": "Commerce/Checkout/Components/Gegevens form",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "04C2D6C7-6C6C-4674-B8A0-039EDC2985ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
