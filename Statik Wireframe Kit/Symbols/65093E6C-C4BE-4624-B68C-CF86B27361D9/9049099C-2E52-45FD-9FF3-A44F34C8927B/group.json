@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9049099C-2E52-45FD-9FF3-A44F34C8927B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B12D3AC-75FE-4352-8B9A-F57CD0EDD707",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B0F8242-2FF5-4B8D-B6A6-032A04F69B3E",
+    "height": 381,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7ADAD3A1-B860-4121-A8DD-534D4C50ADCF"
+    },
+    {
+      "class": "group",
+      "id": "EE61219C-7940-4EB1-8266-149B2FE625B0"
+    }
+  ],
+  "name": "Component/Card/Product/Title + Price + CTA Copy 8",
+  "nameIsFixed": false,
+  "originalObjectID": "8E6EDDC1-E2B6-4549-9EA5-7FCF1BF0381D",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "911FB0F2-8744-4B66-BE1B-55D076A6606D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

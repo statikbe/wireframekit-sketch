@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0BB94519-C90F-42AF-A6B5-4B28AE8945A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB28F550-D86D-4C01-8CCC-B14927D7CE18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4CB9FDC4-BFC4-40A0-A28C-8DEAFD4EA025",
+    "height": 27,
+    "width": 274,
+    "x": 6,
+    "y": 122
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Input/Checkbox/Real/Unchecked Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03216B11-0248-4D46-A5A0-6BF204F59585",
+      "overrideName": "B4C1147A-196D-47B7-A224-A7D9A1D94688_stringValue",
+      "value": "Brand X"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A013493-C52F-4EAF-8DA1-DBF3EF654F76",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6010FB4D-25B5-4CD9-A107-8CAB455734D4",
+  "verticalSpacing": 0
+}

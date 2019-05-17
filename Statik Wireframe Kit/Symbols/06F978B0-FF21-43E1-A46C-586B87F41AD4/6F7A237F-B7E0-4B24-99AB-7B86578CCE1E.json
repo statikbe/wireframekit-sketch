@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F7A237F-B7E0-4B24-99AB-7B86578CCE1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "093B1C44-64FE-4729-A041-5D7EAF51B9C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D3F3459-A272-47D1-8FE7-FD15F29C02BB",
+    "height": 52,
+    "width": 1181,
+    "x": 130,
+    "y": 805
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Commerce/Cart/Shopping cart heading",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C0C100D-407E-4599-936C-9ACE7A0E54E5",
+      "overrideName": "2FC9213E-99BC-4CCD-AC09-1DBF1E412049_stringValue",
+      "value": "Checkout"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A89F020-0B7C-4FDE-A043-1882E63DED44",
+      "overrideName": "A25355B1-A6A7-47C3-B914-3AB469FEB406_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EEB21359-FEAF-4077-AD51-1A91E21F36C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C4942B98-11CE-486B-9BDF-19E61C4BE323",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE3A3B64-17F9-4AEE-A521-C2756A0F2961",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A6C0D83-C3EA-46BF-B8BD-813E58AE90C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F68D9C54-4AFF-4730-A17A-1020A46B5E60",
+    "height": 120,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F718249D-BC4E-4E90-A594-EF12B66706D5"
+    },
+    {
+      "class": "text",
+      "id": "871A5951-3B1A-42B5-BF0C-7D669909F10F"
+    },
+    {
+      "class": "text",
+      "id": "361E7490-3BF0-4150-AEE5-480A50D1F9F1"
+    },
+    {
+      "class": "text",
+      "id": "854F894C-D48A-4897-8CDF-7AAFC0D48F06"
+    },
+    {
+      "class": "text",
+      "id": "27245053-8616-400B-B63C-A92A01D1BDC2"
+    },
+    {
+      "class": "text",
+      "id": "AAAA2E97-496B-4105-902F-FE8EE29C7F61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0437635B-5906-403A-88E2-0E9D9789E64E"
+    }
+  ],
+  "name": "MAIN NAV",
+  "nameIsFixed": true,
+  "originalObjectID": "F606CA5D-7B34-4238-B944-3811EDF3612A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "920C6EAE-25CF-43F6-A41A-6F1B9770BC62",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

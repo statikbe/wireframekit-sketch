@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "636194A2-991F-43BE-B9C7-1296B1675231",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB7881AF-C419-4C8E-A106-8A7B69AF0224",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "825D3227-2D31-41BD-83C1-32E201003DA0",
+    "height": 54,
+    "width": 280,
+    "x": 0,
+    "y": 94.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F1D2C165-EBBD-444C-A52E-D8929B7FEC89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7085A9A7-C578-4289-84FD-BF9AD1A585CD"
+    }
+  ],
+  "name": "Form/Input/Checkbox/Real/Unchecked",
+  "nameIsFixed": false,
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA68F247-0EED-4F52-A3FC-C688CDBFC115",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

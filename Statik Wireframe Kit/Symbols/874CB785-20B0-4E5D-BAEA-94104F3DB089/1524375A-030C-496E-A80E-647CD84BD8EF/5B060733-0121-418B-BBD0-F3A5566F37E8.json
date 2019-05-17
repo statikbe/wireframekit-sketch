@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B060733-0121-418B-BBD0-F3A5566F37E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2102291F-E846-4358-915D-EF6E4530792D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85F0D3D9-11D7-4DCD-A526-8FA34F02634D",
+    "height": 27,
+    "width": 580,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Input/Checkbox/Real/Unchecked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B4C1147A-196D-47B7-A224-A7D9A1D94688_stringValue",
+      "value": "My billing information is different from my shipping information"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F1F9DA9-AAD9-4EF4-9A95-468065253E85",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6010FB4D-25B5-4CD9-A107-8CAB455734D4",
+  "verticalSpacing": 0
+}

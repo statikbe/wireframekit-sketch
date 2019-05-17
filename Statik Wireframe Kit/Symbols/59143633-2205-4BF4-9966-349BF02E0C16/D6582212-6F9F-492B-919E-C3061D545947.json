@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6582212-6F9F-492B-919E-C3061D545947",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83A30F5E-5522-4D30-833D-9EA2458BAED1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1924F650-F455-4B38-8CD5-99B741AC5976",
+    "height": 57,
+    "width": 280,
+    "x": 637,
+    "y": 442
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Utility/Note/Arrow/Left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B18F2752-95BB-4F22-8625-16B576B82A1B",
+      "overrideName": "7E4B704D-60F2-4F28-A113-396F8188A872_stringValue",
+      "value": "Knop wordt disabled wanneer je je billing information nog niet hebt opgeslagen. "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66B6ACF3-2F27-4868-AAB5-47AD87C41824",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F57509AF-9394-4349-97E8-CEBE11562DC7",
+  "verticalSpacing": 0
+}

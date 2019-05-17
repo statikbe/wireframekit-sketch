@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "05FA39F7-B6FB-4184-AE4F-5D312A9AE40D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9A08499-37FB-4596-9E00-4BF61AB52934",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22A7B907-231D-46C0-B060-6E379C9F31C4",
+    "height": 229,
+    "width": 380,
+    "x": 930,
+    "y": 122
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "924F7C34-A815-49D3-8002-639D5B0DFFC9"
+    },
+    {
+      "class": "text",
+      "id": "881D4BEF-1894-4B7F-B754-7CD6E3D4AC90"
+    },
+    {
+      "class": "text",
+      "id": "D1B123F0-1610-4711-9EC2-A08BE24017F9"
+    },
+    {
+      "class": "text",
+      "id": "458C0A2F-AB75-49D1-A6E5-8BE63CDCA1A9"
+    },
+    {
+      "class": "text",
+      "id": "A5565DEE-8B55-4DD4-863C-5342144F4D65"
+    },
+    {
+      "class": "text",
+      "id": "125DBD68-F8BE-4B56-9404-2C817C275E8D"
+    },
+    {
+      "class": "text",
+      "id": "8080FFEC-105A-44E4-8767-53E0DCCCDCD2"
+    },
+    {
+      "class": "text",
+      "id": "DD6716B5-A400-4D9E-91D3-22018CAF5FA2"
+    },
+    {
+      "class": "text",
+      "id": "A9309C8E-5D51-4C8E-83C2-9C76F286C977"
+    },
+    {
+      "class": "rectangle",
+      "id": "214CD323-C2AA-4B88-B805-C0DC19211DD5"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3A74A71-E912-45E4-9AE7-B728140BE6BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

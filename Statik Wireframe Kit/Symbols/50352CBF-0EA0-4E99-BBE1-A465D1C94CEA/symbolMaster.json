@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2A82F05D-14A6-45A5-A241-BE00845FDDA9",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1149,
+  "clippingMaskMode": 0,
+  "do_objectID": "50352CBF-0EA0-4E99-BBE1-A465D1C94CEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F909F800-4020-41B3-9E39-E87360A498F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A1912201-0165-4634-97EA-01F6DB6D849D",
+    "height": 380,
+    "width": 380,
+    "x": 5836,
+    "y": 400
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "04DA98F8-455F-4F59-899F-D4954EA8E2B7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DB319302-DBFA-497A-9668-F7051F56A020"
+    }
+  ],
+  "name": "Placeholder/Instagram/Circle",
+  "nameIsFixed": true,
+  "originalObjectID": "2074A5D4-0AD8-4A74-924D-D3119B9DD3EA",
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1299FF9D-86E5-45EC-93DD-C4BD4B3B04BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "074DAE3A-B0E9-4895-B684-30B30D49EC0E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AA8D4308-2257-40BB-BCAF-36FFB5BB2C51",
+    "guides": [
+    ]
+  }
+}

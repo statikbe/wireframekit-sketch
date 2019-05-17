@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "69605B49-0C2F-45C7-997B-DB7CFE9B534F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "014F4927-E854-40C3-9253-7A37366301E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCE8EA47-9A72-4667-8775-19557A50315E",
+    "height": 62,
+    "width": 291,
+    "x": 325,
+    "y": 235
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Utility/Note/Arrow/Top Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C73519D-2492-406F-B940-95040CED7188",
+      "overrideName": "7E4B704D-60F2-4F28-A113-396F8188A872_stringValue",
+      "value": "Wanneer deze optie aangeduid wordt, verschijnt het 'verzendgegevens'-form van vorige wireframe hieronder. "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "63B418D2-0F60-472A-B168-8FECE7F1B345",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F57509AF-9394-4349-97E8-CEBE11562DC7",
+  "verticalSpacing": 0
+}

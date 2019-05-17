@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4960B1E5-E625-41EE-A9DC-E270983354C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7454B393-4A91-4E20-A8A3-DBF323119429",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B54D5D75-E654-4CB8-8475-7F406227CB93",
+    "height": 27,
+    "width": 342,
+    "x": 130,
+    "y": 229
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Input/Radio/Real/Checked Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BBEA5A59-9F86-469C-88CF-156FFC9D580C",
+      "overrideName": "83ABFE1A-AAB5-4088-8FFD-0C0DE7E8F511_stringValue",
+      "value": "Add a new address"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B85959FC-DD59-4DF0-B770-A75FF0B67473",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "53CAAA49-54BB-47AB-A9C3-D2D4FB554BA9",
+  "verticalSpacing": 0
+}

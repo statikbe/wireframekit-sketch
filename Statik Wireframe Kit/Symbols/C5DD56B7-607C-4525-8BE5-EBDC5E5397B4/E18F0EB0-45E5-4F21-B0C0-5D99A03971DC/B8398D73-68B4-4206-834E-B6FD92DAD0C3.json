@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B8398D73-68B4-4206-834E-B6FD92DAD0C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE233911-3B97-4F23-92F6-1BF7D3A82205",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D7E95C1-5EE3-4262-8DBA-B9E3869C58EC",
+    "height": 26,
+    "width": 580,
+    "x": 600,
+    "y": 26
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Type/List/Unordered/Check",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D9149D8A-C254-44C4-A374-BF70A8944D43_stringValue",
+      "value": "Bestel voor 13u, de volgende dag geleverd!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36882674-AFD3-4FCA-99A3-498424A2FFAD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1C98FCC9-61F8-4520-B812-8E28F0D815AE",
+  "verticalSpacing": 0
+}
