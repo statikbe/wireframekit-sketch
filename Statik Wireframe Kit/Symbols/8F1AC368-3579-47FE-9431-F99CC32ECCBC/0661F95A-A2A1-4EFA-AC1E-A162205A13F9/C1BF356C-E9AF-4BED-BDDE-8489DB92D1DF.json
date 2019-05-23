@@ -36,7 +36,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -45,6 +45,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BFF391FF-6571-429D-9E1B-0C1299AAA063",
+  "symbolID": "4EEB4B71-E918-4E79-93D2-317102C40E81",
   "verticalSpacing": 0
 }

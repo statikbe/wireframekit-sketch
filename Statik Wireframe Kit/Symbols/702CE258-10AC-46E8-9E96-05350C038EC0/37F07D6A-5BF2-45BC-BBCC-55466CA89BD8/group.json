@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "37F07D6A-5BF2-45BC-BBCC-55466CA89BD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "093B754A-644E-454E-ACB4-77604F1065C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "75F3A9B7-2350-4DE4-A8EA-1F12A8752380",
+    "height": 230,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "43466003-7D92-4D79-AF37-F2B787744F83"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4B1E1D8F-1385-46FD-B17D-EE427F33AD80"
+    },
+    {
+      "class": "group",
+      "id": "5C47F22D-F570-42C0-BDA7-68E3495C9FAB"
+    }
+  ],
+  "name": "Component/MemberCTASection",
+  "nameIsFixed": true,
+  "originalObjectID": "0661F95A-A2A1-4EFA-AC1E-A162205A13F9",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA6A0C19-544C-487C-8C4D-A7195F045008",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

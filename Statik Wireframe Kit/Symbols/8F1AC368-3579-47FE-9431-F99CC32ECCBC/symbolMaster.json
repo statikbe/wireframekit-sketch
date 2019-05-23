@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2013,
+  "changeIdentifier": 2017,
   "clippingMaskMode": 0,
   "do_objectID": "8F1AC368-3579-47FE-9431-F99CC32ECCBC",
   "exportOptions": {
@@ -72,7 +72,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
-  "name": "Component/CTA/CTA Section",
+  "name": "Component/CTA Banner/CTA Banner Lightest",
   "nameIsFixed": true,
   "originalObjectID": "8F1AC368-3579-47FE-9431-F99CC32ECCBC",
   "overrideProperties": [
