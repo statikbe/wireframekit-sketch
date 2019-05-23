@@ -30,11 +30,11 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 51,
+        "length": 40,
         "location": 0
       }
     ],
-    "string": "Registrations for our 26th annual meeting are open!"
+    "string": "Fusce dapibus, tellus ac cursus commodo."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -58,7 +58,7 @@
     "x": 40,
     "y": 30
   },
-  "glyphBounds": "{{0, 0}, {510, 28}}",
+  "glyphBounds": "{{0, 6}, {237, 48}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Registrations for ou",
+  "name": "Fusce dapibus, tellu",
   "nameIsFixed": false,
   "originalObjectID": "3A71A202-AC5F-4A3E-AE32-6E9BA8F33786",
   "resizingConstraint": 26,
