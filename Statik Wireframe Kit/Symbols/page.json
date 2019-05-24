@@ -1902,6 +1902,14 @@
     {
       "class": "text",
       "id": "BA2701FD-6BDF-43D1-8B2B-7CD9279D3EBC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "599D65E3-E44E-416C-AE07-059C8339F822"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4F2243C3-B95B-48F4-8239-27A7A264E425"
     }
   ],
   "layout": {

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "55717F21-A0AF-4FAD-9485-07C8A2F93F83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E70A8D77-E542-41C3-96C8-501157F9E8AE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "829635EC-B467-4062-AF59-B2F91441C365",
+    "height": 44,
+    "width": 44,
+    "x": 20,
+    "y": 216
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/Social/Instagram",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "864912F1-E203-4484-BD12-F95CCCBFCB11",
+      "overrideName": "8251ABE7-1C2B-4AB1-9269-CD2515C1CC12_symbolID",
+      "value": "4EEB4B71-E918-4E79-93D2-317102C40E81"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65F21C3A-3883-49F1-A7A5-F43C53210CD9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0CA334B6-35D1-4163-8026-5F638154005E",
+  "verticalSpacing": 0
+}
