@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5146,
+  "changeIdentifier": 5147,
   "clippingMaskMode": 0,
   "do_objectID": "D9081B79-E64A-40B2-8C34-6EF9F272573C",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "75376AFF-EF03-4BB2-A2AD-37535BE8CD4A"
     }
   ],
-  "name": "Icon/Cross X no",
+  "name": "Icon/Cross X no close",
   "nameIsFixed": true,
   "originalObjectID": "B0C3B4B4-BADE-4C33-A034-E60AE291B5D2",
   "overrideProperties": [

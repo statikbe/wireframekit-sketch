@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1614,
+  "changeIdentifier": 1615,
   "clippingMaskMode": 0,
   "do_objectID": "B4C78AEE-34B5-486A-8086-BD116223B2BA",
   "exportOptions": {
@@ -61,7 +61,7 @@
       "id": "7E4ECDA2-0FF9-4E4B-8FC7-C2BAAF12BB56"
     }
   ],
-  "name": "Icon/Check/Check circle",
+  "name": "Icon/Check/Check okay yes circle",
   "nameIsFixed": true,
   "originalObjectID": "26D0334A-EE68-4813-9CDE-2A33997864A9",
   "overrideProperties": [

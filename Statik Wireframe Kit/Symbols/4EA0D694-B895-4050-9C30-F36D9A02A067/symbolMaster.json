@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5465,
+  "changeIdentifier": 5466,
   "clippingMaskMode": 0,
   "do_objectID": "4EA0D694-B895-4050-9C30-F36D9A02A067",
   "exportOptions": {
@@ -36,7 +36,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "82ACE92B-398D-4E92-BBF5-0D9C9957AAC4"
     }
   ],
-  "name": "Icon/Cancel no cross filled",
+  "name": "Icon/Cancel no cross filled close",
   "nameIsFixed": true,
   "originalObjectID": "B0C3B4B4-BADE-4C33-A034-E60AE291B5D2",
   "overrideProperties": [
