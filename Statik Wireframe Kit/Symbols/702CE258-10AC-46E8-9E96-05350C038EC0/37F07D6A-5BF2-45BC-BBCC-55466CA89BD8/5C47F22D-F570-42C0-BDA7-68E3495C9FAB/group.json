@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "224307BB-CEB9-42CF-875C-6E72B102F8D2",
     "height": 152,
-    "width": 580,
-    "x": 430,
+    "width": 780,
+    "x": 330,
     "y": 40
   },
   "groupLayout": {
@@ -51,7 +51,7 @@
   "name": "Member",
   "nameIsFixed": true,
   "originalObjectID": "9D67C899-50DC-4D15-911D-B75FB999D532",
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
