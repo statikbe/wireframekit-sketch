@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3608,
+  "changeIdentifier": 3621,
   "clippingMaskMode": 0,
   "do_objectID": "2DAE3C67-1DDD-4DF5-9485-CF9A382612CD",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,8 +53,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "5D912297-C91F-4039-8F0E-C2104701E441"
+      "class": "rectangle",
+      "id": "F035D644-85B3-4510-9E91-C0B47F6D9E6D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "804425F9-4774-4685-BFFB-4797ADB39F3F"
     }
   ],
   "name": "Icon/List/Plus add +",
