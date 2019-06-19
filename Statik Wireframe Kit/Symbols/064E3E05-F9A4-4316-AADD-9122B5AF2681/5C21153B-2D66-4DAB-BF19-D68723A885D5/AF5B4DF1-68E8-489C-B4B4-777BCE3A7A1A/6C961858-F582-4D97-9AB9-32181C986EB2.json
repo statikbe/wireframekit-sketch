@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C961858-F582-4D97-9AB9-32181C986EB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F9F0015-2385-4099-B8C9-427931BF8E83",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39FC7810-5BD3-4491-98FC-01F9E68BE53D",
+    "height": 40,
+    "width": 280,
+    "x": 0,
+    "y": 149
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Rounded/Secondary/Icon/Right",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0FC9661-D661-4028-AF3D-064818E7E2CC",
+      "overrideName": "881CF415-263F-46C7-B4C8-029064A091ED_stringValue",
+      "value": "Call to action"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A32F2E06-AF06-4CF9-B6D9-1981782B96DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "55F9C9F3-9295-434D-9BA9-8E9787ABD6F8",
+  "verticalSpacing": 0
+}
