@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 22,
     "width": 24,
     "x": 0,
-    "y": 0
+    "y": 1
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,12 +33,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "062232D2-AB35-4E74-9A01-0D6EE238E357"
-    },
-    {
       "class": "group",
-      "id": "1F20365B-B632-464D-8EFF-0DBC368485E8"
+      "id": "061F86DE-B93A-4917-8048-91971832056B"
     }
   ],
   "name": "Attachment",

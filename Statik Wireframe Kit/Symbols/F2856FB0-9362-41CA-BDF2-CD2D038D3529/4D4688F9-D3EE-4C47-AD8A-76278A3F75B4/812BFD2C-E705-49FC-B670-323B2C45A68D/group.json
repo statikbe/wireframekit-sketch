@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "812BFD2C-E705-49FC-B670-323B2C45A68D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA956793-D4BA-4043-A769-A8D9A6312124",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "17036E47-ADA6-4DFA-BCAA-18F62C452115",
+    "height": 56,
+    "width": 79,
+    "x": 351,
+    "y": 186
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9D7C0319-3DC3-43C2-86E6-1C4A8325D6C9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2174CF3B-DC8B-4597-B56E-E3E4427E53A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "C25AD327-23B3-43D2-9F0D-B4AC7BAED5AD"
+    }
+  ],
+  "name": "YouTube",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3926B0E4-9DCD-44A6-A211-27041105C15C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

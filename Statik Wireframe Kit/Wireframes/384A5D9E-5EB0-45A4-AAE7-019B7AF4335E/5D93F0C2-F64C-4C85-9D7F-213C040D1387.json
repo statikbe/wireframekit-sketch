@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D93F0C2-F64C-4C85-9D7F-213C040D1387",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 490,
+    "width": 780,
+    "x": 330,
+    "y": 1388
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "YouTube",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7BBA6440-F3B0-4FCB-8F5E-9E6439A9377C",
+      "overrideName": "32A15CD3-F074-4618-810A-DB3810063B73_stringValue",
+      "value": "Dit is een YouTube filmpje"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3A58A7D-64AB-407B-B949-04457BE6DDE5",
+      "overrideName": "C155211B-AC52-4ECB-8EAF-85507ECC5446/EB54CEC0-9F9D-4178-959B-62F850BFC5AE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2ac332a7f38eed5be00d3fa1f0ef18ad45876c22.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AEDBD46-DF45-4CE2-81DA-255C6A523062",
+      "overrideName": "1D23A923-3D45-40AE-8255-1BFCC315951A/DC7F9F5A-56A2-4276-AE63-AA382220720D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/34be3684b2ee8390e0c969f43307a86d8d97bb8d.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F5B0446C-9DA1-4803-9E3F-3C1D09B06E44",
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"youtube\""
+    }
+  },
+  "verticalSpacing": 0
+}

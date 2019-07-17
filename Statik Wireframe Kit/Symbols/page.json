@@ -977,6 +977,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "2785B98B-021F-4B07-B2C2-6DC6EA892F20"
+    },
+    {
+      "class": "symbolMaster",
       "id": "724440F1-1EC3-49FE-BDD5-BBEAA2BC2322"
     },
     {
@@ -1946,6 +1950,10 @@
     {
       "class": "symbolMaster",
       "id": "3698D566-BE0B-409D-8DD6-E334D166A02C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F2856FB0-9362-41CA-BDF2-CD2D038D3529"
     }
   ],
   "layout": {
