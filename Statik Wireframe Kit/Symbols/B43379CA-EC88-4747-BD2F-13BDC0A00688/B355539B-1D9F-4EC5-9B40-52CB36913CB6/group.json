@@ -54,6 +54,10 @@
     {
       "class": "group",
       "id": "0B5D8667-0912-496C-BF05-940C50115F66"
+    },
+    {
+      "class": "rectangle",
+      "id": "B6C07339-17AE-4094-B545-C930A8B59418"
     }
   ],
   "name": "Kalender",

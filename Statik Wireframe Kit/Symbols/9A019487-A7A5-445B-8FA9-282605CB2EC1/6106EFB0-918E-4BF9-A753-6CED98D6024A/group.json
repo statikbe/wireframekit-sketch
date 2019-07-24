@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 350,
+    "height": 482,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -39,10 +39,6 @@
     {
       "class": "group",
       "id": "798A2F8E-B921-40CE-85F9-B293282739E4"
-    },
-    {
-      "class": "group",
-      "id": "B9ECC6AF-0374-4127-9263-F6CFF7AD287D"
     }
   ],
   "name": "Component/Nav/Doormat/Variant 1",

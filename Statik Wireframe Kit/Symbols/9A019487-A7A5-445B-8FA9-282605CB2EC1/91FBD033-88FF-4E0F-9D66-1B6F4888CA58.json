@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "91FBD033-88FF-4E0F-9D66-1B6F4888CA58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "38BC5073-37C1-46E7-8644-8B78A695BFA9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2F096C7-E85B-44A3-8336-9FA1038C2C43",
+    "height": 129,
+    "width": 201,
+    "x": 129,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Placeholder/Logo",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22B75ABF-124E-4B23-A5C8-37431EB2C5F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6345D7F5-689D-4656-960D-60040644B041",
+  "verticalSpacing": 0
+}

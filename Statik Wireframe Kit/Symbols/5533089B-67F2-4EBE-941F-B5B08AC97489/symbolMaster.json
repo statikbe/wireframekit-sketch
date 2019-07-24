@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 10750,
+  "changeIdentifier": 10776,
   "clippingMaskMode": 0,
   "do_objectID": "5533089B-67F2-4EBE-941F-B5B08AC97489",
   "exportOptions": {
@@ -27,13 +27,13 @@
     "height": 414,
     "width": 1440,
     "x": 3000,
-    "y": 2299
+    "y": 2431
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -77,7 +77,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
-  "name": "Component/Nav/Doormat/Variant 2",
+  "name": "Component/Nav/Doormat/Centered",
   "nameIsFixed": true,
   "originalObjectID": "9A019487-A7A5-445B-8FA9-282605CB2EC1",
   "overrideProperties": [

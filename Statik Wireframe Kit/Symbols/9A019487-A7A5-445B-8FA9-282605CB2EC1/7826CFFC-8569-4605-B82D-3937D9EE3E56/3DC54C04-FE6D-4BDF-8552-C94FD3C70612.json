@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DC54C04-FE6D-4BDF-8552-C94FD3C70612",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C75AF989-89EC-434B-9F1D-37A960977DB8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D21BEE3B-BE66-4469-A478-08F302C52540",
+    "height": 27,
+    "width": 380,
+    "x": 0,
+    "y": 207
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Type/Link/Link Prev Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "0AF0EFA3-15B5-4491-9260-F20C9513E9B1",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A89A625F-D9E4-4737-92D9-1F0C9C11FDBB_stringValue",
+      "value": "charcot@seauton-international.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4CA830C-DAA4-44EA-BBEB-4E9D6E2872ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1E60C023-D8CF-4B40-858F-DF4434354A6A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

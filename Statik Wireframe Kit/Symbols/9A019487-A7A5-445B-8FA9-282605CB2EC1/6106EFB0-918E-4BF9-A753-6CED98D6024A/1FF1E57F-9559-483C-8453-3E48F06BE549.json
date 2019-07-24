@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 350,
+    "height": 482,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -36,7 +36,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
