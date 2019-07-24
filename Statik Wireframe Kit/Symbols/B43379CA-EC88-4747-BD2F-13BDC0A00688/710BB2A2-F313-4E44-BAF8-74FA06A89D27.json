@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "710BB2A2-F313-4E44-BAF8-74FA06A89D27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A06B65EE-EF09-4765-866F-3F4B96B96F00",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ADA06EA2-0FB7-411D-8848-83BB7539B6F0",
+    "height": 40,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form/Input/Datepicker/Placeholder",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF15FEE9-D594-401B-8DD4-C8106C9E2B0B",
+      "overrideName": "E995AB0C-3A4D-4CA1-B413-F1787117B600_stringValue",
+      "value": "12/08/2019"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5AC9CA20-11BE-4970-8781-4D42E6018752",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7FC84420-3EBB-4634-9E8F-FCC0BB6CA7AF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC1249BD-7875-47F5-A121-B8433C07B11D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D68CF3BF-2B17-4932-9111-13796EE4A967",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0A4FE3A-C09E-4438-9372-D2C10B827C4B",
+    "height": 247,
+    "width": 258,
+    "x": 11,
+    "y": 90
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "420D6074-1A0A-45B6-B599-973D64452182"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "398923F3-DD07-41CA-96B7-EA9B4F6137A4"
+    },
+    {
+      "class": "group",
+      "id": "10870742-0B47-4CF7-9BB5-8E74433A8D14"
+    },
+    {
+      "class": "group",
+      "id": "2BD33242-052A-43DF-86CE-BC8F6AFA4C98"
+    },
+    {
+      "class": "group",
+      "id": "61DD2CB2-7E77-41F8-ABBA-FD921329FF48"
+    },
+    {
+      "class": "group",
+      "id": "3BEBCAE9-8065-439F-960C-7B852F8EB8B1"
+    },
+    {
+      "class": "group",
+      "id": "02CC0B6E-A78D-475F-B475-65EB83E42C32"
+    },
+    {
+      "class": "group",
+      "id": "50F3C0EA-9ABE-4C57-AF64-2A53C6F1F96F"
+    }
+  ],
+  "name": "Group 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "073506D9-59A2-4FC2-BF9D-A8951C2063F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "02CC0B6E-A78D-475F-B475-65EB83E42C32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BC6F7CF-8570-47E8-8964-86775EC4AB99",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E9A51574-D201-401A-8B26-B436C5D97619",
+    "height": 26,
+    "width": 258,
+    "x": 0,
+    "y": 185
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "82BDF15D-261A-460B-9353-174991E231B7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CA29C050-6C77-4BEF-A1FE-7E9EB361E934"
+    },
+    {
+      "class": "text",
+      "id": "E7F7206D-44AC-46D4-828E-20AEC888EC4A"
+    },
+    {
+      "class": "text",
+      "id": "6C82713C-9AED-4564-8AF7-DD7CD1BD92E3"
+    },
+    {
+      "class": "text",
+      "id": "E2B3E148-22D9-47FC-95EF-D7A189BEA8CA"
+    },
+    {
+      "class": "text",
+      "id": "376D60E7-B718-475D-93E3-3D0FC3A9A1CA"
+    },
+    {
+      "class": "text",
+      "id": "D5F8D474-1B5E-49CB-ACA7-87352CDB174C"
+    },
+    {
+      "class": "text",
+      "id": "32C14879-382F-49AF-B1D0-B995DEE12127"
+    }
+  ],
+  "name": "Group Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79592627-F96A-4299-AC08-2E87FFD91BB3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

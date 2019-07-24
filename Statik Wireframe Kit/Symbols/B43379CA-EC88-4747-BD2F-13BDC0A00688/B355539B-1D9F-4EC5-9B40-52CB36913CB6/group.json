@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B355539B-1D9F-4EC5-9B40-52CB36913CB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BAAA9759-0842-4A38-8303-09E226DF4FB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84BFE154-F42A-49F1-AAAA-C1296835D11E",
+    "height": 353,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "35C3BF37-9CB5-4E67-9BBE-CED491577B1D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0C9F3608-623A-4D5D-98C2-08A2B4E0F1DF"
+    },
+    {
+      "class": "text",
+      "id": "9C46FE17-BC62-4FAA-9893-0DDD93288B48"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F4297F6-5CB0-49CB-8903-7E2B82E1374C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42C59D47-E400-4C19-A3D3-D4382B8F343A"
+    },
+    {
+      "class": "group",
+      "id": "0B5D8667-0912-496C-BF05-940C50115F66"
+    }
+  ],
+  "name": "Kalender",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DCEA67B3-EBAF-424B-81A8-7DC71FA91320",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
