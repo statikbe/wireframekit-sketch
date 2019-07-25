@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2792,
+  "changeIdentifier": 2872,
   "clippingMaskMode": 0,
   "do_objectID": "7C439B8C-759C-4BDC-A9EF-22CBA49CEC7D",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 40,
     "width": 200,
-    "x": 1240,
-    "y": 696
+    "x": -10800,
+    "y": -13050
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

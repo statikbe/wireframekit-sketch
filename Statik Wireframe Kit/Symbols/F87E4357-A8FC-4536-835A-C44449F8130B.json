@@ -28,11 +28,11 @@
             "baseWritingDirection": 0
           }
         },
-        "length": 28,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Atoms, molecules & organisms"
+    "string": "Color"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 94,
-    "width": 1114,
-    "x": -1194,
-    "y": -35
+    "width": 192,
+    "x": -11292,
+    "y": -12086
   },
-  "glyphBounds": "{{0, 14}, {1111, 77}}",
+  "glyphBounds": "{{3, 14}, {188, 61}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Atoms, molecules & o",
+  "name": "Color",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

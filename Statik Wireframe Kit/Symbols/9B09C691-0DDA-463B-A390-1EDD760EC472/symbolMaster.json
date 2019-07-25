@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 340,
+  "changeIdentifier": 509,
   "clippingMaskMode": 0,
   "do_objectID": "9B09C691-0DDA-463B-A390-1EDD760EC472",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 21,
     "width": 80,
-    "x": 1480,
-    "y": 3337
+    "x": -11020,
+    "y": 4510
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -57,7 +57,7 @@
       "id": "6E17495E-C896-4DA2-A051-DB98A73B4A7A"
     }
   ],
-  "name": "Component/Language navigation",
+  "name": "Component/Nav/Service/Language nav",
   "nameIsFixed": true,
   "overrideProperties": [
     {

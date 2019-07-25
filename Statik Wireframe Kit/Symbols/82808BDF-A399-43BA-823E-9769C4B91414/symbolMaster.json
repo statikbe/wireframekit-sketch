@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2165,
+  "changeIdentifier": 2245,
   "clippingMaskMode": 0,
   "do_objectID": "82808BDF-A399-43BA-823E-9769C4B91414",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 200,
-    "x": 1020,
-    "y": 696
+    "x": -11020,
+    "y": -13050
   },
   "grid": {
     "_class": "simpleGrid",

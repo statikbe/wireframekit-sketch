@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1829,
+  "changeIdentifier": 2001,
   "clippingMaskMode": 0,
   "do_objectID": "5BC962E2-17CB-4099-9284-12CBF26949EB",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 140,
     "width": 580,
-    "x": 2280,
-    "y": 2454
+    "x": -11020,
+    "y": 6012
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,7 +65,7 @@
       "id": "6C668CD4-438C-4449-A1F7-9DC74F97CB78"
     }
   ],
-  "name": "Component/Quote/Regular/Image + Quote + Author",
+  "name": "Component/Quote/Image + Quote + Author",
   "nameIsFixed": true,
   "originalObjectID": "5BC962E2-17CB-4099-9284-12CBF26949EB",
   "overrideProperties": [
