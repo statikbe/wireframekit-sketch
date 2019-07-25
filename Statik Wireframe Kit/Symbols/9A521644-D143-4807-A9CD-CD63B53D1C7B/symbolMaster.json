@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6D337808-9316-4576-9E5B-72F8E54B2FBF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1134,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A521644-D143-4807-A9CD-CD63B53D1C7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF6B4369-0E6A-4923-9694-DA2BA97FD08C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E7669F5-E08C-46BB-AE83-71778EE53497",
+    "height": 380,
+    "width": 380,
+    "x": 6636,
+    "y": 400
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "379CB31E-13FC-463A-8F6A-4F7082916321"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D9EDA409-D941-4E8E-8DB9-8CF33ACCEA97",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1DF4648B-4639-4962-B2A7-43B75AE3CE7D"
+    }
+  ],
+  "name": "Placeholder/Unsplash/Blue/Circle",
+  "nameIsFixed": true,
+  "originalObjectID": "2074A5D4-0AD8-4A74-924D-D3119B9DD3EA",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0861BBEC-49FA-4FC9-B253-90ED5B5FD2A7_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1ABF2DFA-1585-49E7-B4BD-AD24858C3F88_image"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C1FFBF2-51CD-425E-A6CE-8BFDD811CA4D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ACECD3D7-ED49-405E-BCDF-C001AF2C0838",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0767744C-214D-4F7E-9030-E0B8B62F6214",
+    "guides": [
+    ]
+  }
+}

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8876,
+  "changeIdentifier": 8877,
   "clippingMaskMode": 0,
   "do_objectID": "9A019487-A7A5-445B-8FA9-282605CB2EC1",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -80,7 +80,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
-  "name": "Component/Nav/Doormat/Variant 1",
+  "name": "Component/Nav/Doormat/Logo left",
   "nameIsFixed": true,
   "originalObjectID": "9A019487-A7A5-445B-8FA9-282605CB2EC1",
   "overrideProperties": [
