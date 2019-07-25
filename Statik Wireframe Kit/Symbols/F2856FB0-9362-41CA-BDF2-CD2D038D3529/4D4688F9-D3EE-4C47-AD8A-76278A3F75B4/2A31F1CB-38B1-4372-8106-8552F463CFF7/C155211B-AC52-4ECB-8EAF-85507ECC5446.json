@@ -31,6 +31,16 @@
   "name": "User thumbnail",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2713FD9-FCFA-4762-9A2D-9C68AA0E0839",
+      "overrideName": "BA537D91-3268-440E-8FFA-A616704399C3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f826de4217529ca4ea462c922f6a15be31b39b13.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -44,6 +54,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "712646AC-CE53-4299-A050-8988FBBC9E18",
+  "symbolID": "32B522D4-E5A0-4AC3-BA05-3C8A38F54354",
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"portrait\""
+    }
+  },
   "verticalSpacing": 0
 }

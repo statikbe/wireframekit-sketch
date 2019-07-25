@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F3F2A27-5E5E-443E-93C7-0270E6620395",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4A30592-4AAE-44D1-A732-61F00599CE75",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1FDA685B-A27C-43CA-A913-75B9073AD63E",
+    "height": 490,
+    "width": 780,
+    "x": 64,
+    "y": 64
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Placeholder/Unsplash/Blue/Square",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A571840-286C-4834-95BB-1F34F6FB0DE9",
+      "overrideName": "A9BB0FA7-75C4-4317-BEB8-9A11CF3B7FB7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1a1509e271b01da90ede772c37864d1e255e9710.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E92B8AFB-390D-43AF-B169-1447EB3E95E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 14,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "72E2FEA5-F8AD-48BF-8584-D9597DBE16A8",
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"landscape\""
+    }
+  },
+  "verticalSpacing": 0
+}

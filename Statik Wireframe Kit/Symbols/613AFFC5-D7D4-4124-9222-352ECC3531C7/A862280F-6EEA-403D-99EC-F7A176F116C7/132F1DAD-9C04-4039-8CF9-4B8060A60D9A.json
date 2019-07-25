@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "132F1DAD-9C04-4039-8CF9-4B8060A60D9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86F2032F-AC3F-4E4B-A0FF-32D734CA3372",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D06F8DD-1251-4A0C-8580-5A6E479F25EF",
+    "height": 27,
+    "width": 58,
+    "x": 532,
+    "y": 10
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Type/Link/Dark/Link Ext SML",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82B88EA9-7298-44B2-B9AF-15D4427B3338",
+      "overrideName": "FAF5DCFE-50F6-42D3-B2A9-50E1F84A7AB6_stringValue",
+      "value": "Sluiten"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "700F67F1-8312-432C-8A25-D9DBC8E41FEE",
+      "overrideName": "63B24929-3458-481A-82D0-888ADE1D61CE_symbolID",
+      "value": "1D993654-CF09-4E38-9113-82FED43B2C55"
+    }
+  ],
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9EE3F7B7-0944-485D-A53A-D0D19DD5017A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1A2BC88F-8A18-4444-AF7C-B2EB5B6645C2",
+  "verticalSpacing": 0
+}
