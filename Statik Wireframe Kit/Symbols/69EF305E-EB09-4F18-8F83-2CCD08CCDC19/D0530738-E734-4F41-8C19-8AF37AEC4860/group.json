@@ -96,5 +96,10 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"People\""
+    }
   }
 }

@@ -46,5 +46,10 @@
     "windingRule": 1
   },
   "symbolID": "ED542C99-3468-4553-9793-9B0CFD841D41",
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"People\""
+    }
+  },
   "verticalSpacing": 0
 }
