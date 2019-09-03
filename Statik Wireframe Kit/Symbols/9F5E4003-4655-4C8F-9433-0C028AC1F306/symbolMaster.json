@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1281,
+  "changeIdentifier": 1308,
   "clippingMaskMode": 0,
   "do_objectID": "9F5E4003-4655-4C8F-9433-0C028AC1F306",
   "exportOptions": {
@@ -58,7 +58,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "E39CD17D-4B2D-44B8-BAC8-77E57976F285"
+      "id": "85543C2B-ED0F-402A-B1A0-B562D0D63048"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "825F7871-5AFA-421C-9A2E-2A57F570C872"
     }
   ],
   "name": "Type/Link/Light/Link Ext",

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7843137255,
-            "green": 0.3921568627,
-            "red": 0.2392156863
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -41,10 +41,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "6726714C-8C8D-4642-BC66-A6D6687DE3AD",
+  "do_objectID": "624E9A0C-D86B-4F46-AEEA-BB0CDAE6A822",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "4CA859C7-82E7-45BE-91CB-D95AB5071BBF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -55,10 +56,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "8155F727-BBF3-40B4-AD49-22806933AC81",
     "height": 26,
     "width": 87,
     "x": 0,
-    "y": 0.8427734375
+    "y": 0.03703703703649808
   },
   "glyphBounds": "{{1, 5}, {86, 15}}",
   "hasClippingMask": false,
@@ -72,24 +74,26 @@
   "name": "Read more",
   "nameIsFixed": false,
   "originalObjectID": "6726714C-8C8D-4642-BC66-A6D6687DE3AD",
-  "resizingConstraint": 43,
+  "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "43671463-9BA4-4FEB-B521-2F18BF4C6D78",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "ECEC5282-C055-4495-8D61-9E2DC57ADBBA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7843137255,
-          "green": 0.3921568627,
-          "red": 0.2392156863
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -114,7 +118,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -1,11 +1,11 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E39CD17D-4B2D-44B8-BAC8-77E57976F285",
+  "do_objectID": "85543C2B-ED0F-402A-B1A0-B562D0D63048",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E48C6100-8BD5-4CF1-8976-DD124D4B69F7",
+    "do_objectID": "CA995A7B-0A41-4BE1-8A21-DB654C125D9D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,14 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BF8EDB36-8788-45BA-929F-998609755F83",
+    "do_objectID": "5B706E70-72A8-4EAD-90F0-55F7750826A3",
     "height": 27,
-    "width": 108,
+    "width": 87,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "02E83B36-4BB2-49E8-9718-A30620FAC50A"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,36 +33,25 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
-      "id": "89D7655C-4A07-4A3B-A207-C1F9C2708E1D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2846039E-2C30-4D87-A7EE-36B735B9D797"
+      "id": "624E9A0C-D86B-4F46-AEEA-BB0CDAE6A822"
     }
   ],
-  "name": "Type/Link/Link Ext",
-  "nameIsFixed": true,
-  "originalObjectID": "1A2E26D7-F413-434A-84EF-8027DBA51EEC",
-  "resizingConstraint": 63,
+  "name": "Read more 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FF2FF930-1F88-4AF0-9FAE-358C3638B1F6",
+    "do_objectID": "9A5BAD6E-A519-437A-94AE-7CE4E1D2E64F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }

@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 27,
-    "width": 769,
-    "x": 210,
-    "y": 2472
+    "height": 26,
+    "width": 355,
+    "x": 130,
+    "y": 2945
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,7 +35,7 @@
       "_class": "overrideValue",
       "do_objectID": "BC1BC796-3E11-4FF6-A782-A37C0C6091E6",
       "overrideName": "6726714C-8C8D-4642-BC66-A6D6687DE3AD_stringValue",
-      "value": "Read more"
+      "value": "efe wef wef we  wwwefwefw wefw w ef"
     }
   ],
   "resizingConstraint": 63,
