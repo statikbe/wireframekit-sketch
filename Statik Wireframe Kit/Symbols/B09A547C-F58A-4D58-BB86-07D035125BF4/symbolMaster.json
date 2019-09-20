@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2578,
+  "changeIdentifier": 2586,
   "clippingMaskMode": 0,
   "do_objectID": "B09A547C-F58A-4D58-BB86-07D035125BF4",
   "exportOptions": {
@@ -30,10 +30,12 @@
     "y": -4160
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,6 +59,7 @@
       "id": "05640F3F-EC68-4CF5-B3A1-199023216E0B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Component/CTA/Title + Meta + Intro + Button",
   "nameIsFixed": true,
   "originalObjectID": "B09A547C-F58A-4D58-BB86-07D035125BF4",
@@ -64,12 +67,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "574ECE1D-59F8-47E3-93EB-4706740773FB_stringValue"
+      "overrideName": "F20B02D0-2F46-49F7-8A1C-BFA9F6888594_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "76B56DFF-F353-4FF7-8E8D-ACFAE11252D3_symbolID"
+      "overrideName": "574ECE1D-59F8-47E3-93EB-4706740773FB_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -82,6 +85,8 @@
       "overrideName": "7286C5B8-2214-4F5C-9715-32F51A397A00_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,8 +94,46 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -110,6 +110,7 @@
       "id": "E860DDF2-9A72-4353-A769-F67E59233811"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Form/Input/Dropdown/Opened/5",
   "nameIsFixed": true,
   "originalObjectID": "01DBE3AA-0EE8-4092-A3FC-D2C7D81BF2B1",
@@ -210,6 +211,8 @@
       "overrideName": "E372D5CB-1BA5-4872-9566-DDDA97F9939F/83BA8015-5B7C-4CCD-A215-4F99B5E97E9A_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -217,9 +220,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "66B85498-D914-4A2A-ABFE-6CC53E290A88",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -76,18 +76,6 @@
     {
       "class": "symbolInstance",
       "id": "7C9EDDBB-A886-4BC3-A865-70F7B32C9436"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3F83C2C0-B104-4358-A9B3-9186F408983B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B7D54F5E-B6D9-41CD-9950-A9919D9FB336"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2CE23B6F-26D5-4B31-A851-1B87E863647B"
     }
   ],
   "layout": {
@@ -105,6 +93,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
+  "maintainScrollPosition": false,
   "name": "Desktop HD Copy 2",
   "nameIsFixed": false,
   "presetDictionary": {
@@ -121,8 +110,46 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

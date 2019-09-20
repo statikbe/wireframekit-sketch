@@ -66,6 +66,7 @@
       "id": "53C9BA22-61A3-41FD-B2F3-2C8262669FB6"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Component/Card/Vertical/Img + Title + Intro + Label + Link",
   "nameIsFixed": true,
   "originalObjectID": "6FDADDDB-6E1B-4BBB-B36C-50D7E53CA51A",
@@ -96,6 +97,8 @@
       "overrideName": "C78FE16F-4DCA-441C-B89E-B2FBC463B303_stringValue"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -103,9 +106,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "0ED7FD7E-591C-456A-A9D8-E75E19A7E75B",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

@@ -66,6 +66,7 @@
       "id": "9F9F0E52-C8B3-4146-BDC2-CF42B64C351A"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Form/Input/Datepicker/Expanded placeholder",
   "nameIsFixed": true,
   "originalObjectID": "4ACE6D35-F571-4C3C-8F2D-F237F8C681F2",
@@ -481,6 +482,8 @@
       "overrideName": "E8087CBF-2FA4-42DE-81D5-3C07B2466390_stringValue"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -488,9 +491,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "C91EE4E1-0A8C-47CE-9CE6-B1DB1A72D85B",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

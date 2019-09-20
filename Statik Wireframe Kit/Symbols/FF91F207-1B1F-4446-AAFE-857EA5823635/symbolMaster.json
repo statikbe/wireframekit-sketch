@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4274,
+  "changeIdentifier": 4276,
   "clippingMaskMode": 0,
   "do_objectID": "FF91F207-1B1F-4446-AAFE-857EA5823635",
   "exportOptions": {
@@ -30,10 +30,12 @@
     "y": -13566
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,15 +59,11 @@
       "id": "3BCBC53A-38FC-4C0A-B484-7B29D15A1AE9"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Button/Rounded/Primary/Icon/Left",
   "nameIsFixed": true,
   "originalObjectID": "5B741DF3-D9CD-42CC-A5E9-15F8B1B79E8D",
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2DAA66E9-CC50-4300-8F5E-20A1DF853174_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -92,6 +90,8 @@
       "overrideName": "FF7EF33A-5B63-4B4A-9504-88ACBA7EEC28_symbolID"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -99,8 +99,46 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

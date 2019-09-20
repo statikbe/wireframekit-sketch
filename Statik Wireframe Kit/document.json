@@ -11,7 +11,8 @@
           "blue": 1,
           "green": 1,
           "red": 1
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -21,7 +22,8 @@
           "blue": 0.9803921568627451,
           "green": 0.9411764705882352,
           "red": 0.9254901960784314
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -31,7 +33,8 @@
           "blue": 0.7843137383460999,
           "green": 0.3921568691730499,
           "red": 0.239215686917305
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -41,7 +44,8 @@
           "blue": 0.2352941176470588,
           "green": 0.2980392156862745,
           "red": 0.9058823529411765
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -51,7 +55,8 @@
           "blue": 0.5490196078431373,
           "green": 0.2823529411764706,
           "red": 0
-        }
+        },
+        "name": ""
       }
     ],
     "colors": [
@@ -91,6 +96,8 @@
         "red": 0
       }
     ],
+    "exportPresets": [
+    ],
     "gradientAssets": [
     ],
     "gradients": [
@@ -117,9 +124,9 @@
     ]
   },
   "meta": {
-    "appVersion": "57.1",
-    "build": 83088,
-    "version": 119
+    "appVersion": "58",
+    "build": 84663,
+    "version": 120
   },
   "pages": [
     "Wireframes",
