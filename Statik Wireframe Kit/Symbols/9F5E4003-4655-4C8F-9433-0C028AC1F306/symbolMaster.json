@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1308,
+  "changeIdentifier": 1311,
   "clippingMaskMode": 0,
   "do_objectID": "9F5E4003-4655-4C8F-9433-0C028AC1F306",
   "exportOptions": {
@@ -33,10 +33,12 @@
     "y": 18125
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -73,12 +75,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2846039E-2C30-4D87-A7EE-36B735B9D797_symbolID"
+      "overrideName": "624E9A0C-D86B-4F46-AEEA-BB0CDAE6A822_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "89D7655C-4A07-4A3B-A207-C1F9C2708E1D_stringValue"
+      "overrideName": "825F7871-5AFA-421C-9A2E-2A57F570C872_symbolID"
     }
   ],
   "presetDictionary": {

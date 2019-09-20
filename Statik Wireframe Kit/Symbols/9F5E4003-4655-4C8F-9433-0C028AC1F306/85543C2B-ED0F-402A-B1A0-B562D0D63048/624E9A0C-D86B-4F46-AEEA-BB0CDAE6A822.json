@@ -75,7 +75,7 @@
   "name": "Read more",
   "nameIsFixed": false,
   "originalObjectID": "6726714C-8C8D-4642-BC66-A6D6687DE3AD",
-  "resizingConstraint": 27,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -157,7 +157,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

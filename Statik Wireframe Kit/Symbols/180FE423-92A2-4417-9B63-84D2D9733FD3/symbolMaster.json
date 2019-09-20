@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 357,
+  "changeIdentifier": 358,
   "clippingMaskMode": 0,
   "do_objectID": "180FE423-92A2-4417-9B63-84D2D9733FD3",
   "exportOptions": {
@@ -33,7 +33,9 @@
     "y": 19988
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,

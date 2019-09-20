@@ -25,9 +25,7 @@
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "baseWritingDirection": 0,
-            "maximumLineHeight": 26,
-            "minimumLineHeight": 26
+            "baseWritingDirection": 0
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
@@ -55,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
-    "width": 114,
-    "x": 3,
-    "y": 3
+    "height": 21,
+    "width": 45,
+    "x": 10.5,
+    "y": 6
   },
-  "glyphBounds": "{{36, 5}, {42, 15}}",
+  "glyphBounds": "{{1, 3}, {42, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,7 +71,7 @@
   "name": "Label",
   "nameIsFixed": false,
   "originalObjectID": "A8E38EB2-767A-4C56-A609-5F32948C3FAC",
-  "resizingConstraint": 27,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -142,9 +140,7 @@
           "_class": "paragraphStyle",
           "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "baseWritingDirection": 0,
-          "maximumLineHeight": 26,
-          "minimumLineHeight": 26
+          "baseWritingDirection": 0
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0
@@ -153,7 +149,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
