@@ -34,6 +34,16 @@
   "name": "Placeholder/Image/Square Copy 4",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9791C984-C1A5-471E-BD9A-2A473F661D2E",
+      "overrideName": "A9BB0FA7-75C4-4317-BEB8-9A11CF3B7FB7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/38d809c910fd442ce7b04849d9c0fc15fad901d6.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -86,6 +96,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "ED542C99-3468-4553-9793-9B0CFD841D41",
+  "symbolID": "72E2FEA5-F8AD-48BF-8584-D9597DBE16A8",
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"product\""
+    }
+  },
   "verticalSpacing": 0
 }

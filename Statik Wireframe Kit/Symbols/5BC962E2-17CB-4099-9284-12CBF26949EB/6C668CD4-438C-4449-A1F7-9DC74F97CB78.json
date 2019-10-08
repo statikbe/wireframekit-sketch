@@ -32,6 +32,16 @@
   "name": "Placeholder/Portrait/Circle",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "784B4E2C-DBE1-44F1-8FD1-70F2B4E0ACC9",
+      "overrideName": "1ABF2DFA-1585-49E7-B4BD-AD24858C3F88_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0fb08e19469467e46ec86aee88dd2a5b40e64db5.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -83,6 +93,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "712646AC-CE53-4299-A050-8988FBBC9E18",
+  "symbolID": "ACECD3D7-ED49-405E-BCDF-C001AF2C0838",
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"portrait\""
+    }
+  },
   "verticalSpacing": 0
 }
