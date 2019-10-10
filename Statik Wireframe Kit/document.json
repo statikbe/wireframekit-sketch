@@ -8,33 +8,44 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "name": ""
-      },
-      {
-        "_class": "MSImmutableColorAsset",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.9803921568627451,
-          "green": 0.9411764705882352,
-          "red": 0.9254901960784314
-        },
-        "name": ""
-      },
-      {
-        "_class": "MSImmutableColorAsset",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
           "blue": 0.7843137383460999,
           "green": 0.3921568691730499,
           "red": 0.239215686917305
         },
-        "name": ""
+        "name": "Primary"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4431372549019608,
+          "green": 0.8,
+          "red": 0.1803921568627451
+        },
+        "name": "Functional: success"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8588235294117647,
+          "green": 0.5960784313725489,
+          "red": 0.2039215686274511
+        },
+        "name": "Functional: info"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1529411764705882,
+          "green": 0.792156862745098,
+          "red": 0.9490196078431372
+        },
+        "name": "Functional: warning"
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -45,41 +56,70 @@
           "green": 0.2980392156862745,
           "red": 0.9058823529411765
         },
-        "name": ""
+        "name": "Functional: danger"
       },
       {
         "_class": "MSImmutableColorAsset",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5490196078431373,
-          "green": 0.2823529411764706,
-          "red": 0
+          "blue": 0.6500608153546332,
+          "green": 0.3925583964646465,
+          "red": 1
         },
-        "name": ""
+        "name": "Note"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "name": "Transparent (0%)"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "name": "White"
       }
     ],
     "colors": [
       {
         "_class": "color",
         "alpha": 1,
-        "blue": 1,
-        "green": 1,
-        "red": 1
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
-        "blue": 0.9803921568627451,
-        "green": 0.9411764705882352,
-        "red": 0.9254901960784314
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
         "blue": 0.7843137383460999,
         "green": 0.3921568691730499,
         "red": 0.239215686917305
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4431372549019608,
+        "green": 0.8,
+        "red": 0.1803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8588235294117647,
+        "green": 0.5960784313725489,
+        "red": 0.2039215686274511
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1529411764705882,
+        "green": 0.792156862745098,
+        "red": 0.9490196078431372
       },
       {
         "_class": "color",
@@ -91,9 +131,23 @@
       {
         "_class": "color",
         "alpha": 1,
-        "blue": 0.5490196078431373,
-        "green": 0.2823529411764706,
-        "red": 0
+        "blue": 0.6500608153546332,
+        "green": 0.3925583964646465,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 0,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
       }
     ],
     "exportPresets": [
