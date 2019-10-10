@@ -33,8 +33,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "6D7174B5-82BF-433F-B853-7065E85E0401"
+      "class": "shapeGroup",
+      "id": "0BDA6146-458D-4EC7-B4C6-B6DAB4FCF3FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA3932DD-8429-42D4-807C-FA1064CDC065"
     },
     {
       "class": "text",

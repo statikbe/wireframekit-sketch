@@ -4,12 +4,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.7843137383460999,
+    "green": 0.3921568691730499,
+    "red": 0.239215686917305
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2987,
+  "changeIdentifier": 3013,
   "clippingMaskMode": 0,
   "do_objectID": "1A3A6D97-F657-4760-8041-003E5B4D7A56",
   "exportOptions": {
@@ -32,10 +32,10 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 2
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -43,7 +43,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,

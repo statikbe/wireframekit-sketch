@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.7843137255,
+            "green": 0.3921568627,
+            "red": 0.2392156863
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -19,6 +19,13 @@
               "name": "Roboto-Bold",
               "size": 16
             }
+          },
+          "MSAttributedStringStrokeColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 1,
@@ -30,24 +37,22 @@
             "maximumLineHeight": 16,
             "minimumLineHeight": 16
           },
-          "strokeColor": {
-            "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NGMCAwIDAAEAKAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltiaWttcn2GjpGarK+0AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALY="
-          },
           "strokeWidth": 0
         },
-        "length": 12,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Ghost button"
+    "string": "Call to action"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "8A2B42F2-8D13-47BB-B262-450717116FBC",
+  "do_objectID": "2DA8129A-D40C-41DF-9523-5E362A7F8455",
   "dontSynchroniseWithSymbol": true,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A89C0DB5-0B3F-45C9-835D-9AFAFF181BE1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -58,12 +63,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "84AE5D8B-6DF2-463A-B760-061478C8E735",
     "height": 16,
-    "width": 132,
-    "x": 34.00000000000006,
+    "width": 139,
+    "x": 19.5,
     "y": 13
   },
-  "glyphBounds": "{{0, 1}, {130, 13}}",
+  "glyphBounds": "{{0, 1}, {137, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,14 +79,14 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Ghost button",
+  "name": "Call to action",
   "nameIsFixed": false,
-  "originalObjectID": "A744CB90-7093-4A30-8C54-8D02E81578FC",
+  "originalObjectID": "9A0B6937-9088-40A4-B7DC-E50EA863080B",
   "resizingConstraint": 42,
   "resizingType": 2,
   "rotation": 0,
   "sharedStyleID": "12D83D93-5E28-4D29-B9A4-355AFD500BD5",
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -115,6 +121,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "84C7931E-BACB-4A6D-B270-2B4392FB1E0E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -126,13 +133,14 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "E04D9F6C-998F-4C95-9365-7DCA93DB009C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.7843137255,
+          "green": 0.3921568627,
+          "red": 0.2392156863
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -140,6 +148,13 @@
             "name": "Roboto-Bold",
             "size": 16
           }
+        },
+        "MSAttributedStringStrokeColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 1,
@@ -150,9 +165,6 @@
           "baseWritingDirection": 0,
           "maximumLineHeight": 16,
           "minimumLineHeight": 16
-        },
-        "strokeColor": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NGMCAwIDAAEAKAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltiaWttcn2GjpGarK+0AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALY="
         },
         "strokeWidth": 0
       },

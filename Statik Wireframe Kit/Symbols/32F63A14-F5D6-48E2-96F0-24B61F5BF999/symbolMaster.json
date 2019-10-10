@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2753,
+  "changeIdentifier": 2809,
   "clippingMaskMode": 0,
   "do_objectID": "32F63A14-F5D6-48E2-96F0-24B61F5BF999",
   "exportOptions": {
@@ -32,10 +32,10 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 2
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,8 +55,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "0DB57DF7-BE0A-43EE-A27C-521DF00EF7F1"
+      "class": "shapeGroup",
+      "id": "BA415EFB-94D5-4217-ABC3-778E75EAEB16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96A0835F-1B95-467C-BE1D-F862394ADD8E"
+    },
+    {
+      "class": "text",
+      "id": "9A0B6937-9088-40A4-B7DC-E50EA863080B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FDC71103-E91D-4FDB-819B-409AB8AD4C2E"
     }
   ],
   "maintainScrollPosition": false,
@@ -92,7 +104,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

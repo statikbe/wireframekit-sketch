@@ -20,6 +20,13 @@
               "size": 16
             }
           },
+          "MSAttributedStringStrokeColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
           "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 1,
           "paragraphStyle": {
@@ -30,16 +37,13 @@
             "maximumLineHeight": 16,
             "minimumLineHeight": 16
           },
-          "strokeColor": {
-            "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NGMCAwIDAAEAKAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltiaWttcn2GjpGarK+0AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALY="
-          },
           "strokeWidth": 0
         },
-        "length": 16,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Secondary button"
+    "string": "Call to action"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -59,11 +63,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 176,
-    "x": 11.9999999999999,
+    "width": 139,
+    "x": 30,
     "y": 13
   },
-  "glyphBounds": "{{0, 1}, {174, 13}}",
+  "glyphBounds": "{{0, 1}, {137, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,7 +77,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Secondary button",
+  "name": "Call to action",
   "nameIsFixed": false,
   "originalObjectID": "388B25C4-165E-45EC-AB04-1185A4D10BD7",
   "resizingConstraint": 42,
@@ -141,6 +145,13 @@
             "size": 16
           }
         },
+        "MSAttributedStringStrokeColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
         "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 1,
         "paragraphStyle": {
@@ -150,9 +161,6 @@
           "baseWritingDirection": 0,
           "maximumLineHeight": 16,
           "minimumLineHeight": 16
-        },
-        "strokeColor": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NGMCAwIDAAEAKAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltiaWttcn2GjpGarK+0AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALY="
         },
         "strokeWidth": 0
       },

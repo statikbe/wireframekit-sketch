@@ -20,6 +20,13 @@
               "size": 16
             }
           },
+          "MSAttributedStringStrokeColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
           "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 1,
           "paragraphStyle": {
@@ -30,16 +37,13 @@
             "maximumLineHeight": 16,
             "minimumLineHeight": 16
           },
-          "strokeColor": {
-            "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NGMCAwIDAAEAKAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltiaWttcn2GjpGarK+0AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALY="
-          },
           "strokeWidth": 0
         },
-        "length": 11,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Icon Button"
+    "string": "Call to action"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -61,11 +65,11 @@
     "constrainProportions": false,
     "do_objectID": "5FAFFA20-39AC-4A20-A1C9-F66F37B2467A",
     "height": 16,
-    "width": 145,
-    "x": 15,
+    "width": 139,
+    "x": 19.5,
     "y": 13
   },
-  "glyphBounds": "{{16, 1}, {113, 13}}",
+  "glyphBounds": "{{0, 1}, {137, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +79,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Icon Button",
+  "name": "Call to action",
   "nameIsFixed": false,
   "originalObjectID": "A5FD8FA9-5DC2-46F2-A9B4-AE9E544F3B8E",
   "resizingConstraint": 42,
@@ -145,6 +149,13 @@
             "size": 16
           }
         },
+        "MSAttributedStringStrokeColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
         "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 1,
         "paragraphStyle": {
@@ -155,16 +166,13 @@
           "maximumLineHeight": 16,
           "minimumLineHeight": 16
         },
-        "strokeColor": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NGMCAwIDAAEAKAAtIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FITltiaWttcn2GjpGarK+0AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALY="
-        },
         "strokeWidth": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

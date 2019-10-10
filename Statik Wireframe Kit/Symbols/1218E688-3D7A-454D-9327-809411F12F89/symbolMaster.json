@@ -4,12 +4,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.7843137383460999,
+    "green": 0.3921568691730499,
+    "red": 0.239215686917305
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2269,
+  "changeIdentifier": 2301,
   "clippingMaskMode": 0,
   "do_objectID": "1218E688-3D7A-454D-9327-809411F12F89",
   "exportOptions": {
@@ -34,7 +34,7 @@
     "axis": 0,
     "layoutAnchor": 0
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -43,7 +43,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -55,8 +55,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "57EDC4E8-B885-4FA0-9592-27332C87AB21"
+      "class": "shapeGroup",
+      "id": "A89BE6BE-94E7-4882-B110-EA077CE7B754"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE58BEEE-E07A-440A-817E-0E850E78AADA"
+    },
+    {
+      "class": "text",
+      "id": "8A2B42F2-8D13-47BB-B262-450717116FBC"
     }
   ],
   "maintainScrollPosition": false,
