@@ -1,0 +1,147 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "00F0F586-8413-4287-B0E4-0F81A60CC8CD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1155,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB4E5A62-9075-4C69-9C82-C4A96473F7CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "408B558B-80AD-41F2-8015-9C69A5008696",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2A1BDE8-21B4-48CF-B48C-54DC3EE2335E",
+    "height": 24,
+    "width": 24,
+    "x": -10756,
+    "y": 14001
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CBFC5894-A3D8-4A25-93D6-42086028AAA1"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "71D92DAC-776B-4989-98B5-2EF96C220373",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CD201748-3B13-4C87-8C60-34295F78874E"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Icon/Running sports person",
+  "nameIsFixed": true,
+  "originalObjectID": "7F757212-FBAF-4D71-BB74-55EDC1D9F85C",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C74B685E-445B-4E35-8C70-4B8D29E455B3_symbolID"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A2DFA384-D248-419F-9995-79C5184854E4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "25EA9CBD-D4CA-4A96-BBDE-0D5E5F4468F0",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "033EAEAD-96E4-4450-80B2-172BDACA7FD4",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5B6EBC72-1857-4531-A583-7B3DD4818A4D",
+      "opacity": 1
+    },
+    "do_objectID": "4082D53E-61D4-4AA9-9FEF-671403B0CE7C",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9536AB97-EEFE-4D0A-8756-9B64B1916864",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9748294A-C59F-4FAC-9EDE-7F9165CD90A7",
+    "guides": [
+    ]
+  }
+}
