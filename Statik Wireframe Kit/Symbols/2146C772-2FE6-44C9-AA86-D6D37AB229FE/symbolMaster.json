@@ -4,12 +4,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.5490196078431373,
-    "green": 0.2823529411764706,
-    "red": 0
+    "blue": 0.1990772192028986,
+    "green": 0.1990772192028986,
+    "red": 0.1990772192028986
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3346,
+  "changeIdentifier": 3347,
   "clippingMaskMode": 0,
   "do_objectID": "2146C772-2FE6-44C9-AA86-D6D37AB229FE",
   "exportOptions": {

@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 9581,
+  "changeIdentifier": 9672,
   "clippingMaskMode": 0,
   "do_objectID": "5162579F-B290-48F7-9AB9-322B6ABE1B10",
   "exportOptions": {
@@ -74,8 +74,8 @@
       "id": "852D1F62-C7BC-451E-B24B-2573E2F3B314"
     },
     {
-      "class": "rectangle",
-      "id": "857C6D65-1DDB-4BC1-BC09-6744D6755384"
+      "class": "symbolInstance",
+      "id": "086E512C-1A91-48A8-99DF-E17FB4097E9E"
     },
     {
       "class": "text",

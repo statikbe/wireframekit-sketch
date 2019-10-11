@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1886,
+  "changeIdentifier": 1891,
   "clippingMaskMode": 0,
   "do_objectID": "B1A66975-4E1E-4951-8B45-9EA82FA8FD87",
   "exportOptions": {
@@ -71,10 +71,15 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "_dontuse/Placeholder/Image/Empty",
+  "name": "zzz/Don't Use/Placeholder/Image/Empty",
   "nameIsFixed": true,
   "originalObjectID": "E07D834F-15D0-476C-8494-9A0C3EA51512",
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F582D2AB-F8E2-4212-A9D2-4B0DA13F50E0_image"
+    }
   ],
   "presetDictionary": {
   },

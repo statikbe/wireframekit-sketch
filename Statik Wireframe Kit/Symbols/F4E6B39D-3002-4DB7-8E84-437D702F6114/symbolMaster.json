@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 551,
+  "changeIdentifier": 557,
   "clippingMaskMode": 0,
   "do_objectID": "F4E6B39D-3002-4DB7-8E84-437D702F6114",
   "exportOptions": {
@@ -58,7 +58,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Color/Functional/Danger",
+  "name": "Color/4. Functional/Danger",
   "nameIsFixed": true,
   "originalObjectID": "F4E6B39D-3002-4DB7-8E84-437D702F6114",
   "overrideProperties": [

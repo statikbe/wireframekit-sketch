@@ -20,7 +20,7 @@
     "constrainProportions": false,
     "do_objectID": "4F1175CA-B983-4BAC-B4A5-3657141212F9",
     "height": 36,
-    "width": 36.9037858172961,
+    "width": 35.99999999999974,
     "x": 2.000000000000062,
     "y": 2
   },
@@ -58,7 +58,7 @@
       "curveTo": "{1, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 0}"
+      "point": "{1.0000000000000075, 0}"
     },
     {
       "_class": "curvePoint",
@@ -68,7 +68,7 @@
       "curveTo": "{1, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 1}"
+      "point": "{1.0000000000000075, 1}"
     },
     {
       "_class": "curvePoint",
@@ -177,9 +177,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7843137254901961,
-          "green": 0.392156862745098,
-          "red": 0.2392156862745098
+          "blue": 0.1990772192028986,
+          "green": 0.1990772192028986,
+          "red": 0.1990772192028986
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

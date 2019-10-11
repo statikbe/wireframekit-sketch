@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1847,
+  "changeIdentifier": 1852,
   "clippingMaskMode": 0,
   "do_objectID": "0D83D1A4-3CCD-4888-BEF3-56785428A363",
   "exportOptions": {
@@ -71,10 +71,15 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "_dontuse/Placeholder/Image/Instagram",
+  "name": "zzz/Don't Use/Placeholder/Image/Instagram",
   "nameIsFixed": true,
   "originalObjectID": "E07D834F-15D0-476C-8494-9A0C3EA51512",
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B2FE84E0-6FA8-4405-9112-A99E8C9479E1_image"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

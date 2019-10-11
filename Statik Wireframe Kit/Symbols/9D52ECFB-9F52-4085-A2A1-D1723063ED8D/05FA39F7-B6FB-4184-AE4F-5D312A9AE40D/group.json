@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "22A7B907-231D-46C0-B060-6E379C9F31C4",
-    "height": 229,
+    "height": 228,
     "width": 380,
     "x": 930,
     "y": 122
@@ -35,8 +35,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "924F7C34-A815-49D3-8002-639D5B0DFFC9"
+      "class": "symbolInstance",
+      "id": "2422184B-D913-49A3-9058-C4133E08DB33"
     },
     {
       "class": "text",

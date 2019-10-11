@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 399,
+  "changeIdentifier": 402,
   "clippingMaskMode": 0,
   "do_objectID": "063682EA-8CE7-43DC-97A7-E6C74B530424",
   "exportOptions": {
@@ -58,7 +58,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Color/Functional/Success",
+  "name": "Color/4. Functional/Success",
   "nameIsFixed": true,
   "originalObjectID": "063682EA-8CE7-43DC-97A7-E6C74B530424",
   "overrideProperties": [

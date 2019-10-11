@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1245,
+  "changeIdentifier": 1281,
   "clippingMaskMode": 0,
   "do_objectID": "8C94AC66-4FE9-45B9-8938-BE347166F950",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 64,
     "width": 64,
     "x": -10936,
-    "y": -12002
+    "y": -11918
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -62,7 +62,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Color/Secondary/Tint/75%",
+  "name": "Color/3. Secondary/Tint/75%",
   "nameIsFixed": true,
   "originalObjectID": "1802BB9A-A7F0-4192-BE47-43467E587503",
   "overrideProperties": [

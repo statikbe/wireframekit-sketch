@@ -4,12 +4,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.5490196078431373,
-    "green": 0.2823529411764706,
-    "red": 0
+    "blue": 0.1990772192028986,
+    "green": 0.1990772192028986,
+    "red": 0.1990772192028986
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2837,
+  "changeIdentifier": 2842,
   "clippingMaskMode": 0,
   "do_objectID": "620699FA-9BAC-49AB-9B8F-583FBD738C35",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 200,
+    "width": 180,
     "x": -10360,
     "y": -13110
   },
@@ -35,7 +35,7 @@
     "layoutAnchor": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

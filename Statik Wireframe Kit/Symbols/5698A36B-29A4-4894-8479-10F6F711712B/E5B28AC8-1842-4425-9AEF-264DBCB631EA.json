@@ -32,6 +32,12 @@
   "name": "Icon/Lightswitch/On",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "320CE138-F598-40D2-92AA-83425B7FF22A",
+      "overrideName": "A07AE947-F3A2-4BD5-A814-DF2335CB534E_symbolID",
+      "value": "61A5F2D8-6BCF-4964-B48A-C9E0EDA371B3"
+    }
   ],
   "resizingConstraint": 41,
   "resizingType": 0,
