@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1709,
+  "changeIdentifier": 1983,
   "clippingMaskMode": 0,
   "do_objectID": "293AF473-3BA6-4D63-8BAE-466FC0BB54F2",
   "exportOptions": {
@@ -45,7 +45,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -71,7 +71,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "_dontuse/Placeholder/Image/Icon",
+  "name": "zzz/Don't Use/Placeholder/Image/Icon",
   "nameIsFixed": true,
   "originalObjectID": "E07D834F-15D0-476C-8494-9A0C3EA51512",
   "overrideProperties": [
@@ -79,6 +79,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "87A8DC07-B4EE-4914-BF7C-64B1DB0C11B1_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "197CCF2A-8C43-47DC-9489-A171D96E71C6_image"
     }
   ],
   "presetDictionary": {

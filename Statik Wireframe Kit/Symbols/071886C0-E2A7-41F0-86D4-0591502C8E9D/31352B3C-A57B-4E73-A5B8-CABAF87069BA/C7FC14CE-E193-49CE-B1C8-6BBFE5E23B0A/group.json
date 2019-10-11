@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2763650A-CA7E-406D-A3B4-579CE7976980",
-    "height": 197,
+    "height": 190,
     "width": 320,
     "x": 30,
     "y": 473
@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -41,10 +41,6 @@
     {
       "class": "text",
       "id": "17841C8E-CB79-40CC-A77C-88101FD484E9"
-    },
-    {
-      "class": "group",
-      "id": "C170FBC1-C9F4-4816-A7F1-06F71EBA86D9"
     },
     {
       "class": "text",

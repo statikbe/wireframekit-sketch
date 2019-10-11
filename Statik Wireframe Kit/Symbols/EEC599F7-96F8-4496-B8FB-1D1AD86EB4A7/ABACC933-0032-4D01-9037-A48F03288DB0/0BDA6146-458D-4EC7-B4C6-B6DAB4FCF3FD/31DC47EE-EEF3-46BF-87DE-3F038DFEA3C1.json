@@ -18,7 +18,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 196,
+    "width": 176,
     "x": 2.00000000000006,
     "y": 2
   },
@@ -174,9 +174,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7843137254901961,
-          "green": 0.392156862745098,
-          "red": 0.2392156862745098
+          "blue": 0.1990772192028986,
+          "green": 0.1990772192028986,
+          "red": 0.1990772192028986
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

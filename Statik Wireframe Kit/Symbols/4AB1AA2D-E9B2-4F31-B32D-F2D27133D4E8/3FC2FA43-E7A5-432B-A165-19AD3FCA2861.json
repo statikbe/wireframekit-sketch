@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 101,
+    "width": 109,
     "x": 0,
     "y": 37
   },
@@ -36,7 +36,7 @@
       "_class": "overrideValue",
       "do_objectID": "A098B374-D3EB-4191-95E1-DD338B541F5C",
       "overrideName": "8393815A-E051-4721-AB12-45E72C2EDFD0_stringValue",
-      "value": "upload"
+      "value": "Upload"
     }
   ],
   "resizingConstraint": 9,

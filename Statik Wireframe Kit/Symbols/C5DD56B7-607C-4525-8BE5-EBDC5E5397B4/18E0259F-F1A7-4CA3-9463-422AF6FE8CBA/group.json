@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "09A23CE2-31DE-460C-819B-6A5240790607",
-    "height": 290,
+    "height": 289,
     "width": 380,
     "x": 130,
-    "y": 392
+    "y": 393
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -35,8 +35,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "CC427F45-27F4-4077-9F26-7B0AE32FF7DA"
+      "class": "symbolInstance",
+      "id": "3EC8EF68-7E03-43AF-9600-9584A3401B22"
     },
     {
       "class": "text",

@@ -73,7 +73,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.25
     },
     "do_objectID": "420B4023-DC1E-443F-ABB6-34C76CB99E3D",
     "endMarkerType": 0,

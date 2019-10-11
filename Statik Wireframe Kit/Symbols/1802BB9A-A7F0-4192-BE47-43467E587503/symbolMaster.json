@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1130,
+  "changeIdentifier": 1143,
   "clippingMaskMode": 0,
   "do_objectID": "1802BB9A-A7F0-4192-BE47-43467E587503",
   "exportOptions": {
@@ -62,7 +62,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Color/Primary/Tint/75%",
+  "name": "Color/1. Gray/Tint/75%",
   "nameIsFixed": true,
   "originalObjectID": "1802BB9A-A7F0-4192-BE47-43467E587503",
   "overrideProperties": [

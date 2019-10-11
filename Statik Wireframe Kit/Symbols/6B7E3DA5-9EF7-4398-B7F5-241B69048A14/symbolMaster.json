@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 579,
+  "changeIdentifier": 583,
   "clippingMaskMode": 0,
   "do_objectID": "6B7E3DA5-9EF7-4398-B7F5-241B69048A14",
   "exportOptions": {
@@ -58,7 +58,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Color/Functional/White",
+  "name": "Color/4. Functional/White",
   "nameIsFixed": true,
   "originalObjectID": "6B7E3DA5-9EF7-4398-B7F5-241B69048A14",
   "overrideProperties": [

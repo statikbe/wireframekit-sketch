@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1663,
+  "changeIdentifier": 1708,
   "clippingMaskMode": 0,
   "do_objectID": "686C5C85-5839-48E2-84E2-38D330BF0B73",
   "exportOptions": {
@@ -42,7 +42,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -71,7 +71,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "_dontuse/Placeholder/Image/Square",
+  "name": "zzz/Don't Use/Placeholder/Image/Square",
   "nameIsFixed": true,
   "originalObjectID": "4C07D6F4-A2AE-4E1D-87C1-DECEAB5CEE8D",
   "overrideProperties": [

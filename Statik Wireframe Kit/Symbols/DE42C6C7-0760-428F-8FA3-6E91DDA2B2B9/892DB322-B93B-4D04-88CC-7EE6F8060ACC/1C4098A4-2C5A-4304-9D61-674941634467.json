@@ -71,7 +71,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.25
     },
     "endMarkerType": 0,
     "fills": [

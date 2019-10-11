@@ -8,11 +8,44 @@
         "color": {
           "_class": "color",
           "alpha": 1,
+          "blue": 0.1990772192028986,
+          "green": 0.1990772192028986,
+          "red": 0.1990772192028986
+        },
+        "name": "Text"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
           "blue": 0.7843137383460999,
           "green": 0.3921568691730499,
           "red": 0.239215686917305
         },
         "name": "Primary"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4852961787471065,
+          "green": 0.4852961787471065,
+          "red": 0.9622395833333334
+        },
+        "name": "Secondary"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "name": "White"
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -79,26 +112,36 @@
           "red": 1
         },
         "name": "Transparent (0%)"
-      },
-      {
-        "_class": "MSImmutableColorAsset",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "name": "White"
       }
     ],
     "colors": [
       {
         "_class": "color",
         "alpha": 1,
+        "blue": 0.1990772192028986,
+        "green": 0.1990772192028986,
+        "red": 0.1990772192028986
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
         "blue": 0.7843137383460999,
         "green": 0.3921568691730499,
         "red": 0.239215686917305
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4852961787471065,
+        "green": 0.4852961787471065,
+        "red": 0.9622395833333334
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
       },
       {
         "_class": "color",
@@ -138,13 +181,6 @@
       {
         "_class": "color",
         "alpha": 0,
-        "blue": 1,
-        "green": 1,
-        "red": 1
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
         "blue": 1,
         "green": 1,
         "red": 1

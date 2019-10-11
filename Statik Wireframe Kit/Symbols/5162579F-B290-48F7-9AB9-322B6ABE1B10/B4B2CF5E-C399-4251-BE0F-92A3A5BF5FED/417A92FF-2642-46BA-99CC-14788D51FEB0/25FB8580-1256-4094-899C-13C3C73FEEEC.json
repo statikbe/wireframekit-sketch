@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7843137255,
-            "green": 0.3921568627,
-            "red": 0.2392156863
+            "blue": 0.1990772192028986,
+            "green": 0.1990772192028986,
+            "red": 0.1990772192028986
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -56,11 +56,11 @@
     "constrainProportions": false,
     "do_objectID": "A06D4F6B-A8F0-41AB-8FE7-D39D7E143FA8",
     "height": 30,
-    "width": 64,
+    "width": 63,
     "x": 0,
     "y": 40
   },
-  "glyphBounds": "{{0, 0}, {63, 22}}",
+  "glyphBounds": "{{1, 8}, {62, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -178,9 +178,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7843137255,
-          "green": 0.3921568627,
-          "red": 0.2392156863
+          "blue": 0.1990772192028986,
+          "green": 0.1990772192028986,
+          "red": 0.1990772192028986
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
