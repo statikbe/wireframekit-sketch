@@ -1433,6 +1433,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "CCEDB4EB-F868-48E9-A03F-3C7B3EF22D23"
+    },
+    {
+      "class": "symbolMaster",
       "id": "FF86BCF5-332D-47BC-9ABA-2DA356B37BB7"
     },
     {
@@ -1990,6 +1994,10 @@
     {
       "class": "text",
       "id": "F66DD56B-EC2B-43CE-99F9-9D5AD9A9077F"
+    },
+    {
+      "class": "text",
+      "id": "77BB0524-0401-4001-8F44-D31692145987"
     },
     {
       "class": "text",
