@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "05BC16D4-6070-43E7-BB9F-ED19E0AA756F",
+  "do_objectID": "B24CB52F-0844-49AA-A054-E9886EA6568C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -72,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "37601202-398D-40CD-BBB7-F3E351AEF500",
+    "do_objectID": "AD5F357C-FD12-4CDD-994B-BBD3CC38162A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -84,7 +84,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4C99E454-71C5-4A0A-930A-E96030ECB21D",
+  "symbolID": "08F236FA-FC9E-4C13-806D-1A3F762BB8FD",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

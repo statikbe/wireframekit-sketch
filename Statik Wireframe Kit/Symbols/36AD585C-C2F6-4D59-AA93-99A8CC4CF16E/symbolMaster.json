@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2236,
+  "changeIdentifier": 2605,
   "clippingMaskMode": 0,
-  "do_objectID": "BB238C23-203F-4177-93E0-0F5881E484BC",
+  "do_objectID": "36AD585C-C2F6-4D59-AA93-99A8CC4CF16E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 27,
     "width": 280,
-    "x": -10640,
-    "y": 7860
+    "x": -11020,
+    "y": 7954
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -53,28 +53,28 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "64ABE595-24FC-4CE0-9832-711E02EA4B09"
+      "class": "text",
+      "id": "ACB447CB-F5C0-413C-B438-B6B5E50D6BE2"
     },
     {
       "class": "symbolInstance",
-      "id": "9AB861CA-3BF1-4D3F-A604-1C3FEAC745B8"
+      "id": "B24CB52F-0844-49AA-A054-E9886EA6568C"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Form/Input/Checkbox/Stylized/Unchecked Error",
+  "name": "Form/Input/Checkbox/Real/Unchecked (small)",
   "nameIsFixed": true,
   "originalObjectID": "B6D4A366-EA35-4F1E-96CD-C3E2E48D18F0",
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "357B9455-A72D-45B6-ADB3-CEBEA4455026_stringValue"
+      "overrideName": "ACB447CB-F5C0-413C-B438-B6B5E50D6BE2_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "9AB861CA-3BF1-4D3F-A604-1C3FEAC745B8_symbolID"
+      "overrideName": "B24CB52F-0844-49AA-A054-E9886EA6568C_symbolID"
     }
   ],
   "presetDictionary": {
@@ -118,7 +118,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EA9DCE94-EA8F-40A7-8F68-093406C4B3CA",
+    "do_objectID": "E6E4EC7E-E64C-474E-A68C-2C364B357416",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -130,7 +130,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E9B8B556-8687-4078-8DA1-9F68CD6B8020",
+  "symbolID": "2563F421-44C5-4744-A16C-87F696E21174",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

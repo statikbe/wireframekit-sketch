@@ -17,31 +17,32 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 18
+              "size": 14
             }
           },
+          "MSTextStyleVerticalAlignment": 0,
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 27,
-            "minimumLineHeight": 27
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 15,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Checkbox option"
+    "string": "Checkbox option (small)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "FFDFF19D-F778-4B5F-9086-600B2B64031C",
+  "do_objectID": "ACB447CB-F5C0-413C-B438-B6B5E50D6BE2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,12 +56,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 27,
+    "height": 22,
     "width": 252,
     "x": 28,
-    "y": 0
+    "y": 3
   },
-  "glyphBounds": "{{1, 6}, {133, 18}}",
+  "glyphBounds": "{{0, 4}, {151, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +71,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Checkbox option",
+  "name": "Checkbox option (sma",
   "nameIsFixed": false,
   "originalObjectID": "B90FE01E-95CE-4153-B006-AD3D33B17C94",
   "resizingConstraint": 11,
@@ -111,7 +112,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7F088200-644A-4B8B-9E77-9FC1A4B55895",
+    "do_objectID": "762B80C3-0B85-4D42-8CD8-08778626606F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -135,17 +136,18 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 18
+            "size": 14
           }
         },
+        "MSTextStyleVerticalAlignment": 0,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 27,
-          "minimumLineHeight": 27
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0
