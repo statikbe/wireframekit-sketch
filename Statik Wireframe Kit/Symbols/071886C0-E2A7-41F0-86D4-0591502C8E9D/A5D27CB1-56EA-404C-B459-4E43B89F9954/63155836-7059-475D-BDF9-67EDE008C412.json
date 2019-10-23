@@ -16,12 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Black",
-              "size": 14
+              "name": "Roboto-Regular",
+              "size": 18
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 2,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -47,7 +46,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1CCCCBDC-9035-4930-8610-12445CA9455F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -58,13 +56,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5FC702D0-72A6-4AE3-9190-A4CA1E983D75",
     "height": 26,
-    "width": 47,
+    "width": 46,
     "x": 0,
-    "y": 0
+    "y": -1
   },
-  "glyphBounds": "{{0, 8}, {44, 10}}",
+  "glyphBounds": "{{0, 6}, {45, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -127,7 +124,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7D9EB129-B1D4-4330-B233-9E578C19C550",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -139,12 +135,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Black",
-            "size": 14
+            "name": "Roboto-Regular",
+            "size": 18
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 2,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

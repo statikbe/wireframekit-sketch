@@ -5,7 +5,6 @@
   "do_objectID": "0ADBC85D-924D-406C-B294-03C624F7D29E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1673A9DB-5B46-45D5-86FE-F0496C29846C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CF2183EC-9E07-4924-8DC8-CA4245D9C235",
     "height": 77,
     "width": 380,
     "x": 400,
@@ -41,7 +39,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "BC5FCC58-1168-4FEF-A44D-787EE7A96BAE",
       "overrideName": "8F400D8A-8633-44B6-BF82-59109285A4BA/73D3E976-DF69-422E-B55E-12226B68426C_stringValue",
       "value": "email@bedrijf.be"
     }

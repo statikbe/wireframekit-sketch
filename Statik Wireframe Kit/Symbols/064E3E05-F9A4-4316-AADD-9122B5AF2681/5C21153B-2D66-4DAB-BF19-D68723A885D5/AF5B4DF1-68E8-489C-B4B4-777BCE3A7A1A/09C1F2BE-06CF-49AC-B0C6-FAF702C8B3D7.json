@@ -5,7 +5,6 @@
   "do_objectID": "09C1F2BE-06CF-49AC-B0C6-FAF702C8B3D7",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "946D0D39-C2AB-4A91-9E18-E4BBE7A5D323",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FA591E02-8979-47D6-9A29-4D59A5CA289E",
     "height": 40,
     "width": 286,
     "x": 220,
-    "y": 149
+    "y": 154
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "AFA8CC16-D556-4790-AA08-2F6DA5A26F17",
       "overrideName": "ADE76005-E4D4-4C9E-9008-813F30FB64C5_stringValue",
       "value": "Secondary call to action"
     }
@@ -51,7 +48,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "82E4C814-87E7-4843-9A03-917DECB32C17",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -62,7 +58,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "107C9B57-2145-4FBD-AF8D-8D7B7ACFF832",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -73,7 +68,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "45DA7DF9-72EE-4C2E-B0D2-49DF5517A63D",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -81,7 +75,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "5A91AA4A-FC21-4C11-86EF-B3047135321E",
       "opacity": 1
     },
     "do_objectID": "37512B1E-F6BB-4FAA-AA2B-1243A26A35B5",

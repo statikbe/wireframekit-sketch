@@ -34,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "784B4E2C-DBE1-44F1-8FD1-70F2B4E0ACC9",
       "overrideName": "1ABF2DFA-1585-49E7-B4BD-AD24858C3F88_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -82,6 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "8956583C-DF3F-4589-ABDE-63132417B3DF",
     "endMarkerType": 0,
     "fills": [
     ],

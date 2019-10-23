@@ -5,7 +5,6 @@
   "do_objectID": "764A2865-0215-408B-A270-8D537C65A508",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8FEFF5BE-AFCB-4C4C-A4DB-0F0174D1E917",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "271C7E56-43FE-4294-A19E-B83C1EF4D1DB",
     "height": 40,
     "width": 180,
     "x": 481,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "113B0E75-70B3-4938-A4D5-F97240903BF1",
       "overrideName": "A744CB90-7093-4A30-8C54-8D02E81578FC_stringValue",
       "value": "code inwisselen"
     }

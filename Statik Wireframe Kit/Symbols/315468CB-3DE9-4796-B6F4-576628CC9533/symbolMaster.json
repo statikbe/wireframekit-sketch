@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "95800B92-5805-47E6-A83D-ED8B70B81245",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "315468CB-3DE9-4796-B6F4-576628CC9533",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CB58572C-B996-4F1F-A905-EF27817E82F4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8844DFE0-077A-480E-9D5E-C729C04898F2",
     "height": 40,
     "width": 40,
     "x": -11020,
@@ -36,12 +33,11 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "93317A12-0CAE-4495-BCCA-4608446E4AB0",
     "guides": [
     ]
   },
@@ -123,7 +119,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "365126D1-3CCD-49AC-9056-CBA835B32164",
     "guides": [
     ]
   }

@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -127,6 +127,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "9FABB422-E1BC-4635-A808-FE27E1CDE232",
     "endMarkerType": 0,
     "fills": [
     ],

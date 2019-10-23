@@ -16,12 +16,12 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
-              "size": 16
+              "name": "Roboto-Medium",
+              "size": 20
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 2,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -45,7 +45,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6097C63C-01C4-4B40-94DD-3C5B892DDE66",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,13 +55,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3B793987-9B6D-4E9D-8F1E-74B24C2FB9BC",
     "height": 28,
     "width": 540,
     "x": 30,
     "y": 45
   },
-  "glyphBounds": "{{0, 7}, {504, 13}}",
+  "glyphBounds": "{{0, 6}, {515, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -77,7 +75,7 @@
   "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "02E0AC66-D9EE-474D-A282-5AF9C436AB5C",
+  "sharedStyleID": "D1775B03-D159-4E45-8A07-56FD2E976EF7",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -125,7 +123,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "2EE5104F-B275-4BDF-B20E-18AD9754F167",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -137,12 +134,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
-            "size": 16
+            "name": "Roboto-Medium",
+            "size": 20
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 2,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

@@ -5,7 +5,6 @@
   "do_objectID": "4576643F-26DC-4333-BDCA-90CEB150FB79",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "789C95CC-4C0E-4B2D-A9CB-537ECD4279ED",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A66D0768-D1B8-4D2D-939D-B1FDB3A4759B",
     "height": 40,
     "width": 349,
     "x": 226,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "69EC2ADB-E051-4E11-AA31-142014FE3536",
       "overrideName": "A65F279B-B286-481F-98AD-2A35936F8BF4_stringValue",
       "value": "Continue to shipping methods"
     }

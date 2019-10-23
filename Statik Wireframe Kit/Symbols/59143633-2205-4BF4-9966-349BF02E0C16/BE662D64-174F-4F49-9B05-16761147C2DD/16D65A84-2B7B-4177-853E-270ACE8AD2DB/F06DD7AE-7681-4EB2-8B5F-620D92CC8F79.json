@@ -5,7 +5,6 @@
   "do_objectID": "F06DD7AE-7681-4EB2-8B5F-620D92CC8F79",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3084D405-27C4-4775-9EDF-611A70999C52",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B5E83C5A-F985-4EC6-BF63-5052EFE07C3D",
     "height": 77,
     "width": 349,
     "x": 400,
@@ -41,7 +39,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "DF807E97-170B-42DD-A583-ECA3F8E08CD7",
       "overrideName": "8F400D8A-8633-44B6-BF82-59109285A4BA/73D3E976-DF69-422E-B55E-12226B68426C_stringValue",
       "value": "VAT Number"
     }

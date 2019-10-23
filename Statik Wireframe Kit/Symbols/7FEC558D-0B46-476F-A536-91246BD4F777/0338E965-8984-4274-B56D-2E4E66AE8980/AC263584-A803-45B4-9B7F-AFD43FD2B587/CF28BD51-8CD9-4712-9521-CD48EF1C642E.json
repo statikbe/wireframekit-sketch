@@ -5,7 +5,6 @@
   "do_objectID": "CF28BD51-8CD9-4712-9521-CD48EF1C642E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F32B1EA1-BDF9-4C82-8E51-37D4856477F1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "091291E9-1490-439B-A333-0834EDE581C4",
     "height": 77,
     "width": 349,
     "x": 400,
@@ -41,7 +39,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "10C63D81-160D-48E4-B58F-38BB8AD8E8AC",
       "overrideName": "8F400D8A-8633-44B6-BF82-59109285A4BA/73D3E976-DF69-422E-B55E-12226B68426C_stringValue",
       "value": "Peterson"
     }

@@ -5,7 +5,6 @@
   "do_objectID": "6D262029-D120-4E11-8843-AAEA00490A84",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FF8869E0-6661-4BEE-8C68-733B4C98C2AD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "DC4BAFEE-41EA-4C6F-9376-41D1D1E5AEF0",
     "height": 150,
     "width": 150,
     "x": 20,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "784B4E2C-DBE1-44F1-8FD1-70F2B4E0ACC9",
       "overrideName": "1ABF2DFA-1585-49E7-B4BD-AD24858C3F88_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -55,7 +52,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "8EF8729A-1C08-4532-84DA-D72D32E22700",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -66,7 +62,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "A2590263-3C97-4CC3-BD20-9B0669A090E0",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -77,7 +72,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "81ADC5FD-2E57-4232-8C5A-C356D9B90BDA",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -85,7 +79,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "17CC73DF-1FD7-4984-9AC0-3DC617272454",
       "opacity": 1
     },
     "do_objectID": "5EDE8D54-EA74-4910-9466-32427135DF5E",

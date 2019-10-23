@@ -5,7 +5,6 @@
   "do_objectID": "1BF6CBE2-CD77-4D2D-A745-9926FE12AA5E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "78B6EBB5-22F4-428A-942A-71E7D95E911C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FCD024F3-0FB2-4F56-8EEB-47566DC367DA",
     "height": 27,
     "width": 780,
     "x": 130,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "AD21C4A8-9B44-4883-BA4F-19B036E82A5C",
       "overrideName": "795DC380-5B02-434F-9072-9FDE8B779D3D_stringValue",
       "value": "Peter-Pan Peterson, Vital Decosterstraat 67A, 3000 Leuven"
     }

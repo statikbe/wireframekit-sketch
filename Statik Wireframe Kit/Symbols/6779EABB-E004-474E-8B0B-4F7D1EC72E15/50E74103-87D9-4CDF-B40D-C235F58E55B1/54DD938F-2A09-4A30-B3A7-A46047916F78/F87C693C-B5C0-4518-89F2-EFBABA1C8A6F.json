@@ -6,7 +6,6 @@
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7A1E046A-CDCA-4C42-B9E5-8374C2CD7EEB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -115,7 +114,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "95B8A4FF-4130-4517-AD55-E1ED45883465",
       "opacity": 0.3
     },
     "do_objectID": "851039A5-56DF-47F9-BBA1-8D72C33D458E",

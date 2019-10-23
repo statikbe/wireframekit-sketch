@@ -5,7 +5,6 @@
   "do_objectID": "A7271515-A980-496C-900B-51570B10165C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "66E26A8E-C519-4FB5-AD0B-8A9F8F0D2A81",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FB8D2292-ABE7-4FBD-88CC-774EBE1CFE45",
     "height": 40,
     "width": 180,
     "x": 164,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "80F39004-9FDB-4DD4-8B87-0F0F4125CEA0",
       "overrideName": "8393815A-E051-4721-AB12-45E72C2EDFD0_stringValue",
       "value": "Save billing address"
     }

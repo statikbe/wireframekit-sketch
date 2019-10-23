@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.2504643793706294,
+            "alpha": 1,
             "blue": 0.1990772192028986,
             "green": 0.1990772192028986,
             "red": 0.1990772192028986
@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Italic",
-              "size": 16
+              "name": "Roboto-Medium",
+              "size": 20
             }
           },
           "kerning": 0,
@@ -26,7 +26,9 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "paragraphSpacing": 50
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28,
+            "paragraphSpacing": 28
           }
         },
         "length": 59,
@@ -42,7 +44,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FB533B18-F442-4F9D-A2DC-5AFF07CD5595",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -53,13 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AF567524-F415-4D6D-AEDF-6950E46477D5",
-    "height": 38,
+    "height": 56,
     "width": 380,
     "x": 400,
     "y": 86
   },
-  "glyphBounds": "{{0, 2}, {310, 33}}",
+  "glyphBounds": "{{0, 5}, {317, 49}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,7 +74,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "041FDE04-6F56-46A0-857B-85C9428809DA",
+  "sharedStyleID": "D1775B03-D159-4E45-8A07-56FD2E976EF7",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -122,11 +122,10 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E72EAE4A-5392-40E9-A052-2CED4F0C7EBE",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.2504643793706294,
+          "alpha": 1,
           "blue": 0.1990772192028986,
           "green": 0.1990772192028986,
           "red": 0.1990772192028986
@@ -134,8 +133,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Italic",
-            "size": 16
+            "name": "Roboto-Medium",
+            "size": 20
           }
         },
         "kerning": 0,
@@ -144,7 +143,9 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "paragraphSpacing": 50
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28,
+          "paragraphSpacing": 28
         }
       },
       "verticalAlignment": 0

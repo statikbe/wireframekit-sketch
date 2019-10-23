@@ -5,7 +5,6 @@
   "do_objectID": "FE7C8ACE-C6A4-4570-AB2D-005A12C91D0B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "97DBB8A2-00F0-402C-A74E-B6181984758A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F5BC8977-3082-4A76-9F03-42BF28A90D7C",
     "height": 27,
     "width": 358,
     "x": 152,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "042EF7B1-C54D-43BC-9E1D-EEC73B2B3E9A",
       "overrideName": "6B321D9C-2F9C-4C28-9AB5-28CFAF43EB8F_stringValue",
       "value": "Free pick-up at Sway Store Leuven"
     }

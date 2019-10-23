@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "3C3DD640-788A-445C-A155-1E814149AA67",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "A2AAB430-40EE-41F9-8BF7-1840186986A7",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "35FCD58E-E86B-4E9E-96D8-2E3FE8960CFD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9017D928-BB96-4914-842F-E694707CC902",
     "height": 40,
     "width": 180,
     "x": -10140,
@@ -35,16 +32,14 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "do_objectID": "EF5A1C16-64DA-4447-A934-CABED99F44C9",
     "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "83C7FB86-FFA3-44B2-A159-264ECC62E66B",
     "guides": [
     ]
   },
@@ -102,7 +97,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "A05798DF-772B-432F-8135-7D10D07C711E",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -113,7 +107,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "FBF19B0F-FA4B-468A-B3D0-6C9119048B30",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -124,7 +117,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "F2788646-FB80-434C-BE6D-FC89B461C60C",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -132,7 +124,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "63C34BE8-9D3A-4E1E-8233-8DA3F96F5535",
       "opacity": 1
     },
     "do_objectID": "A5CBEEBD-2FD4-42A0-856C-D477677F8BF0",
@@ -157,7 +148,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "DFAD716D-C11B-4E43-9425-98EC5AEEDBC9",
     "guides": [
     ]
   }

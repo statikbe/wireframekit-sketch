@@ -5,7 +5,6 @@
   "do_objectID": "15B0C961-0AC2-47C7-932B-4EDC81750C42",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E9930553-D708-475E-B0E3-4AD85F968CA5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5E6E7381-7D28-4F62-A588-1626147FB528",
     "height": 77,
     "width": 480,
     "x": 0,
@@ -41,7 +39,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8A55CD9E-7F94-492A-9910-C2DC61537C73",
       "overrideName": "8F400D8A-8633-44B6-BF82-59109285A4BA/73D3E976-DF69-422E-B55E-12226B68426C_stringValue",
       "value": "Brusselsesteenweg"
     }

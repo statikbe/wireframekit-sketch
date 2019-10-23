@@ -6,7 +6,6 @@
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BC2A385A-21AD-4844-9EDF-CBDE8316F907",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -75,7 +74,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "D7C7E913-92C6-435F-BC98-E1FBE7C07364",
       "isEnabled": false,
       "lineCapStyle": 1,
       "lineJoinStyle": 0

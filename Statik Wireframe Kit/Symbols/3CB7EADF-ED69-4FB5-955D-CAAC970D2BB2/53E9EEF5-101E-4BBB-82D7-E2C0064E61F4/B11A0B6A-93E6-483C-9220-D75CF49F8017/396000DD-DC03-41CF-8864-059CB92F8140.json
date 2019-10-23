@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-LightItalic",
-              "size": 24
+              "name": "Roboto-Light",
+              "size": 22
             }
           },
           "kerning": 0,
@@ -26,9 +26,9 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 32,
-            "minimumLineHeight": 32,
-            "paragraphSpacing": 32
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30,
+            "paragraphSpacing": 30
           }
         },
         "length": 151,
@@ -44,7 +44,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3A04DFA2-2C8B-4D31-8D0F-FF3FF69564F3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -55,13 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3CD1252F-304E-4DD9-927F-BFD128A76401",
-    "height": 64,
+    "height": 60,
     "width": 870,
     "x": 0,
-    "y": 65
+    "y": 70
   },
-  "glyphBounds": "{{-1, 5}, {851, 57}}",
+  "glyphBounds": "{{0, 6}, {834, 52}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -76,7 +74,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "CDB87924-A346-4085-A240-A6053700D1FF",
+  "sharedStyleID": "31C5ED80-7BD4-4253-875F-13565A4FCDE7",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -124,7 +122,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "62DAA625-3467-4FFE-889E-6A2A4B4F64CC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -136,8 +133,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-LightItalic",
-            "size": 24
+            "name": "Roboto-Light",
+            "size": 22
           }
         },
         "kerning": 0,
@@ -146,9 +143,9 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 32,
-          "minimumLineHeight": 32,
-          "paragraphSpacing": 32
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30,
+          "paragraphSpacing": 30
         }
       },
       "verticalAlignment": 0

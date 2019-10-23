@@ -45,7 +45,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F0F8615E-29FB-4BD6-B0B6-32670369AB59",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,7 +55,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "14E0B2C7-5B84-4288-9AD0-43F9C0692BD5",
     "height": 26,
     "width": 30,
     "x": 0,
@@ -77,7 +75,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "224BDA10-445E-4894-B18B-F1064D481F21",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -125,7 +122,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "1B95506B-2E23-46C8-AD02-87C40CB63B47",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

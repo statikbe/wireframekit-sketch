@@ -52,7 +52,6 @@
   "dontSynchroniseWithSymbol": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9C220FD2-E20C-449D-8D4B-0A0D1ECD2957",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -63,7 +62,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3756715E-43E7-4615-847A-2F9D478F0EFE",
     "height": 16,
     "width": 139,
     "x": 19.5,
@@ -133,7 +131,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "95BD018F-46CE-4A3A-AB94-B63E6D75962A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

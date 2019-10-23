@@ -5,7 +5,6 @@
   "do_objectID": "2F4FDC73-2D3C-4FA8-83D5-29474F85392B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C425EACF-8D4D-4138-BEAF-D0F355C915AE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "34D1374E-FA3C-4C85-951F-5C284F68BD99",
     "height": 77,
     "width": 480,
     "x": 0,
@@ -36,13 +34,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "CD0009DF-4F47-414E-B229-495658D4D771",
       "overrideName": "8F400D8A-8633-44B6-BF82-59109285A4BA/73D3E976-DF69-422E-B55E-12226B68426C_stringValue",
       "value": "Email address"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "EB7FA789-2FB2-4CC2-9EF3-3FECCBE04300",
       "overrideName": "3B4FD8F9-7D4F-4BBA-B42A-B25F5B3E29A9/B90FE01E-95CE-4153-B006-AD3D33B17C94_stringValue",
       "value": "Email address"
     }

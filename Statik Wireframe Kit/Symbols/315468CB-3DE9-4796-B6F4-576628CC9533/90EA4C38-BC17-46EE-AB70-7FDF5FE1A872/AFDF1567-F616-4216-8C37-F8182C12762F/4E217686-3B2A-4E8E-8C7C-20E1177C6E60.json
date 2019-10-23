@@ -6,7 +6,6 @@
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8FAB5FCB-1C7D-423C-9F7C-B6CC255BA471",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,7 +16,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7B49F153-938B-478B-BA69-20A449254D6D",
     "height": 15.24849627993487,
     "width": 14.46568542494923,
     "x": 8.434314575050763,
@@ -496,7 +494,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "BEFBC7A7-E1DE-4B36-955C-C7AF796347BF",
       "isEnabled": false,
       "lineCapStyle": 1,
       "lineJoinStyle": 1

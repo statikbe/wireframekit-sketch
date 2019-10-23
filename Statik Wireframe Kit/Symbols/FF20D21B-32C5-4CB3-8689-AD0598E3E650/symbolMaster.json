@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "64C06D0E-6E9A-4298-9EE1-1A63C2613FD0",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "FF20D21B-32C5-4CB3-8689-AD0598E3E650",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0DA496A4-6A62-4DA2-BA1C-F63D385D43AC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,15 +24,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E13D9A9B-E42C-405E-91C2-9D56BC29B04A",
     "height": 40,
     "width": 40,
     "x": -10801,
     "y": -12750
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "3740657E-B549-4A55-9A02-30436399C223"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,7 +38,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "636022F4-3E2D-4C6F-AB02-29F62A8BEB11",
     "guides": [
     ]
   },
@@ -85,7 +80,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "DE517CEA-0C93-4B8F-A783-06C0960A5E65",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -96,7 +90,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "1D7175C3-CE17-424B-8010-79D5657D1149",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -107,7 +100,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "6DB7B1C4-1AF3-42C5-9C6D-2F9EB161437A",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -115,7 +107,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "8ABCA58A-0F65-418F-8EE4-21975B8364D5",
       "opacity": 1
     },
     "do_objectID": "6662743F-FF85-40D3-AFEB-4404110A071D",
@@ -140,7 +131,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "14893AAD-2C89-4EE9-8CA4-E4A7845D793C",
     "guides": [
     ]
   }

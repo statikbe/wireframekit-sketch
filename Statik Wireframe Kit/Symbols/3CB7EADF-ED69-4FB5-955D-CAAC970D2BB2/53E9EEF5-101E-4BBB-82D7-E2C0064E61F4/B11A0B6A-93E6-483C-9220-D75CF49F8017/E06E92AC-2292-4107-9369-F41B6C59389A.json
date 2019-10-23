@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
-              "size": 35
+              "name": "Roboto-Medium",
+              "size": 40
             }
           },
           "kerning": 0,
@@ -26,9 +26,9 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 45,
-            "minimumLineHeight": 45,
-            "paragraphSpacing": 45
+            "maximumLineHeight": 50,
+            "minimumLineHeight": 50,
+            "paragraphSpacing": 50
           }
         },
         "length": 23,
@@ -44,7 +44,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A77892BA-D453-48E3-9E23-B8697437EB15",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -55,13 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "80954E1F-979D-483D-A589-E4EA649CDF1F",
-    "height": 45,
-    "width": 396,
+    "height": 50,
+    "width": 452,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{2, 7}, {392, 35}}",
+  "glyphBounds": "{{2, 8}, {447, 40}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -124,7 +122,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "58F205D9-7B59-4A80-B3B1-8ADF3A848F79",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -136,8 +133,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
-            "size": 35
+            "name": "Roboto-Medium",
+            "size": 40
           }
         },
         "kerning": 0,
@@ -146,9 +143,9 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 45,
-          "minimumLineHeight": 45,
-          "paragraphSpacing": 45
+          "maximumLineHeight": 50,
+          "minimumLineHeight": 50,
+          "paragraphSpacing": 50
         }
       },
       "verticalAlignment": 0

@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 18
+              "name": "Roboto-Light",
+              "size": 22
             }
           },
           "kerning": 0,
@@ -26,10 +26,10 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
-          },
-          "underlineStyle": 1
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30,
+            "paragraphSpacing": 30
+          }
         },
         "length": 15,
         "location": 0
@@ -44,7 +44,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "54210A25-5E40-4D89-8CB0-8F4FBE8FD26D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -55,13 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2491C05A-5B7A-425E-BBE5-99DA8B46D36D",
     "height": 93,
     "width": 180,
     "x": 430,
     "y": 657
   },
-  "glyphBounds": "{{0, 6}, {129, 18}}",
+  "glyphBounds": "{{1, 6}, {153, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -124,7 +122,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "912E507F-8BC2-4CDB-8602-55B5D8389A8A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -136,8 +133,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 18
+            "name": "Roboto-Light",
+            "size": 22
           }
         },
         "kerning": 0,
@@ -146,10 +143,10 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 28,
-          "minimumLineHeight": 28
-        },
-        "underlineStyle": 1
+          "maximumLineHeight": 30,
+          "minimumLineHeight": 30,
+          "paragraphSpacing": 30
+        }
       },
       "verticalAlignment": 0
     },

@@ -5,7 +5,6 @@
   "do_objectID": "A1EEBD9C-A248-4431-8092-2130AFCAFB32",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6A11C05E-60A6-404E-80F6-48940B0F3B07",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E2568915-97DC-4785-BBD4-7FDC3D8C2898",
     "height": 26,
     "width": 30,
     "x": 0,
     "y": 221
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "3D351493-D65B-4C39-8A14-E496D8E4D83C"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,

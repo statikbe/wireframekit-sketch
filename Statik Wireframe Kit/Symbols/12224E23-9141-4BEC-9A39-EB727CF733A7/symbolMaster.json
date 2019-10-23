@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "FDB3C4F9-B6C3-49B4-9453-400E4C6F7440",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "12224E23-9141-4BEC-9A39-EB727CF733A7",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FB51167C-BBCE-4B37-9D87-29DAAA2D35A5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B4590A38-C452-48E9-B844-90EF8D53F0BA",
     "height": 40,
     "width": 200,
     "x": -10140,
@@ -35,7 +32,6 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "do_objectID": "C97D0C3F-A052-4B73-8D95-060FF9C2FBDE",
     "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
@@ -44,7 +40,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7ACBB097-9E82-4282-AA06-F55F7E13DC53",
     "guides": [
     ]
   },
@@ -107,7 +102,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "2306FB4F-5B04-48AA-AD11-3A3E56041AC4",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -118,7 +112,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "8835EE05-6C0E-4257-BFBE-2FD471DB34B0",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -129,7 +122,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "B66AD1D5-D5A3-4218-AE7A-A91D1A81BEAE",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -137,7 +129,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "87463E41-DA9F-44D4-85A4-3844FE286C56",
       "opacity": 1
     },
     "do_objectID": "35C23325-25CB-4A05-B386-B36B9A32DACF",
@@ -162,7 +153,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "66366295-3292-403B-A5A9-F1C95533C7B1",
     "guides": [
     ]
   }

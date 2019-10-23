@@ -5,7 +5,6 @@
   "do_objectID": "6F3F2A27-5E5E-443E-93C7-0270E6620395",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C4A30592-4AAE-44D1-A732-61F00599CE75",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1FDA685B-A27C-43CA-A913-75B9073AD63E",
     "height": 490,
     "width": 780,
     "x": 64,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "7A571840-286C-4834-95BB-1F34F6FB0DE9",
       "overrideName": "A9BB0FA7-75C4-4317-BEB8-9A11CF3B7FB7_image",
       "value": {
         "_class": "MSJSONFileReference",

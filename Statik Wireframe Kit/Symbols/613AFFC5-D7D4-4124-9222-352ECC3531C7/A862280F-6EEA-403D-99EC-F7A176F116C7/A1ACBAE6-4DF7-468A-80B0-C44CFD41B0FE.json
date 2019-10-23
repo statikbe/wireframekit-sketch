@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 16
+              "size": 18
             }
           },
           "kerning": 0,
@@ -26,8 +26,9 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26,
+            "paragraphSpacing": 26
           },
           "strikethroughStyle": 0,
           "underlineStyle": 1
@@ -45,7 +46,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E3008025-55E7-4D6B-B731-F8216221840F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,13 +56,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6101E9C0-7BE1-4728-ABBA-2912A80F0CA5",
-    "height": 24,
+    "height": 26,
     "width": 540,
     "x": 30,
     "y": 655
   },
-  "glyphBounds": "{{1, 5}, {126, 13}}",
+  "glyphBounds": "{{1, 5}, {142, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -77,7 +76,7 @@
   "resizingConstraint": 35,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D9BCA18C-B0FB-4A9C-A238-169EC0FDAB21",
+  "sharedStyleID": "CCD9BFF8-96B4-4F2E-8ACE-BD1A31E2071C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -125,7 +124,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0E66F963-D05F-42EB-9533-0608884439E6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -138,7 +136,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 16
+            "size": 18
           }
         },
         "kerning": 0,
@@ -147,8 +145,9 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 26,
+          "minimumLineHeight": 26,
+          "paragraphSpacing": 26
         },
         "strikethroughStyle": 0,
         "underlineStyle": 1

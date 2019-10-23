@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Medium",
-              "size": 30
+              "size": 20
             }
           },
           "kerning": 0,
@@ -26,9 +26,9 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 50,
-            "minimumLineHeight": 50,
-            "paragraphSpacing": 50
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28,
+            "paragraphSpacing": 28
           }
         },
         "length": 32,
@@ -44,7 +44,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8D726E1C-BFE6-4F50-A8A6-5A703CEE7F57",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -55,13 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "183C02AB-45EE-4AD2-8A5F-86C324578084",
-    "height": 50,
+    "height": 28,
     "width": 780,
     "x": 130,
     "y": 122
   },
-  "glyphBounds": "{{0, 12}, {458, 30}}",
+  "glyphBounds": "{{0, 6}, {305, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -76,7 +74,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "041FDE04-6F56-46A0-857B-85C9428809DA",
+  "sharedStyleID": "D1775B03-D159-4E45-8A07-56FD2E976EF7",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -124,7 +122,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "6DE01715-42C2-4168-BEA6-D44692BB479E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -137,7 +134,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Medium",
-            "size": 30
+            "size": 20
           }
         },
         "kerning": 0,
@@ -146,9 +143,9 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 50,
-          "minimumLineHeight": 50,
-          "paragraphSpacing": 50
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28,
+          "paragraphSpacing": 28
         }
       },
       "verticalAlignment": 0

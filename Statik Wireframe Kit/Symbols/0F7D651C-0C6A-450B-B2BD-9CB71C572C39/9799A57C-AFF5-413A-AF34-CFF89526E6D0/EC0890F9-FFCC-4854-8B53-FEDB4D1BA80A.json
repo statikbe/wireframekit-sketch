@@ -5,7 +5,6 @@
   "do_objectID": "EC0890F9-FFCC-4854-8B53-FEDB4D1BA80A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2CDEE3BF-CDE7-4E1A-80A8-0566596779A6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "95244A47-CBB7-47CF-8F8B-48635F79A6BF",
     "height": 40,
     "width": 214,
     "x": 247,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "CF5E1630-D58A-4A73-A9DA-D5E45C6B5230",
       "overrideName": "73D3E976-DF69-422E-B55E-12226B68426C_stringValue",
       "value": "Code ingeven"
     }

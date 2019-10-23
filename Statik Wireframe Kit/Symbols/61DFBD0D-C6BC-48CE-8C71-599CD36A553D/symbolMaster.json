@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "F1919E13-2923-4A91-9FC1-DFD37629BEA8",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "61DFBD0D-C6BC-48CE-8C71-599CD36A553D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EAEAD1E1-3B2F-4E90-A5C0-3B094FB7FD9D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4EAF6B27-977A-4976-B07E-A189FB9F1BC9",
     "height": 50,
     "width": 1440,
     "x": -10840,
@@ -41,7 +38,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "6A8CB7D3-603A-41FE-B229-2318E88D2EF0",
     "guides": [
     ]
   },
@@ -64,7 +60,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 80,
-    "do_objectID": "16570E78-19D5-4B7B-A9FE-8B0FD4844D6C",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -171,7 +166,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "17A480D3-098A-4185-A016-1432FA61AAF7",
     "guides": [
     ]
   }

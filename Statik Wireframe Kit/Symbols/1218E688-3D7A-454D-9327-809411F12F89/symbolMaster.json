@@ -35,7 +35,7 @@
     "layoutAnchor": 0
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -134,6 +134,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "6B7D6739-D7BE-4D3B-8686-EDF1171AB484",
     "endMarkerType": 0,
     "fills": [
     ],

@@ -6,7 +6,6 @@
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "832EA268-66AB-4947-951D-EE2EFE49607C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,7 +16,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "8B635473-4676-4A82-9D71-996A1F666859",
     "height": 1,
     "width": 6.499250802161565,
     "x": 3.745904742456189,
@@ -76,7 +74,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "D2A566B3-C057-416D-BC26-27A9269CA570",
       "isEnabled": false,
       "lineCapStyle": 1,
       "lineJoinStyle": 1

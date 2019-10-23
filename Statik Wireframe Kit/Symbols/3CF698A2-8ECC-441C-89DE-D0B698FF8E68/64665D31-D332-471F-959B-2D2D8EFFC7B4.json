@@ -5,7 +5,6 @@
   "do_objectID": "64665D31-D332-471F-959B-2D2D8EFFC7B4",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0F951EB9-BBD8-496A-8C28-097BD79B9994",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "E71F3331-9F12-43A8-9463-18416D71D91F",
     "height": 24,
     "width": 24,
     "x": 249,
@@ -72,7 +70,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "5FB3CA29-2E0B-432F-A240-6013C9C2CECD",
       "opacity": 0.5
     },
     "do_objectID": "F193F57D-A5EC-4804-8C93-68E9E57EB253",
