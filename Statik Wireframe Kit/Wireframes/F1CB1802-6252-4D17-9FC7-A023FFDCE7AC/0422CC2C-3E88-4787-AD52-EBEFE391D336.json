@@ -1,8 +1,8 @@
 {
-  "_class": "group",
-  "booleanOperation": 0,
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "000843A9-FD3C-4486-AA10-43DB77F24907",
+  "do_objectID": "0422CC2C-3E88-4787-AD52-EBEFE391D336",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,38 +16,32 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 180,
-    "x": 0,
-    "y": 0
+    "width": 273,
+    "x": 120,
+    "y": 208
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
-  "layers": [
+  "maintainScrollPosition": false,
+  "name": "Button/Square/Primary/Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "F2FC0CE6-6F80-40F9-9032-389FBCBAF1B0"
-    },
-    {
-      "class": "text",
-      "id": "388B25C4-165E-45EC-AB04-1185A4D10BD7"
+      "_class": "overrideValue",
+      "overrideName": "8393815A-E051-4721-AB12-45E72C2EDFD0_stringValue",
+      "value": "Lange button tekst hier"
     }
   ],
-  "maintainScrollPosition": false,
-  "name": "Button",
-  "nameIsFixed": true,
-  "originalObjectID": "000843A9-FD3C-4486-AA10-43DB77F24907",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,7 +69,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -83,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "743E0F5D-FB4E-4B9C-9983-D210304C8223",
+    "do_objectID": "513B2E77-19BB-4CD7-81FA-22FB47838EF6",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -94,5 +88,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "53C1CF6F-B6E1-4FFD-9160-4DA220637D61",
+  "verticalSpacing": 0
 }
