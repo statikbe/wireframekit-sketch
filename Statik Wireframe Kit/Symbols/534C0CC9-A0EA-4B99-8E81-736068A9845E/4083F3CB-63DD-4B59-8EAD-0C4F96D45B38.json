@@ -5,7 +5,6 @@
   "do_objectID": "4083F3CB-63DD-4B59-8EAD-0C4F96D45B38",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5D171F49-7732-481D-AFB0-F9101EDDE18B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "475C4A3D-442A-4E1C-90BB-23F1F911858E",
     "height": 20,
     "width": 190,
     "x": 130,
@@ -36,19 +34,16 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3EEA322B-C4A2-42DE-A620-5D63C9CA2E6E",
       "overrideName": "5974271D-A011-42DD-9F6B-33365F311EDC_stringValue",
       "value": "Jackets"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "9638D801-7763-4C11-8E18-5DB6C08C1555",
       "overrideName": "6E24AB35-0236-46FD-9B29-F9B764ABB400_stringValue",
       "value": "Men"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "02F25CA2-A373-42F6-AA4C-6E5C804506CD",
       "overrideName": "A64D41E3-0F35-4BC5-B904-1982283EA147_stringValue",
       "value": "Alpine jacket"
     }

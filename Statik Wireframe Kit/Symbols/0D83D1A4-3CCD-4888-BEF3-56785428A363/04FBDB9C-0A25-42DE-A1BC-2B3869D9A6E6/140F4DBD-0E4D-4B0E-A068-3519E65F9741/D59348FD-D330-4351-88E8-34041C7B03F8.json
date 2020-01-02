@@ -34,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "06536618-F231-4DEB-A88E-47EF2E7C30F6",
       "overrideName": "8251ABE7-1C2B-4AB1-9269-CD2515C1CC12_symbolID",
       "value": "4EEB4B71-E918-4E79-93D2-317102C40E81"
     }
@@ -78,6 +77,7 @@
       "blendMode": 0,
       "opacity": 0.5
     },
+    "do_objectID": "27BEBEAD-C917-46E9-BA96-FA6CB0A3C181",
     "endMarkerType": 0,
     "fills": [
     ],

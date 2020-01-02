@@ -21,7 +21,9 @@
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -91,6 +93,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "A2F251F7-79F2-4684-B2F0-49F870FC04E6",
     "endMarkerType": 0,
     "fills": [
     ],

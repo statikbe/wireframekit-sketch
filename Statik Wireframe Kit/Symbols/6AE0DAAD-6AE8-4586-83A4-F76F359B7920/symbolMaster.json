@@ -5,7 +5,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "EB70678D-725F-40ED-ABD5-24687CE5D6C1",
     "green": 1,
     "red": 1
   },
@@ -15,7 +14,6 @@
   "do_objectID": "6AE0DAAD-6AE8-4586-83A4-F76F359B7920",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "678BBF7C-83C4-4CBC-9CBE-217885F3FD7A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A5ECE257-49E6-40E5-A6A9-11975E85C151",
     "height": 32,
     "width": 86,
     "x": -10929,
@@ -41,7 +38,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0CCF0E38-1E39-4686-A548-B652E8AC211A",
     "guides": [
     ]
   },
@@ -145,7 +141,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "697FECCC-709C-4E17-8712-7DBE62976F49",
     "guides": [
     ]
   }

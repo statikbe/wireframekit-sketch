@@ -5,7 +5,6 @@
   "do_objectID": "B2615326-2016-403C-9B88-4DD79AFD11DE",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B65699C9-9894-4AE2-BDA8-839DC0E8E7A6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "33EF5483-D3E2-4398-B09E-3183CE5F5712",
     "height": 77,
     "width": 380,
     "x": 0,
@@ -41,7 +39,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "920FA225-4926-42A8-BC04-9537B3C3AFE5",
       "overrideName": "8F400D8A-8633-44B6-BF82-59109285A4BA/73D3E976-DF69-422E-B55E-12226B68426C_stringValue",
       "value": "Peter-Pan"
     }

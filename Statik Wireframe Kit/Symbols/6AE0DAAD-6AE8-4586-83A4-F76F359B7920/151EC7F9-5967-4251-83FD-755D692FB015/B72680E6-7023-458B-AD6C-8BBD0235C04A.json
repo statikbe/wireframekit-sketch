@@ -5,7 +5,6 @@
   "do_objectID": "B72680E6-7023-458B-AD6C-8BBD0235C04A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "AC88AA0D-FDB8-4464-B888-F801C89C43DB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "4F4BBC2E-8F35-41A4-89EF-1E783F46EA77",
     "height": 14,
     "width": 14,
     "x": 66,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A27958B7-1180-4E0E-968D-BABB545E8763",
       "overrideName": "E841098C-E3D3-4BB1-9D7C-B944159C4770_symbolID",
       "value": "4EEB4B71-E918-4E79-93D2-317102C40E81"
     }

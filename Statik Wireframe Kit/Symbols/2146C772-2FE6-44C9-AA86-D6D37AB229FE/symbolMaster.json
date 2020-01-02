@@ -14,7 +14,6 @@
   "do_objectID": "2146C772-2FE6-44C9-AA86-D6D37AB229FE",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B98EB8A9-9308-4CAB-B123-58AEC32CB982",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -25,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "728D6598-F195-4F2D-B0B6-8F64B4713FF5",
     "height": 40,
     "width": 200,
     "x": -10360,
@@ -42,7 +40,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "A2013FB8-6256-4ADD-BC63-F8A609958886",
     "guides": [
     ]
   },
@@ -136,7 +133,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "2E6BFDF6-5846-43C2-8ACC-9B3EFD6E4E5F",
     "guides": [
     ]
   }

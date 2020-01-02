@@ -44,7 +44,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C99E7561-3CAB-46C2-A2F4-457319BE16B4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -55,7 +54,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "37566E7D-C122-4CA5-B0C7-4E0D0670A265",
     "height": 50,
     "width": 780,
     "x": 330,
@@ -112,6 +110,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "9AD3C747-3F7F-498C-ACD0-03620F68CF6B",
     "endMarkerType": 0,
     "fills": [
     ],

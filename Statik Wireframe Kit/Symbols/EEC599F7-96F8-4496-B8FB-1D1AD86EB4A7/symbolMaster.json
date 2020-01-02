@@ -9,7 +9,7 @@
     "red": 0.239215686917305
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2433,
+  "changeIdentifier": 2434,
   "clippingMaskMode": 0,
   "do_objectID": "EEC599F7-96F8-4496-B8FB-1D1AD86EB4A7",
   "exportOptions": {
@@ -132,6 +132,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "62A48F44-158C-47FF-AE8E-40DB74ED4AB2",
     "endMarkerType": 0,
     "fills": [
     ],

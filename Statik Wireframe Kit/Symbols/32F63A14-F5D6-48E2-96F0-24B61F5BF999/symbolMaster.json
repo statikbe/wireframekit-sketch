@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2809,
+  "changeIdentifier": 2818,
   "clippingMaskMode": 0,
   "do_objectID": "32F63A14-F5D6-48E2-96F0-24B61F5BF999",
   "exportOptions": {
@@ -32,10 +32,10 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 2
+    "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -143,6 +143,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "AF4C836C-B337-4CAC-AEA1-0A07F8870CAA",
     "endMarkerType": 0,
     "fills": [
     ],

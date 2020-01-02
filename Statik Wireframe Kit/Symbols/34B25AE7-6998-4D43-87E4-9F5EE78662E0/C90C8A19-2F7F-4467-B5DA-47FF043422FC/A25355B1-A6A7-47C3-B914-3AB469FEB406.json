@@ -34,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "6FEDF809-CA21-4217-9B15-F9363AE7C290",
       "overrideName": "D9149D8A-C254-44C4-A374-BF70A8944D43_stringValue",
       "value": "Bestel voor 13u, de volgende dag geleverd!"
     }
@@ -78,6 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "75489AF0-7208-45AC-8233-DCE098FBBE22",
     "endMarkerType": 0,
     "fills": [
     ],

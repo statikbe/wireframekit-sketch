@@ -5,7 +5,6 @@
   "do_objectID": "D6582212-6F9F-492B-919E-C3061D545947",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "83A30F5E-5522-4D30-833D-9EA2458BAED1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1924F650-F455-4B38-8CD5-99B741AC5976",
     "height": 57,
     "width": 280,
     "x": 637,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B18F2752-95BB-4F22-8625-16B576B82A1B",
       "overrideName": "7E4B704D-60F2-4F28-A113-396F8188A872_stringValue",
       "value": "Knop wordt disabled wanneer je je billing information nog niet hebt opgeslagen. "
     }

@@ -6,7 +6,6 @@
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "233E9D02-76BB-4021-ABA8-F6B5339242B8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -88,7 +87,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "EA0ABD82-CFB4-4E4A-97F8-01C272BDE3E5",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10.00057408352141,

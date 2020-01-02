@@ -34,13 +34,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "7BBA6440-F3B0-4FCB-8F5E-9E6439A9377C",
       "overrideName": "32A15CD3-F074-4618-810A-DB3810063B73_stringValue",
       "value": "Dit is een YouTube filmpje"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "B3A58A7D-64AB-407B-B949-04457BE6DDE5",
       "overrideName": "C155211B-AC52-4ECB-8EAF-85507ECC5446/EB54CEC0-9F9D-4178-959B-62F850BFC5AE_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -50,7 +48,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4AEDBD46-DF45-4CE2-81DA-255C6A523062",
       "overrideName": "1D23A923-3D45-40AE-8255-1BFCC315951A/DC7F9F5A-56A2-4276-AE63-AA382220720D_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -98,6 +95,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "811ACEFB-9DEA-4A79-BF4C-E27E03BD9CEB",
     "endMarkerType": 0,
     "fills": [
     ],

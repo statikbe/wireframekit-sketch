@@ -5,7 +5,6 @@
   "do_objectID": "23CE1F99-110D-4980-B402-AE8C6672F1CD",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2D90A86E-8303-4444-957A-540C5500871E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E8176F6A-1522-4568-8CA3-FC51BC0C4250",
     "height": 77,
     "width": 380,
     "x": 0,
@@ -41,7 +39,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3641D5FE-CB2F-446F-B2BC-8144E437B9A7",
       "overrideName": "8F400D8A-8633-44B6-BF82-59109285A4BA/73D3E976-DF69-422E-B55E-12226B68426C_stringValue",
       "value": "Business name"
     }

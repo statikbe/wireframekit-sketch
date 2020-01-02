@@ -5,7 +5,6 @@
   "do_objectID": "4087FDE8-DD1F-4DFD-8669-A6EE2F6775A3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5153694D-7F32-4957-B199-29A23C4CA966",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9B50FA35-1EBD-4B4D-B6AD-6A50FC2A3098",
     "height": 77,
     "width": 349,
     "x": 400,
@@ -41,7 +39,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FD14902F-A640-49B6-B6E8-6BA7C65C26EB",
       "overrideName": "8F400D8A-8633-44B6-BF82-59109285A4BA/73D3E976-DF69-422E-B55E-12226B68426C_stringValue",
       "value": "Leuven"
     }

@@ -5,17 +5,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "FA6DACC4-23FF-4CD9-A02B-C3C65E2C9B1C",
     "green": 1,
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4382,
+  "changeIdentifier": 4391,
   "clippingMaskMode": 0,
   "do_objectID": "E4858384-4A0D-4BD7-83E7-D3764D83D870",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C0ADCE3C-FB4C-4658-A4B5-BDFE9A52EB18",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3A1B0CCD-3787-4F7A-ADF2-2F6D3DF28EDE",
     "height": 40,
     "width": 200,
     "x": -10580,
@@ -38,12 +35,11 @@
     "layoutAnchor": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "4EE8C21B-608C-430D-9EB2-0ED1A089E6CB",
     "guides": [
     ]
   },
@@ -59,8 +55,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "B7EBC20D-7F61-47E3-A7F2-5665C2BBBD9B"
+      "class": "rectangle",
+      "id": "638F34B3-E180-4CB8-A5AB-064F9F5A2FC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB3272F8-FAA8-42F5-A05E-F00BCEAA1964"
+    },
+    {
+      "class": "text",
+      "id": "DED93523-8653-4583-950D-F53584EFE374"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBA19ACA-1D11-4971-B625-9EA6284E62B6"
     }
   ],
   "maintainScrollPosition": false,
@@ -157,7 +165,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0ECA8491-38C9-4EC2-9847-4058852DA7B4",
     "guides": [
     ]
   }

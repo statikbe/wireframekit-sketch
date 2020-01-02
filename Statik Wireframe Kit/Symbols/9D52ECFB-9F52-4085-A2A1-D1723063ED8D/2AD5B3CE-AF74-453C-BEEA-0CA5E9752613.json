@@ -5,7 +5,6 @@
   "do_objectID": "2AD5B3CE-AF74-453C-BEEA-0CA5E9752613",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5F1D57F7-1376-4920-9716-5E95DB09FB02",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6012708F-BAE5-4AEE-BD67-5B885FF075D0",
     "height": 34,
     "width": 417,
     "x": 442,
@@ -36,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "0C8284DE-5703-463D-B3B9-71B0B9DFB39F",
       "overrideName": "7E4B704D-60F2-4F28-A113-396F8188A872_stringValue",
       "value": "Wanneer aangetikt wordt er een activatiemail verstuurd"
     }

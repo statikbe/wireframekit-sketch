@@ -34,13 +34,11 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "042EF7B1-C54D-43BC-9E1D-EEC73B2B3E9A",
       "overrideName": "6B321D9C-2F9C-4C28-9AB5-28CFAF43EB8F_stringValue",
       "value": "Standard shipping (€ 4,95)"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E6F90395-FAD3-41FF-B8AD-DC5C02AFF63D",
       "overrideName": "FB4ED815-4196-4BAF-8EE7-94F67779F35C_symbolID",
       "value": "770B963E-25DC-49C1-B6A6-BD5151B16047"
     }
@@ -84,6 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "485A412D-1553-406F-BBF5-B1B0B10C5653",
     "endMarkerType": 0,
     "fills": [
     ],

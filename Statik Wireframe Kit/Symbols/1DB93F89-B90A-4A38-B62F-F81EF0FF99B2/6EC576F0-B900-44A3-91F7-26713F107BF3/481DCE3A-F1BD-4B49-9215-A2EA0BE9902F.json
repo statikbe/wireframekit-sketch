@@ -34,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "FDB559DB-0685-4A68-9ABA-2FE018FB3823",
       "overrideName": "A65F279B-B286-481F-98AD-2A35936F8BF4_stringValue",
       "value": "naar de winkel"
     }
@@ -78,6 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "892497AC-09B6-4325-A316-589D6E1CB4EF",
     "endMarkerType": 0,
     "fills": [
     ],

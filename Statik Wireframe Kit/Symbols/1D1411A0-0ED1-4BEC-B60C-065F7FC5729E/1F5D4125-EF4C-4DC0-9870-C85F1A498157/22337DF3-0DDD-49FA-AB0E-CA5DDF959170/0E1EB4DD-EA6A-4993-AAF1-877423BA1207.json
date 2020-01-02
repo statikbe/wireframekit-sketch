@@ -45,7 +45,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A3345A3B-8543-4830-A79E-378BC1D904B3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -56,7 +55,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "337E7BC2-1233-4FBE-A88F-521F90F1D6B2",
     "height": 26,
     "width": 280,
     "x": 0,

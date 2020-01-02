@@ -34,7 +34,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "03216B11-0248-4D46-A5A0-6BF204F59585",
       "overrideName": "B4C1147A-196D-47B7-A224-A7D9A1D94688_stringValue",
       "value": "Brand X"
     }
@@ -78,6 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "FEA174B6-D106-4703-8EBB-622C9C77C526",
     "endMarkerType": 0,
     "fills": [
     ],
