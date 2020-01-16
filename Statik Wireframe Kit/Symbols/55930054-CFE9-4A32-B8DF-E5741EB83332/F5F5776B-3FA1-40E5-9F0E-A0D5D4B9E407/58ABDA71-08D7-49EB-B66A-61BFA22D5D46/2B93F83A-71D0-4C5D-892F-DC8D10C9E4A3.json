@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "18436F68-ACEE-4404-B0A3-9EC8FD0D32B9",
+  "do_objectID": "2B93F83A-71D0-4C5D-892F-DC8D10C9E4A3",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,13 +16,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 13.99999916,
-    "width": 10.99999934,
-    "x": 5.99999964,
-    "y": 5.999999640000002
+    "height": 10.08,
+    "width": 6,
+    "x": 2,
+    "y": 7.210000000000001
   },
   "hasClippingMask": false,
-  "isClosed": true,
+  "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -37,6 +37,16 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
+      "curveFrom": "{0, 0.66468253968253976}",
+      "curveMode": 1,
+      "curveTo": "{0, 0.66468253968253976}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.66468253968253976}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -47,12 +57,12 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
+      "curveFrom": "{1, 0.3343253968253968}",
       "curveMode": 1,
-      "curveTo": "{0, 1}",
+      "curveTo": "{1, 0.3343253968253968}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 1}"
+      "point": "{1, 0.3343253968253968}"
     },
     {
       "_class": "curvePoint",
@@ -67,12 +77,12 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
+      "curveFrom": "{0, 0.66468253968253976}",
       "curveMode": 1,
-      "curveTo": "{1, 0}",
+      "curveTo": "{0, 0.66468253968253976}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 0}"
+      "point": "{0, 0.66468253968253976}"
     }
   ],
   "resizingConstraint": 63,
@@ -105,7 +115,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -113,7 +123,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C93893DC-C22A-4145-8D71-26864CF70CFC",
+    "do_objectID": "29CF1069-F806-4BE0-AC09-AC4C9C9191F5",
     "endMarkerType": 0,
     "fills": [
     ],

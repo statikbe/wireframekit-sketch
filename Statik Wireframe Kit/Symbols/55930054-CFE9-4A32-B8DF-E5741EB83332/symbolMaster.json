@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2236,
+  "changeIdentifier": 2275,
   "clippingMaskMode": 0,
   "do_objectID": "55930054-CFE9-4A32-B8DF-E5741EB83332",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,11 +54,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "FDD7D4A7-8442-489B-92B7-B68BB67C0B74"
+      "id": "F5F5776B-3FA1-40E5-9F0E-A0D5D4B9E407"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Icon/Copy",
+  "name": "Icon/Box package",
   "nameIsFixed": true,
   "overrideProperties": [
     {

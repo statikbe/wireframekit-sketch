@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FDD7D4A7-8442-489B-92B7-B68BB67C0B74",
+  "do_objectID": "F5F5776B-3FA1-40E5-9F0E-A0D5D4B9E407",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
+    "height": 20,
     "width": 19,
     "x": 2,
-    "y": 1
+    "y": 2
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,11 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "D964B8CF-4749-42FC-93DB-324C575F726E"
+      "id": "58ABDA71-08D7-49EB-B66A-61BFA22D5D46"
     },
     {
       "class": "symbolInstance",
@@ -74,7 +74,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -82,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1F950ED4-21F0-45A5-B4A4-B44913210A83",
+    "do_objectID": "D5D7A9AA-95FE-49D5-84EB-E8E9D1928777",
     "endMarkerType": 0,
     "fills": [
     ],
