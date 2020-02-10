@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0DF427BE-423F-43D3-9822-E2F08CD3B20C",
+  "do_objectID": "CBCA5596-404A-424A-9548-06DFCB0CCE5D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 5.5,
+    "x": 24,
     "y": 0
   },
   "hasClippingMask": false,
@@ -28,13 +28,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
   "name": "Icon/Clock time watch",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "47FFC8A8-842F-4AAF-AA9D-E42050D63DD4_symbolID",
+      "overrideName": "78A36B59-6C20-439E-BCEA-B4A33C45C16A_symbolID",
       "value": "4EEB4B71-E918-4E79-93D2-317102C40E81"
     }
   ],
@@ -77,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "98C58085-C442-4781-82B2-5549F150CD74",
+    "do_objectID": "746D3727-E018-4CA3-A8DF-777FD1988AEC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -109,6 +108,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "24947146-4C3D-40B9-84EA-DA93A06EDCD1",
+  "symbolID": "D943D4B2-28D9-47A9-98A8-C718F31508C7",
   "verticalSpacing": 0
 }

@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -67,7 +69,6 @@
       "id": "388B25C4-165E-45EC-AB04-1185A4D10BD7"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Button/Rounded/Primary/Enabled",
   "nameIsFixed": true,
   "originalObjectID": "35CCB558-3EAA-468D-B8DD-73EE6BC1D735",

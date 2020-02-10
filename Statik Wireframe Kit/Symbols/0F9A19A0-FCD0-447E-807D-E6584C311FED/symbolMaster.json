@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -59,7 +61,6 @@
       "id": "16114501-9086-4363-90CE-5B78992689A6"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Button/Rounded/Secondary/Disabled Icon/Left Copy",
   "nameIsFixed": true,
   "originalObjectID": "207ED9EF-6185-4B82-A6B2-2F8E951235A8",

@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -59,7 +61,6 @@
       "id": "EA2360EF-0C57-4DD1-914B-BC114515E89F"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Button/Rounded/Primary/Disabled Icon/Right",
   "nameIsFixed": true,
   "originalObjectID": "207ED9EF-6185-4B82-A6B2-2F8E951235A8",

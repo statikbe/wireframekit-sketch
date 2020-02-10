@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -67,7 +69,6 @@
       "id": "6C668CD4-438C-4449-A1F7-9DC74F97CB78"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/Quote/Image + Quote + Author",
   "nameIsFixed": true,
   "originalObjectID": "5BC962E2-17CB-4099-9284-12CBF26949EB",

@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "4F4D312F-B074-400D-90DC-55D212E9796C"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Form/Input/Selectize/Option",
   "nameIsFixed": true,
   "originalObjectID": "9723455A-6B68-439E-993C-35E893678A05",

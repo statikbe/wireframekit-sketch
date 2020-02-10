@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,7 +65,6 @@
       "id": "BF727A5A-D03A-4CDB-9639-BF59E5C54D8E"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Type/List/Unordered/Square",
   "nameIsFixed": true,
   "originalObjectID": "A8F4FA59-0653-4997-BE07-8BDBAFA5B049",

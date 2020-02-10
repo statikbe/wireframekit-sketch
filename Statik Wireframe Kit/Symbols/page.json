@@ -2143,7 +2143,6 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
-  "maintainScrollPosition": false,
   "name": "Symbols",
   "nameIsFixed": true,
   "resizingConstraint": 63,

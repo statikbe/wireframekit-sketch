@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -75,7 +77,6 @@
       "id": "A7EA6DA3-49FD-415F-99EA-AFD87DA77E99"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/Notice/Success",
   "nameIsFixed": true,
   "overrideProperties": [

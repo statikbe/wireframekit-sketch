@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "812BFD2C-E705-49FC-B670-323B2C45A68D",
+  "do_objectID": "1D23A923-3D45-40AE-8255-1BFCC315951A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,39 +14,28 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 56,
-    "width": 79,
-    "x": 351,
-    "y": 186
+    "constrainProportions": false,
+    "height": 428,
+    "width": 780,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "shapePath",
-      "id": "2174CF3B-DC8B-4597-B56E-E3E4427E53A8"
-    },
-    {
-      "class": "shapePath",
-      "id": "C25AD327-23B3-43D2-9F0D-B4AC7BAED5AD"
-    }
-  ],
-  "maintainScrollPosition": false,
-  "name": "YouTube",
+  "name": "YouTube Image thumbnail",
   "nameIsFixed": true,
-  "resizingConstraint": 45,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3926B0E4-9DCD-44A6-A211-27041105C15C",
+    "do_objectID": "6EEDFEFE-1DE2-4494-BCE8-8195E60E8DC5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,5 +82,12 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "6C1698C4-8381-400E-A31A-2BFA8899F4DE",
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"shopping cart\""
+    }
+  },
+  "verticalSpacing": 0
 }

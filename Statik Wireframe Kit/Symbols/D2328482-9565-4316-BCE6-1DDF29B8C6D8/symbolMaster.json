@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "AFB0FB20-2A1F-457C-8948-7D31F74DC3F8"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Form/Label/Disabled required text",
   "nameIsFixed": true,
   "originalObjectID": "B6D4A366-EA35-4F1E-96CD-C3E2E48D18F0",

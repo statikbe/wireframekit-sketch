@@ -29,16 +29,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Watch later"
+    "string": "Share"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "854FDC86-C879-4F94-81B6-6862963F948D",
+  "do_objectID": "EED36748-0788-4F5E-A391-C9D441F2D2FA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 71,
+    "width": 36,
     "x": 0,
     "y": 32
   },
-  "glyphBounds": "{{0, 2}, {71, 12}}",
+  "glyphBounds": "{{0, 2}, {36, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,8 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "maintainScrollPosition": false,
-  "name": "Watch later",
+  "name": "Share",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "56D81E38-F623-4DAE-8E7F-92A8AF61DED2",
+    "do_objectID": "EFC691E4-5306-473D-B2C6-7BFD13DF4023",
     "endMarkerType": 0,
     "fills": [
     ],

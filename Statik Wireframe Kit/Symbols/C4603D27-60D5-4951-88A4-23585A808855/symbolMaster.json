@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,7 +65,6 @@
       "id": "507277BF-5474-40C5-8023-3F89D959DE58"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Type/Link/Light/Link Telephone",
   "nameIsFixed": true,
   "originalObjectID": "FE4C1407-3A71-4746-AD28-1BA846B377DE",

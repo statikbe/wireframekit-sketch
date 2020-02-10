@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "AE026072-2446-4A5E-8F46-242E514B55E8"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Utility/DeveloperNote/Arrow/Right",
   "nameIsFixed": true,
   "overrideProperties": [

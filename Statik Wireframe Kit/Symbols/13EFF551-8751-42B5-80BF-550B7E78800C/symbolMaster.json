@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "036D1D5F-3327-40B0-A0EF-481B2CD2BB9C"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Type/Label/Light",
   "nameIsFixed": true,
   "originalObjectID": "13EFF551-8751-42B5-80BF-550B7E78800C",

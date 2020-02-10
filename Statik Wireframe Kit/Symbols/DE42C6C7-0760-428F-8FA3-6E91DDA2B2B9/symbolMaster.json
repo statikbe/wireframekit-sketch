@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "892DB322-B93B-4D04-88CC-7EE6F8060ACC"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Type/Breadcrumb/Dark/2",
   "nameIsFixed": true,
   "originalObjectID": "8907A215-6812-4A37-A501-D58019C73968",

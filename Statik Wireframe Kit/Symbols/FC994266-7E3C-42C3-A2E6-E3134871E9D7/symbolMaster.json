@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "471F7EEC-C89E-4256-9FF1-94068EB6D889"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/CTA/Title + Meta + Intro + Button + Link",
   "nameIsFixed": true,
   "originalObjectID": "FC994266-7E3C-42C3-A2E6-E3134871E9D7",

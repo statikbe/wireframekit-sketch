@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "061A9B9E-62DE-4FF5-9F03-8CFDCF127E89"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Form/Label/Disabled required asterisk",
   "nameIsFixed": true,
   "originalObjectID": "B6D4A366-EA35-4F1E-96CD-C3E2E48D18F0",

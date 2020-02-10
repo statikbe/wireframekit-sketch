@@ -116,7 +116,6 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
-  "maintainScrollPosition": false,
   "name": "Utility/Wireframes Intro",
   "nameIsFixed": true,
   "overrideProperties": [

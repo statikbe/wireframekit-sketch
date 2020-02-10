@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "50F9F28C-98EB-4194-ADCB-B1FB82D89312"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Type/List/Ordered/Roman",
   "nameIsFixed": true,
   "originalObjectID": "FF8AAFAB-C102-4669-867E-343EACF432F4",

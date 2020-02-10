@@ -23,7 +23,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -47,7 +49,6 @@
       "id": "DEF8E574-F151-47A6-8B2D-E4804502AC58"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Group 20 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,

@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "D181F928-C105-4DC4-AF07-8A8FC81BAC2B"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/Card/Horizontal/Img + Title + Intro + Link",
   "nameIsFixed": true,
   "originalObjectID": "C11C064A-2029-438B-97D7-1E4C1F72F228",

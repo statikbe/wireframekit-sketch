@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "19DCEFF9-E55F-4ACD-BE7A-337330D9ADAE"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Type/List/Ordered/Letter Lowercase",
   "nameIsFixed": true,
   "originalObjectID": "FF8AAFAB-C102-4669-867E-343EACF432F4",

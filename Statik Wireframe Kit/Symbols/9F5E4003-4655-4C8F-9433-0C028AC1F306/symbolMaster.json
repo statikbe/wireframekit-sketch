@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,7 +65,6 @@
       "id": "825F7871-5AFA-421C-9A2E-2A57F570C872"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Type/Link/Light/Link Ext",
   "nameIsFixed": true,
   "originalObjectID": "A27CA975-D92C-49E2-87E1-96597214E7DB",

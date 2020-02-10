@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "3552113F-E1F8-4BCC-9CFA-7872BEFA9307"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/Block/Contact Info",
   "nameIsFixed": true,
   "overrideProperties": [

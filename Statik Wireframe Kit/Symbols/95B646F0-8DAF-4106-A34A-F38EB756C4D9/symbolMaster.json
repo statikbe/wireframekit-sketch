@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,7 +65,6 @@
       "id": "E782769E-2A11-4169-A22D-290E115F0934"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Form/Complete/Newsletter (email)",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "A862280F-6EEA-403D-99EC-F7A176F116C7"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/Modal/Text",
   "nameIsFixed": true,
   "overrideProperties": [

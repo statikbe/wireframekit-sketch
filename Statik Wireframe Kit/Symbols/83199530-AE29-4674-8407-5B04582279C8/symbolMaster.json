@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "0D6C919D-DF19-45DA-B40C-6FC398C6858F"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/Block/Contact Info (+ Google Maps)",
   "nameIsFixed": true,
   "overrideProperties": [

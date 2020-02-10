@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -67,7 +69,6 @@
       "id": "A744CB90-7093-4A30-8C54-8D02E81578FC"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Button/Square/Ghost/Dark/Enabled",
   "nameIsFixed": true,
   "originalObjectID": "0189E28D-5C06-45DC-8C9C-255D3563E616",

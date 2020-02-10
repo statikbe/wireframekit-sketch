@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "ABDF2698-AD2C-4DE6-8359-1090F79D088B"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/Hero/Text on image/Light/Centered",
   "nameIsFixed": true,
   "overrideProperties": [

@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "42053AC0-BBA6-4FD6-91FB-C61C202C7409"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/Hero/Text on block/Light/Left",
   "nameIsFixed": false,
   "overrideProperties": [

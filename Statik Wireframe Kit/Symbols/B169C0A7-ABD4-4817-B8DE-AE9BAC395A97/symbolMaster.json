@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "816F7AA7-3D54-4B8E-A01D-7196862A7E75"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Form/Label/Default Error",
   "nameIsFixed": true,
   "originalObjectID": "B6D4A366-EA35-4F1E-96CD-C3E2E48D18F0",

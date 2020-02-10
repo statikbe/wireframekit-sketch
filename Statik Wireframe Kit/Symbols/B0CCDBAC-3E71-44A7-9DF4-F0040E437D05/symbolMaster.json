@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -59,7 +61,6 @@
       "id": "D5140AAB-2850-4380-8BE3-2D057F90D0AB"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Button/Square/Text/Disabled",
   "nameIsFixed": true,
   "originalObjectID": "585AC904-BF91-4AD7-8307-3906853A5C82",

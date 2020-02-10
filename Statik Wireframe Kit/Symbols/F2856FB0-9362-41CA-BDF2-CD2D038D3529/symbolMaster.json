@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 353,
+  "changeIdentifier": 403,
   "clippingMaskMode": 0,
   "do_objectID": "F2856FB0-9362-41CA-BDF2-CD2D038D3529",
   "exportOptions": {
@@ -53,15 +53,34 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "1D23A923-3D45-40AE-8255-1BFCC315951A"
+    },
+    {
+      "class": "rectangle",
+      "id": "09924B6A-C6A3-40D9-9ACE-C241B7F641E3"
+    },
+    {
       "class": "group",
-      "id": "4D4688F9-D3EE-4C47-AD8A-76278A3F75B4"
+      "id": "BE5BA08B-B118-411B-9D6E-AC740325C605"
+    },
+    {
+      "class": "group",
+      "id": "9889ED26-321D-49B5-8B61-91BB4F08A927"
+    },
+    {
+      "class": "group",
+      "id": "1330C0C5-8BB6-4626-8DFB-1092EFA2E4D6"
+    },
+    {
+      "class": "group",
+      "id": "812BFD2C-E705-49FC-B670-323B2C45A68D"
     },
     {
       "class": "symbolInstance",
       "id": "DAAE9082-5F7E-45D9-937A-189DBE101F7E"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Placeholder/YouTube",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -118,7 +137,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,7 +65,6 @@
       "id": "056F175F-CC96-434A-9A4E-A3D1AB5EA642"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Type/List/Unordered/Arrow Right Link",
   "nameIsFixed": true,
   "originalObjectID": "A8F4FA59-0653-4997-BE07-8BDBAFA5B049",

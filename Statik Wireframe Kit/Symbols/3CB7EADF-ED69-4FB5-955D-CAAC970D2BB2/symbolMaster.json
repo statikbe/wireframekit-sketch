@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "53E9EEF5-101E-4BBB-82D7-E2C0064E61F4"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/Hero/Text on image/Dark/Left (small)",
   "nameIsFixed": true,
   "overrideProperties": [

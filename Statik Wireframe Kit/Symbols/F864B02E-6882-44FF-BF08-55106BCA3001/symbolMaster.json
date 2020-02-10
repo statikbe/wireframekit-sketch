@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -75,7 +77,6 @@
       "id": "5C88441C-C070-479D-BD4B-EC1F3697B066"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/Notice/Warning",
   "nameIsFixed": true,
   "overrideProperties": [

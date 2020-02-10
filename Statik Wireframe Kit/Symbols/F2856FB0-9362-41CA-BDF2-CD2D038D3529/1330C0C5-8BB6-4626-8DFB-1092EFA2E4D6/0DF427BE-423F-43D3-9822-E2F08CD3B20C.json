@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C155211B-AC52-4ECB-8EAF-85507ECC5446",
+  "do_objectID": "0DF427BE-423F-43D3-9822-E2F08CD3B20C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 56,
-    "x": 15,
-    "y": 15
+    "height": 24,
+    "width": 24,
+    "x": 5.5,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,22 +27,17 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "maintainScrollPosition": false,
-  "name": "User thumbnail",
-  "nameIsFixed": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/Clock time watch",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "BA537D91-3268-440E-8FFA-A616704399C3_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/f826de4217529ca4ea462c922f6a15be31b39b13.png",
-        "_ref_class": "MSImageData"
-      }
+      "overrideName": "47FFC8A8-842F-4AAF-AA9D-E42050D63DD4_symbolID",
+      "value": "4EEB4B71-E918-4E79-93D2-317102C40E81"
     }
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -81,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "80D00D18-1A7A-466B-9136-9048990DCB33",
+    "do_objectID": "98C58085-C442-4781-82B2-5549F150CD74",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -89,15 +84,30 @@
     ],
     "miterLimit": 10,
     "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
     ],
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "32B522D4-E5A0-4AC3-BA05-3C8A38F54354",
-  "userInfo": {
-    "unsplash": {
-      "unsplash.search.term": "\"portrait\""
-    }
-  },
+  "symbolID": "24947146-4C3D-40B9-84EA-DA93A06EDCD1",
   "verticalSpacing": 0
 }

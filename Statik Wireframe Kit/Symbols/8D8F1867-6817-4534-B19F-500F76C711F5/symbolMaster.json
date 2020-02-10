@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -59,7 +61,6 @@
       "id": "52E2991D-525B-47AF-B827-71CE0C562B06"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Button/Square/Ghost/Light/Icon Disabled/Left",
   "nameIsFixed": true,
   "originalObjectID": "B3482582-FB9F-42DB-BBA2-0EFFA7072BAE",

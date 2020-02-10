@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "3731C07E-D193-4286-9191-49035C82D4F4"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Component/Card/Horizontal/Portrait + Title  + Meta + Intro + Link",
   "nameIsFixed": true,
   "originalObjectID": "E667C3E5-2B8F-4D69-A07D-F53040379605",

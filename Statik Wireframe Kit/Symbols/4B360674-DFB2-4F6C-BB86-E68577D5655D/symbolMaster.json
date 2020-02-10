@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -63,7 +65,6 @@
       "id": "015C8F23-8BA5-4FDC-9FEF-A6F3B4FF1189"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Form/Input/Text/Filled",
   "nameIsFixed": true,
   "originalObjectID": "4B360674-DFB2-4F6C-BB86-E68577D5655D",

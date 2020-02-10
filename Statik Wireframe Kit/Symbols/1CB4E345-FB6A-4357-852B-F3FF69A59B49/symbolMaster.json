@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "299F12B4-9BFF-4C97-85F0-947601E9C7E2"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Form/Label/Required Asterisk Error",
   "nameIsFixed": true,
   "originalObjectID": "B6D4A366-EA35-4F1E-96CD-C3E2E48D18F0",

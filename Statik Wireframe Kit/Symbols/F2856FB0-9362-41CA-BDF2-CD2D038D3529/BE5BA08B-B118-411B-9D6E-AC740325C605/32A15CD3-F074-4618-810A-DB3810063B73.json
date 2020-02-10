@@ -17,28 +17,28 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 14
+              "size": 18
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 41,
         "location": 0
       }
     ],
-    "string": "Share"
+    "string": "Title of the YouTube video comes here ..."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EED36748-0788-4F5E-A391-C9D441F2D2FA",
+  "do_objectID": "32A15CD3-F074-4618-810A-DB3810063B73",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 36,
-    "x": 0,
-    "y": 32
+    "height": 21,
+    "width": 326,
+    "x": 71,
+    "y": 18
   },
-  "glyphBounds": "{{0, 2}, {36, 12}}",
+  "glyphBounds": "{{0, 3}, {325, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,10 +66,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "maintainScrollPosition": false,
-  "name": "Share",
+  "name": "Title of the YouTube",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -107,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EFC691E4-5306-473D-B2C6-7BFD13DF4023",
+    "do_objectID": "0B0452F7-2A32-4A3A-8436-F8CB4171B743",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -151,13 +150,13 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 14
+            "size": 18
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0
         },

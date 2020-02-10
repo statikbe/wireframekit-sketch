@@ -100,7 +100,6 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
-  "maintainScrollPosition": false,
   "name": "Commerce/Checkout/Flow/Step 3.2: Shipping details (add new address)",
   "nameIsFixed": true,
   "originalObjectID": "9A019487-A7A5-445B-8FA9-282605CB2EC1",

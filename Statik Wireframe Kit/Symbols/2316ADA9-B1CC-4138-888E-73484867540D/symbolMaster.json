@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -74,7 +76,6 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
-  "maintainScrollPosition": false,
   "name": "Component/CTA Banner/CTA Banner Dark",
   "nameIsFixed": true,
   "originalObjectID": "8F1AC368-3579-47FE-9431-F99CC32ECCBC",

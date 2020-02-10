@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,7 +65,6 @@
       "id": "C008D124-7735-4B2F-A505-341B8CC03E1A"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Type/Link/Dark/Link Prev",
   "nameIsFixed": true,
   "originalObjectID": "D99ED2B2-F6CB-43AB-9DDD-0EFBF950286C",

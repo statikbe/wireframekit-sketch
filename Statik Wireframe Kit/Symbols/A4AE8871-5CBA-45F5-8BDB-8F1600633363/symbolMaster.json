@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 1,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "F59B66C4-F1FD-4D32-AA48-98298BE4A9CE"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Utility/Note/Default",
   "nameIsFixed": true,
   "overrideProperties": [

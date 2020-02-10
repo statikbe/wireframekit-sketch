@@ -32,7 +32,9 @@
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
-    "layoutAnchor": 0
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,7 +61,6 @@
       "id": "A6BDA313-69D6-4BC9-99F0-9A21094F62D7"
     }
   ],
-  "maintainScrollPosition": false,
   "name": "Type/List/Unordered/Circle",
   "nameIsFixed": true,
   "originalObjectID": "FF8AAFAB-C102-4669-867E-343EACF432F4",

@@ -76,7 +76,6 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1180
   },
-  "maintainScrollPosition": false,
   "name": "Commerce/Cart/Table/Product",
   "nameIsFixed": true,
   "overrideProperties": [
