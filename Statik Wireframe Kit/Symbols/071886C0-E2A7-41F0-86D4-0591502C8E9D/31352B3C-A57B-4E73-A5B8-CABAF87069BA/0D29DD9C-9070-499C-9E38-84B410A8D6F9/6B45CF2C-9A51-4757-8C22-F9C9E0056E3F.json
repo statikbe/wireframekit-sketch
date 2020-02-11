@@ -16,19 +16,20 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 18
+              "name": "Roboto-Bold",
+              "size": 14
             }
           },
-          "kerning": 0,
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 3,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 26,
-            "minimumLineHeight": 26,
-            "paragraphSpacing": 26
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
+            "paragraphSpacing": 20
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
@@ -56,12 +57,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
-    "width": 220,
+    "height": 20,
+    "width": 284,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {219, 15}}",
+  "glyphBounds": "{{0, 4}, {281, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -75,7 +76,6 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D9BCA18C-B0FB-4A9C-A238-169EC0FDAB21",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -134,19 +134,20 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 18
+            "name": "Roboto-Bold",
+            "size": 14
           }
         },
-        "kerning": 0,
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 3,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 26,
-          "minimumLineHeight": 26,
-          "paragraphSpacing": 26
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
+          "paragraphSpacing": 20
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0
