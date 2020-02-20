@@ -71,10 +71,10 @@
   "lineSpacingBehaviour": 2,
   "name": "Praesent commodo cur",
   "nameIsFixed": false,
-  "resizingConstraint": 27,
+  "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {

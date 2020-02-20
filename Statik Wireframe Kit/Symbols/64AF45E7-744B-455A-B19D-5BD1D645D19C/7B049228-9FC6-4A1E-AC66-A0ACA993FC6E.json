@@ -54,7 +54,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 191,
+    "width": 540,
     "x": 20,
     "y": 15
   },
@@ -69,10 +69,10 @@
   "lineSpacingBehaviour": 2,
   "name": "Danger! Notice title",
   "nameIsFixed": false,
-  "resizingConstraint": 11,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -148,5 +148,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

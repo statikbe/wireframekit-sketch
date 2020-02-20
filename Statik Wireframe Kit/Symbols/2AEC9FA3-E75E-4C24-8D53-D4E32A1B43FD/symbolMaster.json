@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2929,
+  "changeIdentifier": 3044,
   "clippingMaskMode": 0,
   "do_objectID": "2AEC9FA3-E75E-4C24-8D53-D4E32A1B43FD",
   "exportOptions": {
@@ -57,24 +57,32 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "FB634AA8-AF40-4335-A9C6-702658A87D16"
-    },
-    {
-      "class": "group",
-      "id": "C74A9D19-0C33-4363-9C3A-A67330BA1FC6"
-    },
-    {
-      "class": "text",
-      "id": "DCABCC1D-5547-4D8C-8E87-B7064EFB61C2"
-    },
-    {
-      "class": "text",
-      "id": "E5862E80-E7CF-4975-8D83-05D49A1B319C"
+      "class": "symbolInstance",
+      "id": "1C374A5A-70F8-4967-9CE0-33B6097E7F68"
     },
     {
       "class": "symbolInstance",
-      "id": "F0507401-7262-4778-8429-A49170A7511C"
+      "id": "079091CC-E443-40B4-8359-5FB4FC8C46E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7CF1F6B-FB26-4F93-93F9-7FFBE8A61CD2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97A7B533-64B6-4FF9-B5FF-2684DDD16095"
+    },
+    {
+      "class": "text",
+      "id": "C7D83B57-1443-4B7F-8F6A-EAD7491682AE"
+    },
+    {
+      "class": "text",
+      "id": "A7342D37-1625-41F7-ACB7-92D4B4FD62CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6CAE2F4-711F-4F61-AD7B-0123E3D4DC76"
     }
   ],
   "name": "Component/Notice/Info",
