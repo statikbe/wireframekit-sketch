@@ -36,12 +36,12 @@
         "location": 0
       }
     ],
-    "string": "I."
+    "string": "a."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "FC43D061-7A0D-4102-A700-DAAD312300BB",
+  "do_objectID": "7AFA8896-4199-4715-8B70-44E2C7A9C404",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,11 +56,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 10,
+    "width": 24,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 6}, {8, 14}}",
+  "glyphBounds": "{{0, 9}, {14, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,10 +69,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "I.",
+  "name": "a.",
   "nameIsFixed": false,
   "originalObjectID": "5FCE4402-C9FF-4201-B8D6-520350FEFBC2",
-  "resizingConstraint": 11,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -110,7 +110,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F5C3FC19-87C6-4890-9555-EE95CE8C0A05",
+    "do_objectID": "E4816611-E824-42D6-9635-1C6C9C4D9818",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -153,7 +153,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

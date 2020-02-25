@@ -32,16 +32,16 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 21,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "Free fruit on fridays"
+    "string": "A."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "D70AEB22-4E7D-4D44-9146-996100804088",
+  "do_objectID": "8E1D4251-006D-4768-8A7B-A5762720773F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,11 +56,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 165,
-    "x": 24,
+    "width": 24,
+    "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 5}, {154, 18}}",
+  "glyphBounds": "{{0, 6}, {16, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,10 +69,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Free fruit on friday",
+  "name": "A.",
   "nameIsFixed": false,
   "originalObjectID": "5FCE4402-C9FF-4201-B8D6-520350FEFBC2",
-  "resizingConstraint": 11,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -110,7 +110,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D2CA9B1E-B159-4A55-B81F-0226E57FFF84",
+    "do_objectID": "A759C62A-FDEE-4CF0-9D89-35927BF580D2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -157,7 +157,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

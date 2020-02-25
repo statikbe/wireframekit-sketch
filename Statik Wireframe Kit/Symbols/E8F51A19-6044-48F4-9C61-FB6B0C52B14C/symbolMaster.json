@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2344,
+  "changeIdentifier": 2368,
   "clippingMaskMode": 0,
   "do_objectID": "E8F51A19-6044-48F4-9C61-FB6B0C52B14C",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 189,
+    "width": 180,
     "x": -10731,
     "y": 18853
   },
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "50F9F28C-98EB-4194-ADCB-B1FB82D89312"
+      "class": "text",
+      "id": "F6F74EAC-CA64-425D-9A0D-7C8910A54233"
+    },
+    {
+      "class": "text",
+      "id": "FC43D061-7A0D-4102-A700-DAAD312300BB"
     }
   ],
   "name": "Type/List/Ordered/Roman",
@@ -78,7 +82,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
