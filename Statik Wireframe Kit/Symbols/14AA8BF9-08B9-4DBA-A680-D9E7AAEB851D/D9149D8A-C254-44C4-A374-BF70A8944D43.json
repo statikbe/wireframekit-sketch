@@ -41,7 +41,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "16722A62-6ADD-418C-9A4F-40DF1E5A1A3B",
+  "do_objectID": "D9149D8A-C254-44C4-A374-BF70A8944D43",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,8 +56,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 165,
-    "x": 0,
+    "width": 156,
+    "x": 22,
     "y": 0
   },
   "glyphBounds": "{{1, 5}, {154, 18}}",
@@ -110,7 +110,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "955A9E00-9C49-402E-B2A4-DB87101C8C34",
+    "do_objectID": "0B64B8FC-A565-4F5A-9864-A452648EFFAA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -153,7 +153,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

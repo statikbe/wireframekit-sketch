@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2411,
+  "changeIdentifier": 2428,
   "clippingMaskMode": 0,
   "do_objectID": "FF8AAFAB-C102-4669-867E-343EACF432F4",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 189,
+    "width": 180,
     "x": -11020,
     "y": 18807
   },
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "A6BDA313-69D6-4BC9-99F0-9A21094F62D7"
+      "class": "text",
+      "id": "5FCE4402-C9FF-4201-B8D6-520350FEFBC2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F5B0257-7B41-49C2-838C-58A552B2FA51"
     }
   ],
   "name": "Type/List/Unordered/Circle",
