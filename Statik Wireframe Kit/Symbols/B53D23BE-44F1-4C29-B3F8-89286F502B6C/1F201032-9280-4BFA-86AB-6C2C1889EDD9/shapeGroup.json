@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "41DB2090-8ACA-4E92-8480-EE0C3439C4B3",
+  "do_objectID": "1F201032-9280-4BFA-86AB-6C2C1889EDD9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -34,17 +34,17 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "48894B55-6C03-48E0-ADF4-31434542075C"
+      "id": "00D4B3AF-A6C1-4811-AABF-8C7B585E428E"
     },
     {
       "class": "rectangle",
-      "id": "5C40643D-8237-458E-90DE-00CE43BB6B96"
+      "id": "A8C8B63F-FA23-4F8B-A461-BA8198FD241D"
     }
   ],
   "name": "Combined Shape",
   "nameIsFixed": false,
-  "originalObjectID": "EED95962-7E72-4EE6-A035-6F7039E0DFED",
-  "resizingConstraint": 18,
+  "originalObjectID": "BA415EFB-94D5-4217-ABC3-778E75EAEB16",
+  "resizingConstraint": 58,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "AA4C7E61-1BC2-40AA-8205-3419A805F8D4",
@@ -133,7 +133,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2331F02A-8258-47F2-B340-3490D4282C7D",
+    "do_objectID": "6BD1BA5A-C6DD-42CD-B38A-8CBD936A9602",
     "endMarkerType": 0,
     "fills": [
       {

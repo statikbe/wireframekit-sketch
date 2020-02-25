@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": 1,
   "clippingMaskMode": 0,
-  "do_objectID": "71A6C777-96FC-48B0-8832-0D09096E5BDA",
+  "do_objectID": "A8C8B63F-FA23-4F8B-A461-BA8198FD241D",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -13,13 +13,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 100,
+  "fixedRadius": 18,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
     "width": 196,
-    "x": 2.00000000000006,
+    "x": 2.000000000000062,
     "y": 2
   },
   "hasClippingMask": false,
@@ -39,7 +39,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 100,
+      "cornerRadius": 18,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 100,
+      "cornerRadius": 18,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 100,
+      "cornerRadius": 18,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 100,
+      "cornerRadius": 18,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -166,7 +166,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E6E008B5-06A3-4184-AE31-F0551E4890A7",
+    "do_objectID": "E69BDE6A-282F-4802-A394-0571574FB631",
     "endMarkerType": 0,
     "fills": [
       {
@@ -229,11 +229,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }

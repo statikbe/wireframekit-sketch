@@ -1,9 +1,8 @@
 {
-  "_class": "rectangle",
-  "booleanOperation": 1,
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "0FC57957-5A6B-46A8-9722-71B838BCB56D",
-  "edited": false,
+  "do_objectID": "CEF83BCC-9B6E-43B0-B745-9D6A6AD798E1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,74 +12,42 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 100,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 176,
-    "x": 2.00000000000006,
-    "y": 2
+    "height": 40,
+    "width": 200.0000000000001,
+    "x": 0,
+    "y": 0
   },
-  "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Mask",
-  "nameIsFixed": false,
-  "needsConvertionToNewRoundCorners": false,
-  "originalObjectID": "F6B19259-69F8-4D5A-9F36-CA57FA40A0D5",
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 100,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
+      "class": "rectangle",
+      "id": "C38211FA-EF8B-41CA-B8D2-92647185B8D1"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 100,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 100,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 100,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "class": "rectangle",
+      "id": "3CB6E426-ED24-48B1-B77D-EECF2A62C8E3"
     }
   ],
-  "resizingConstraint": 18,
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "originalObjectID": "BA415EFB-94D5-4217-ABC3-778E75EAEB16",
+  "resizingConstraint": 58,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "AA4C7E61-1BC2-40AA-8205-3419A805F8D4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -166,7 +133,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2E3D369F-E270-464D-AFA4-EA37E4763C18",
+    "do_objectID": "CCA2E9AE-4A0A-42BD-B5B3-B1708F12422B",
     "endMarkerType": 0,
     "fills": [
       {
@@ -229,5 +196,12 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
 }

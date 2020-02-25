@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "3886AEC8-FB91-4A08-9F57-553883CD8BDE",
+  "do_objectID": "8A86A90B-9D06-4A73-BE62-FA7122270149",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,27 +16,38 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 200.0000000000001,
+    "width": 180.0000000000001,
     "x": 0,
     "y": 0
   },
-  "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Color/Primary",
-  "nameIsFixed": false,
-  "originalObjectID": "96A0835F-1B95-467C-BE1D-F862394ADD8E",
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "11C5FA24-09AF-4768-AE34-B77FEC8C727A"
+    },
+    {
+      "class": "rectangle",
+      "id": "7B7BD743-E5E9-472A-B010-027030155B49"
+    }
   ],
-  "resizingConstraint": 18,
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "originalObjectID": "F2D0EEF3-9C3B-41D1-97A3-FB9FFA671CBF",
+  "resizingConstraint": 58,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "sharedStyleID": "AA4C7E61-1BC2-40AA-8205-3419A805F8D4",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -72,7 +83,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0B60B2B6-C530-44C1-B163-5C74E4F2C99F",
+    "do_objectID": "DDC24982-1962-4D24-BF43-4C0C38FD367C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -84,12 +95,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8747D4F5-7F9A-4ADC-8A25-DD0F92608DA9",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
-  "verticalSpacing": 0
+  "windingRule": 1
 }

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2926,
+  "changeIdentifier": 3018,
   "clippingMaskMode": 0,
   "do_objectID": "B53D23BE-44F1-4C29-B3F8-89286F502B6C",
   "exportOptions": {
@@ -58,11 +58,11 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "41DB2090-8ACA-4E92-8480-EE0C3439C4B3"
+      "id": "1F201032-9280-4BFA-86AB-6C2C1889EDD9"
     },
     {
       "class": "symbolInstance",
-      "id": "5A372115-1C21-48CC-8A61-04A6A3646042"
+      "id": "5C4CE223-3E86-43C2-BE7C-8EAE77D191CC"
     },
     {
       "class": "text",

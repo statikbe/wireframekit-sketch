@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "FC4152DF-0F83-4B84-95B0-F709F6C92175",
+  "do_objectID": "E2F43A7F-513B-4E56-B9C4-10FB79607A0D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -30,10 +30,10 @@
   "layerListExpandedType": 0,
   "name": "Color/Primary",
   "nameIsFixed": false,
-  "originalObjectID": "FC4152DF-0F83-4B84-95B0-F709F6C92175",
+  "originalObjectID": "E915BC56-A753-4062-8BD6-5FFF3E7330A1",
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -72,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3AA310FD-17CA-4BB6-AA51-D702A7377315",
+    "do_objectID": "EBEAB8D8-CD31-4B97-B06F-D6D87C4A2447",
     "endMarkerType": 0,
     "fills": [
     ],
