@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1591,
+  "changeIdentifier": 1672,
   "clippingMaskMode": 0,
   "do_objectID": "8689E568-1830-428E-9798-15D672BC25BC",
   "exportOptions": {
@@ -53,8 +53,24 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "5B413236-ADE0-45ED-B621-A17E2A5AB313"
+      "class": "symbolInstance",
+      "id": "93249FF6-E2BC-42CA-99F8-33A8AAED477B"
+    },
+    {
+      "class": "text",
+      "id": "216B03B2-A5E0-4063-B912-B3F241AD75CF"
+    },
+    {
+      "class": "text",
+      "id": "F16D714A-FF37-4D54-8EB1-B6CB165F7C1F"
+    },
+    {
+      "class": "text",
+      "id": "3BFC4495-67AB-40B4-B720-10793C9CBA38"
+    },
+    {
+      "class": "text",
+      "id": "765282AB-46B8-4342-95DE-FDCABAB76E48"
     }
   ],
   "layout": {

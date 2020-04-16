@@ -2161,7 +2161,27 @@
     },
     {
       "class": "symbolMaster",
+      "id": "31A08643-3DAB-4803-90DA-5DFF3D1F264C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3517AC89-4B7F-45AB-912B-3953A567CB6D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7882A244-A380-440D-8E7E-B6CACBA2D7F5"
+    },
+    {
+      "class": "symbolMaster",
       "id": "606CECCD-32ED-4C4D-A8BE-5218F80E22C8"
+    },
+    {
+      "class": "text",
+      "id": "49C4E0CC-370C-4601-B90F-0B40AC3F3E61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D524DBB1-5867-4595-A2B9-B7E1D4E17051"
     }
   ],
   "layout": {
