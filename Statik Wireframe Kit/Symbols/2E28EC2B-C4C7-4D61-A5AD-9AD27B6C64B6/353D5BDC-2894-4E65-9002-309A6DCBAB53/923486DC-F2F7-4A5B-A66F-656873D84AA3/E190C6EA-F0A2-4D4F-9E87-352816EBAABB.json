@@ -68,7 +68,7 @@
         "location": 7
       }
     ],
-    "string": "© 2018 {Brand Name}"
+    "string": "© 2020 {Brand Name}"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -101,7 +101,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "© 2018 {Brand Name}",
+  "name": "© 2020 {Brand Name}",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
