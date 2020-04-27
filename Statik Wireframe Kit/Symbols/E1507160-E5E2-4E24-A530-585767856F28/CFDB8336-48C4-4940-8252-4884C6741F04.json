@@ -32,7 +32,7 @@
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 34,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -69,7 +69,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.5
     },
     "do_objectID": "D6489FD4-FB44-4ECD-9C5C-AF6DC1405C05",
     "endMarkerType": 0,
