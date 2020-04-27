@@ -80,6 +80,22 @@
     {
       "class": "symbolInstance",
       "id": "A1180F2C-2B18-4AA3-B496-65817D8A8FDC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71C2BA0C-1A16-4ABA-B7B4-0FDF73129517"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3251FADB-74C9-4B8A-B757-96743CD23732"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F7EACC6-938B-43CF-BE34-9BA887EDEBE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5516659A-DA85-4453-8524-F8C66310130B"
     }
   ],
   "layout": {

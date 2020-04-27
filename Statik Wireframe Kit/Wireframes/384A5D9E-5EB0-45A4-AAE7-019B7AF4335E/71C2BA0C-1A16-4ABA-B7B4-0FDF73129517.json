@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "84A5768A-9D48-46DA-A9A2-0F57474672E6",
+  "do_objectID": "71C2BA0C-1A16-4ABA-B7B4-0FDF73129517",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 211,
-    "x": 29,
-    "y": 0
+    "height": 16,
+    "width": 157,
+    "x": 636,
+    "y": 2568
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Utility/Note/Marker/Left",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "text",
-      "id": "F2BE3004-F1BD-407C-88B0-5E4847BC51A9"
+      "_class": "overrideValue",
+      "overrideName": "2B171E24-8862-43D9-9E31-66A643AC6DED_stringValue",
+      "value": "2"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
-  "resizingConstraint": 27,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -69,7 +68,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -77,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "56E5190F-A0EA-4B07-B562-120BD55536CE",
+    "do_objectID": "8D371E48-963D-4C2D-9AB1-3F6B1DBBD707",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,5 +87,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "DA3D4B02-1A18-49E4-9C9F-3B8E14D1E34D",
+  "verticalSpacing": 0
 }

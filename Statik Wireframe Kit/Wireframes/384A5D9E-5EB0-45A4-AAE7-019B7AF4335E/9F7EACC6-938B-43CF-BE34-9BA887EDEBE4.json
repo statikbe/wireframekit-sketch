@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "84A5768A-9D48-46DA-A9A2-0F57474672E6",
+  "do_objectID": "9F7EACC6-938B-43CF-BE34-9BA887EDEBE4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 211,
-    "x": 29,
-    "y": 0
+    "height": 48,
+    "width": 219,
+    "x": 530,
+    "y": 2688
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Utility/Note/Marker/Text",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "text",
-      "id": "F2BE3004-F1BD-407C-88B0-5E4847BC51A9"
+      "_class": "overrideValue",
+      "overrideName": "F2BE3004-F1BD-407C-88B0-5E4847BC51A9_stringValue",
+      "value": "De tekst is afhankelijk van de gebruiker lorem ipsum dolor sit amet"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9E18E3E3-EC2A-4534-83AB-694F3C37D10C_stringValue",
+      "value": "2"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
-  "resizingConstraint": 27,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -69,7 +73,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -77,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "56E5190F-A0EA-4B07-B562-120BD55536CE",
+    "do_objectID": "139C6DE3-6741-4E98-82EF-082E04E215E8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,5 +92,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "091E6BED-5BEA-49A4-B4E0-EA2458B16EB3",
+  "verticalSpacing": 0
 }
