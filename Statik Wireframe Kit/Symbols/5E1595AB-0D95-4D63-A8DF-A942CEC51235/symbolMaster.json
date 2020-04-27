@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1703,
+  "changeIdentifier": 1706,
   "clippingMaskMode": 0,
   "do_objectID": "5E1595AB-0D95-4D63-A8DF-A942CEC51235",
   "exportOptions": {
@@ -42,7 +42,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -66,7 +66,7 @@
       "id": "A9BB0FA7-75C4-4317-BEB8-9A11CF3B7FB7"
     }
   ],
-  "name": "Placeholder/Unsplash/Blue/Square",
+  "name": "Placeholder/Unsplash/Grayscale/Square",
   "nameIsFixed": true,
   "originalObjectID": "4C07D6F4-A2AE-4E1D-87C1-DECEAB5CEE8D",
   "overrideProperties": [
