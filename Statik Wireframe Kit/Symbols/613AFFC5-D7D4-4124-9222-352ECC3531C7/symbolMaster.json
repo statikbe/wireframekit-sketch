@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 926,
+  "changeIdentifier": 1172,
   "clippingMaskMode": 0,
   "do_objectID": "613AFFC5-D7D4-4124-9222-352ECC3531C7",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 710,
+    "height": 241,
     "width": 600,
     "x": -10012,
     "y": 1501
@@ -37,7 +37,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,8 +57,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "A862280F-6EEA-403D-99EC-F7A176F116C7"
+      "class": "rectangle",
+      "id": "5835F7F6-C91B-4377-80E0-3B4A5B74A03E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5CA7D84-5347-4A70-9A1E-FFFD278091C8"
+    },
+    {
+      "class": "text",
+      "id": "A55CD565-82DE-4A40-9B4C-C6BFD99AFDB2"
+    },
+    {
+      "class": "text",
+      "id": "5CD2AF85-E779-42B8-97A6-C8FD4ECA9590"
     }
   ],
   "name": "Component/Modal/Text",
@@ -67,12 +79,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "1D2C3527-8EFD-48B6-8EA4-D652A9A19991_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CFE55930-DECF-43E0-8C0F-616A461E4D1F_symbolID"
+      "overrideName": "D5CA7D84-5347-4A70-9A1E-FFFD278091C8_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -92,22 +99,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A1ACBAE6-4DF7-468A-80B0-C44CFD41B0FE_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "A1ACBAE6-4DF7-468A-80B0-C44CFD41B0FE_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "A55CD565-82DE-4A40-9B4C-C6BFD99AFDB2_textStyle"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
