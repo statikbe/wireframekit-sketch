@@ -1,5 +1,6 @@
 {
   "_class": "document",
+  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -211,11 +212,14 @@
     "images": [
     ]
   },
+  "autoEmbedFonts": false,
   "colorSpace": 0,
   "do_objectID": "37CF59EA-654B-410F-A103-942F8981C23C",
   "fontReferences": [
   ],
   "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
   ],
   "foreignSymbols": [
   ],
@@ -227,15 +231,20 @@
     ]
   },
   "meta": {
-    "appVersion": "65",
-    "build": 95493,
-    "version": 127
+    "appVersion": "66.1",
+    "build": 97080,
+    "version": 130
   },
   "pages": [
     "Wireframes",
     "Symbols",
     "Type styles"
   ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  },
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":11173187,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
