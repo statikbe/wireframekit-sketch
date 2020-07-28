@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4232,
+  "changeIdentifier": 4261,
   "clippingMaskMode": 0,
   "do_objectID": "6FDADDDB-6E1B-4BBB-B36C-50D7E53CA51A",
   "exportOptions": {
@@ -57,8 +57,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "BCE59174-D304-45FB-AE97-42221D781EEE"
+      "class": "rectangle",
+      "id": "C12DB52E-6FC4-490B-9D25-D9D1BD172B6E"
+    },
+    {
+      "class": "text",
+      "id": "C01B580B-4882-46B7-990A-6924E2AD0FFB"
+    },
+    {
+      "class": "text",
+      "id": "A6D113C7-E161-4052-9E47-CA4F6D6158A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "368E5DE4-5394-4076-958F-C97D0F8B6DFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3650749-BAB1-47C8-B178-4421514AB283"
     }
   ],
   "name": "Component/Card/Vertical/Img + Title + Intro + Link",
@@ -88,7 +104,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

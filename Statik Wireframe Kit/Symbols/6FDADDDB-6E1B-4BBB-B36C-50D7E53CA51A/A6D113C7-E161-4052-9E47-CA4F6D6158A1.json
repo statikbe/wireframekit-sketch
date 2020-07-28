@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
-              "size": 22
+              "name": "Roboto-Regular",
+              "size": 18
             }
           },
           "kerning": 0,
@@ -26,20 +26,22 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "baseWritingDirection": 0,
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30
-          }
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
-        "length": 10,
+        "length": 55,
         "location": 0
       }
     ],
-    "string": "Card title"
+    "string": "Fusce dapibus, tellus ac cursus commodo, tortor mauris."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "C01B580B-4882-46B7-990A-6924E2AD0FFB",
+  "do_objectID": "A6D113C7-E161-4052-9E47-CA4F6D6158A1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,12 +55,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
+    "height": 52,
     "width": 340,
-    "x": 0,
-    "y": 0
+    "x": 20,
+    "y": 440
   },
-  "glyphBounds": "{{0, 6}, {90, 18}}",
+  "glyphBounds": "{{0, 5}, {339, 41}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,10 +69,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Card title",
+  "name": "Fusce dapibus, tellu",
   "nameIsFixed": false,
-  "originalObjectID": "C01B580B-4882-46B7-990A-6924E2AD0FFB",
-  "resizingConstraint": 27,
+  "originalObjectID": "A6D113C7-E161-4052-9E47-CA4F6D6158A1",
+  "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -108,7 +110,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EFF3B70C-BAC8-4B82-A580-9899905FA8C8",
+    "do_objectID": "429522AC-C425-47C8-AFCA-EEF6F23DC6C5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -131,8 +133,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
-            "size": 22
+            "name": "Roboto-Regular",
+            "size": 18
           }
         },
         "kerning": 0,
@@ -141,20 +143,15 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "baseWritingDirection": 0,
-          "maximumLineHeight": 30,
-          "minimumLineHeight": 30
-        }
+          "maximumLineHeight": 26,
+          "minimumLineHeight": 26
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 0
-      }
-    }
-  }
+  "textBehaviour": 1
 }

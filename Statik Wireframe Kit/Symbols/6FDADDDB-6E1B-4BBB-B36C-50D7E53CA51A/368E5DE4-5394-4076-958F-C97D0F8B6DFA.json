@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "DFD0CAA9-8EF6-4792-B306-2B084A40FF33",
+  "do_objectID": "368E5DE4-5394-4076-958F-C97D0F8B6DFA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +15,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 92,
-    "width": 340,
+    "height": 27,
+    "width": 107,
     "x": 20,
-    "y": 400
+    "y": 502
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Type/Link/Link Ext",
+  "nameIsFixed": false,
+  "originalObjectID": "368E5DE4-5394-4076-958F-C97D0F8B6DFA",
+  "overrideValues": [
     {
-      "class": "text",
-      "id": "C01B580B-4882-46B7-990A-6924E2AD0FFB"
-    },
-    {
-      "class": "text",
-      "id": "A6D113C7-E161-4052-9E47-CA4F6D6158A1"
+      "_class": "overrideValue",
+      "overrideName": "6726714C-8C8D-4642-BC66-A6D6687DE3AD_stringValue",
+      "value": "Read more"
     }
   ],
-  "name": "Type/Text block/Intro",
-  "nameIsFixed": false,
-  "originalObjectID": "DFD0CAA9-8EF6-4792-B306-2B084A40FF33",
-  "resizingConstraint": 39,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "68197D14-F1FC-4D4C-8FC9-EC636F9FF337",
+    "do_objectID": "73FCC08B-F965-49AE-86FE-9563CE967686",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -94,10 +89,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "symbolID": "9E5A81C1-01BD-4058-8C26-86F3008C901E",
+  "verticalSpacing": 0
 }
