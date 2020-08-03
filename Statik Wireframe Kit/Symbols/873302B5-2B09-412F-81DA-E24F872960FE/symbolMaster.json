@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1459,
+  "changeIdentifier": 1540,
   "clippingMaskMode": 0,
   "do_objectID": "873302B5-2B09-412F-81DA-E24F872960FE",
   "exportOptions": {
@@ -53,8 +53,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "4D3AF0A2-290A-4C66-B5C9-B624D6149BBA"
+      "class": "shapeGroup",
+      "id": "17EB6B1B-D248-4D54-814B-E6E13781742F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94A2B813-4B06-4AB4-B6A1-F101BCFED773"
     }
   ],
   "name": "Icon/Form/Checkbox/Stylized/Unchecked",

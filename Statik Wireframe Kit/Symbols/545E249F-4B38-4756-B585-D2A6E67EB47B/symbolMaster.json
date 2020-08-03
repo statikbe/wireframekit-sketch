@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1763,
+  "changeIdentifier": 1835,
   "clippingMaskMode": 0,
   "do_objectID": "545E249F-4B38-4756-B585-D2A6E67EB47B",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,12 +53,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "7883CD9B-8F63-4C33-9FD7-8DE733203A57"
+      "class": "shapeGroup",
+      "id": "D240673B-5D42-4A62-8D1C-ACA13A27998F"
     },
     {
       "class": "symbolInstance",
-      "id": "97DD98EA-EC91-4311-8844-8B1380E218C2"
+      "id": "AD08E82E-F205-49E8-A833-F531F5BE99C2"
     }
   ],
   "name": "Icon/Form/Checkbox/Stylized/Partially checked",

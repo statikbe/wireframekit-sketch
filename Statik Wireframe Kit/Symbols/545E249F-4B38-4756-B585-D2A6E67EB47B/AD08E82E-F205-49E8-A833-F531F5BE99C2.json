@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "E30A78A7-169B-4875-95B1-E1D1C664674C",
+  "do_objectID": "AD08E82E-F205-49E8-A833-F531F5BE99C2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 20,
+    "height": 24,
+    "width": 24,
     "x": 0,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "group",
-      "id": "F35E707D-C957-4C0D-B839-174942683F3C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "057A5928-11AB-4145-9273-1E135D2E8278"
-    }
-  ],
+  "layerListExpandedType": 0,
   "name": "Color/Primary/100%",
   "nameIsFixed": false,
+  "originalObjectID": "B60405C1-CF33-432B-9F03-B4A5DEFC91D0",
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "09E19D89-D2B5-4560-A5C6-7CC87B7FAAA2",
+    "do_objectID": "B1D1EB15-598A-4E4D-8210-9A6F8FFA8894",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,10 +84,12 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "8747D4F5-7F9A-4ADC-8A25-DD0F92608DA9",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "verticalSpacing": 0
 }
