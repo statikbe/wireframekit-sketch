@@ -1,6 +1,5 @@
 {
   "_class": "document",
-  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -212,7 +211,6 @@
     "images": [
     ]
   },
-  "autoEmbedFonts": false,
   "colorSpace": 0,
   "do_objectID": "37CF59EA-654B-410F-A103-942F8981C23C",
   "fontReferences": [
@@ -331,9 +329,9 @@
     ]
   },
   "meta": {
-    "appVersion": "67.2",
-    "build": 100443,
-    "version": 130
+    "appVersion": "68",
+    "build": 102490,
+    "version": 131
   },
   "pages": [
     "Wireframes",

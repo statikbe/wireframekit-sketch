@@ -2218,6 +2218,10 @@
     {
       "class": "symbolInstance",
       "id": "D524DBB1-5867-4595-A2B9-B7E1D4E17051"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "97BAFBA5-FB9D-4AC6-9F3A-D16399C46D0C"
     }
   ],
   "layout": {
