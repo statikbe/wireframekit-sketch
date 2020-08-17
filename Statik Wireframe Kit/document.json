@@ -226,6 +226,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "26024483-34A0-4828-BFD7-73F1866BC47A",
+      "fontFamilyName": "Merriweather Light",
+      "fontFileName": "Merriweather 300italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Merriweather-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "31CC3A93-FF52-4624-A429-2DD3365C9CB7",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto 700.ttf",
@@ -292,6 +302,16 @@
       "options": 0,
       "postscriptNames": [
         "Roboto-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8FA1E455-F912-4DEC-8471-510BAE6862A9",
+      "fontFamilyName": "Merriweather Light",
+      "fontFileName": "Merriweather 300.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Merriweather-Light"
       ]
     },
     {
