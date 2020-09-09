@@ -349,8 +349,8 @@
     ]
   },
   "meta": {
-    "appVersion": "68",
-    "build": 102490,
+    "appVersion": "68.2",
+    "build": 102594,
     "version": 131
   },
   "pages": [
@@ -364,6 +364,18 @@
     ]
   },
   "userInfo": {
+    "com.invision.dsm": {
+      "libraryMetadata": {
+        "sketchLibrariesData": {
+          "layerStylesMap": {
+          },
+          "symbolsMap": {
+          },
+          "textStylesMap": {
+          }
+        }
+      }
+    },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":11173187,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":false}"
     }
