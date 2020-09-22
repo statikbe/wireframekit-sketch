@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1924,
+  "changeIdentifier": 1925,
   "clippingMaskMode": 0,
   "do_objectID": "6EB98D9F-DEAA-45BA-8DE2-BE0D14A3FCE7",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
       "id": "5CD4B4E9-AF79-4DF2-9FD9-5C5DA6B51B9A"
     }
   ],
-  "name": "Icon/Watch eye visible show hide",
+  "name": "Icon/Watch eye visible show visibility",
   "nameIsFixed": true,
   "originalObjectID": "02328F72-E83E-4DF0-93C4-B0BB2FAAA06E",
   "overrideProperties": [
