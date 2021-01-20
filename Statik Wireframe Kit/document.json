@@ -213,6 +213,9 @@
   },
   "colorSpace": 0,
   "do_objectID": "37CF59EA-654B-410F-A103-942F8981C23C",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
     {
       "_class": "fontReference",
@@ -345,13 +348,14 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "18F37CC4-6750-410F-A103-9F2D89A0BB51",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "68.2",
-    "build": 102594,
-    "version": 131
+    "appVersion": "70.3",
+    "build": 109109,
+    "version": 134
   },
   "pages": [
     "Wireframes",
@@ -360,7 +364,128 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "0EFF78C4-6750-410F-A103-9F2D89A0B55D",
     "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "EB71B9B8-0085-4629-AF1C-BAFF048C5820",
+        "name": "1. Text",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1990772192028986,
+          "green": 0.1990772192028986,
+          "red": 0.1990772192028986
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "160AFD0B-205E-4272-8325-8A25DF8DA355",
+        "name": "2. Primary",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7843137383460999,
+          "green": 0.3921568691730499,
+          "red": 0.239215686917305
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "BA9FCEF4-D074-46B4-A990-12CB18E7B697",
+        "name": "3. Secondary",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4852961787471065,
+          "green": 0.4852961787471065,
+          "red": 0.9622395833333334
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "AE8EB09C-D938-486E-BD5E-44975306B890",
+        "name": "4. White",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E1A93520-2DA5-47B2-B196-05CBB43B39E5",
+        "name": "5. Functional: success",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4431372549019608,
+          "green": 0.8,
+          "red": 0.1803921568627451
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "7726B8F3-C076-4994-98E1-E2614F0D1268",
+        "name": "6. Functional: info",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8588235294117647,
+          "green": 0.5960784313725489,
+          "red": 0.2039215686274511
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "36654938-6EEA-4CA6-B258-55795C033261",
+        "name": "7. Functional: warning",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1529411764705882,
+          "green": 0.792156862745098,
+          "red": 0.9490196078431372
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E9F0BE62-71F9-403D-9649-20091988ADAD",
+        "name": "8. Functional: danger",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2352941176470588,
+          "green": 0.2980392156862745,
+          "red": 0.9058823529411765
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "ABB18A92-C8E7-413D-9FD8-C1398A2A9EB3",
+        "name": "9. Note",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6500608153546332,
+          "green": 0.3925583964646465,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "39F1C36E-431B-4EB3-AE26-23C855C53D90",
+        "name": "10. Transparent (0%)",
+        "value": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      }
     ]
   },
   "userInfo": {
