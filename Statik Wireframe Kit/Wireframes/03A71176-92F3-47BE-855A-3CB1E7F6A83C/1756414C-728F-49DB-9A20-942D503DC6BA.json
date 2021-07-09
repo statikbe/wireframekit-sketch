@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1756414C-728F-49DB-9A20-942D503DC6BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 514,
+    "width": 380,
+    "x": 869,
+    "y": 673.5
+  },
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Component/Card/Vertical/Img + Title + Meta + Intro + Label + Link",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "15901604-18A6-449C-93A5-53777126F139_stringValue",
+      "value": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh. Maecenas faucibus mollis interdum."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68F139DB-8B4E-46BD-8180-C2CFD677E6B8_stringValue",
+      "value": "Author Lastname – Nov 15, 2017 Maecenas faucibus mollis interdum."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "39A04CE3-F9FB-40E5-AA09-D92825C1500E_stringValue",
+      "value": "Card title Maecenas faucibus mollis interdum."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F043967D-E1B4-4194-AB07-277F52E86B56/A8E38EB2-767A-4C56-A609-5F32948C3FAC_stringValue",
+      "value": "Maecenas faucibus mollis interdum."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "F14A3CFF-6D72-4D7D-A170-21A4ABEA502B",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DE59E78D-C797-4919-81E2-7B42090AC720"
+}

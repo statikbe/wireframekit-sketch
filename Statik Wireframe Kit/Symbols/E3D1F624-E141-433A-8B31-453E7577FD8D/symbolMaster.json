@@ -29,7 +29,11 @@
     "y": -5140
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,18 +46,25 @@
   },
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "3C01AD63-FFC1-4031-BDA7-E71224C245F2"
+      "id": "C06A33A4-0A1B-4007-A8CF-EFFE5D8F52C5"
+    },
+    {
+      "class": "group",
+      "id": "0580C45D-B28A-40DF-94C7-4B4817A9D65B"
+    },
+    {
+      "class": "text",
+      "id": "2FD9C77D-B53F-45E4-82B7-B3DFD29B176E"
     }
   ],
   "name": "Component/Card/Vertical/Title + Meta block",
@@ -63,17 +74,32 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "2FD9C77D-B53F-45E4-82B7-B3DFD29B176E_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "8F580138-7B03-4CD9-B8C4-B7944892D3CA_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2FD9C77D-B53F-45E4-82B7-B3DFD29B176E_stringValue"
+      "overrideName": "8F580138-7B03-4CD9-B8C4-B7944892D3CA/710014AC-701E-4EF0-B8E1-E538F044191B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8F580138-7B03-4CD9-B8C4-B7944892D3CA/710014AC-701E-4EF0-B8E1-E538F044191B/40F6C3F4-D9BD-4167-9614-142FAA67D0F2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8F580138-7B03-4CD9-B8C4-B7944892D3CA/3D69635B-C91F-45B3-B52A-C067CCDC3CFD_stringValue"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

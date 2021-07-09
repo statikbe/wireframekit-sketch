@@ -31,7 +31,6 @@
     "guides": [
     ]
   },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -46,6 +45,10 @@
     {
       "class": "artboard",
       "id": "384A5D9E-5EB0-45A4-AAE7-019B7AF4335E"
+    },
+    {
+      "class": "artboard",
+      "id": "03A71176-92F3-47BE-855A-3CB1E7F6A83C"
     }
   ],
   "name": "Wireframes",

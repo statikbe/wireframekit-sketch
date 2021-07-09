@@ -21,7 +21,6 @@
     "y": 108
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -31,6 +30,11 @@
   "name": "Type/List/Unordered/Check Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C0CF5397-FAFD-499D-8894-87ECDA73B737_stringValue",
+      "value": "4."
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -83,6 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9F27B9B2-C099-4805-A038-D82D991BE7BC",
-  "verticalSpacing": 0
+  "symbolID": "9F27B9B2-C099-4805-A038-D82D991BE7BC"
 }

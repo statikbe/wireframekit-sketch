@@ -21,7 +21,6 @@
     "y": 1159
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -111,6 +110,5 @@
     "unsplash": {
       "unsplash.search.term": "\"youtube\""
     }
-  },
-  "verticalSpacing": 0
+  }
 }

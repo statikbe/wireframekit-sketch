@@ -29,10 +29,14 @@
     "y": -5140
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -42,18 +46,21 @@
   },
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "2139B0DF-5D7B-4323-AFE2-C829976E20F0"
+    },
+    {
       "class": "group",
-      "id": "C9F06C18-747D-4E67-BF26-516E6D631ED5"
+      "id": "1F52226A-752C-4E8E-8643-F3F3EAF500AC"
     }
   ],
   "name": "Component/Card/Vertical/Title + Meta (no link)",
@@ -63,12 +70,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C642EA34-027B-4132-B024-3D26345C7288_stringValue"
+      "overrideName": "4817D253-0CDE-4FF8-95A7-C42C8BD79042_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4817D253-0CDE-4FF8-95A7-C42C8BD79042_stringValue"
+      "overrideName": "C642EA34-027B-4132-B024-3D26345C7288_stringValue"
     }
   ],
   "presetDictionary": {

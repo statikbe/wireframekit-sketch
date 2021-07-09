@@ -18,7 +18,7 @@
     "height": 119,
     "width": 340,
     "x": 20,
-    "y": 400
+    "y": 250
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -48,7 +48,7 @@
   "name": "Type/Text block/Intro",
   "nameIsFixed": false,
   "originalObjectID": "98123DC0-2CF2-4FB4-8E82-32A278594E63",
-  "resizingConstraint": 39,
+  "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

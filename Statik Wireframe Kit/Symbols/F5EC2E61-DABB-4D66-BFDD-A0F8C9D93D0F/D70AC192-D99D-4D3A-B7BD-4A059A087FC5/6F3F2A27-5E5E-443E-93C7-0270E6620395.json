@@ -21,7 +21,6 @@
     "y": 64
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -117,6 +116,5 @@
     "unsplash": {
       "unsplash.search.term": "\"landscape\""
     }
-  },
-  "verticalSpacing": 0
+  }
 }

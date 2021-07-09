@@ -15,13 +15,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 380,
+    "height": 230,
     "width": 380,
     "x": 0,
     "y": 0
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,7 +32,7 @@
   "originalObjectID": "F9A12CD3-8982-47D2-8787-9EB811D5D365",
   "overrideValues": [
   ],
-  "resizingConstraint": 23,
+  "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -89,6 +88,5 @@
     "unsplash": {
       "unsplash.search.term": "\"People\""
     }
-  },
-  "verticalSpacing": 0
+  }
 }

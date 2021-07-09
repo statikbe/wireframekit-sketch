@@ -21,7 +21,6 @@
     "y": 278
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,7 +32,7 @@
   "originalObjectID": "9097DFCD-9DF7-4977-AE86-B2CAF8CDD7FC",
   "overrideValues": [
   ],
-  "resizingConstraint": 34,
+  "resizingConstraint": 35,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -90,6 +89,5 @@
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

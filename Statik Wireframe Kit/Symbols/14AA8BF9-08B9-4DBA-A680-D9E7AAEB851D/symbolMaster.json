@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,7 +46,6 @@
   },
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -71,12 +70,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D9149D8A-C254-44C4-A374-BF70A8944D43_stringValue"
+      "overrideName": "323C7140-E864-4AA3-904E-57BBF46FF095_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "323C7140-E864-4AA3-904E-57BBF46FF095_symbolID"
+      "overrideName": "323C7140-E864-4AA3-904E-57BBF46FF095/30B7A868-461C-4C41-BC1F-F73CB1622DCD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D9149D8A-C254-44C4-A374-BF70A8944D43_stringValue"
     }
   ],
   "presetDictionary": {

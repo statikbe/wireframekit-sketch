@@ -23,13 +23,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 520,
+    "height": 372,
     "width": 380,
     "x": -11024,
     "y": -5140
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 1,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,18 +46,25 @@
   },
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "2F0991F7-4A7C-47E7-84B2-CDB6BE54D4D5"
+    },
+    {
       "class": "group",
-      "id": "E3E78DA7-0E4E-4426-8C12-2822942883E9"
+      "id": "F8A61F45-F0F0-47A7-8803-3B5D9AF0A83B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABD528EB-9D76-4B2C-9EEB-F70F3031D5CA"
     }
   ],
   "name": "Component/Card/Vertical/Img + Title + Intro (no link)",
@@ -63,17 +74,22 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "ABD528EB-9D76-4B2C-9EEB-F70F3031D5CA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ABD528EB-9D76-4B2C-9EEB-F70F3031D5CA/A9BB0FA7-75C4-4317-BEB8-9A11CF3B7FB7_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "2A0FC325-4D02-4957-BDCA-3CCB2EE42350_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "41EF8FE7-FE1E-4850-9754-A845E47600F9_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "ABD528EB-9D76-4B2C-9EEB-F70F3031D5CA_symbolID"
     }
   ],
   "presetDictionary": {

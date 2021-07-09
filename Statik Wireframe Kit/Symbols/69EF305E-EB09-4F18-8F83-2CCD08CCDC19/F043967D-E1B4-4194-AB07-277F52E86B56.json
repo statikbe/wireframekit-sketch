@@ -17,11 +17,10 @@
     "constrainProportions": false,
     "height": 32,
     "width": 67,
-    "x": 240,
-    "y": 20
+    "x": 10,
+    "y": 10
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,7 +32,7 @@
   "originalObjectID": "F043967D-E1B4-4194-AB07-277F52E86B56",
   "overrideValues": [
   ],
-  "resizingConstraint": 12,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -90,6 +89,5 @@
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

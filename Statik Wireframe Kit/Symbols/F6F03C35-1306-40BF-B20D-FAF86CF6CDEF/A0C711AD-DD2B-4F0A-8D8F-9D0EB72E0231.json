@@ -16,12 +16,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 26,
-    "width": 380,
+    "width": 180,
     "x": 0,
     "y": 0
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -83,6 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1C98FCC9-61F8-4520-B812-8E28F0D815AE",
-  "verticalSpacing": 0
+  "symbolID": "EC7E933C-EF3F-42BC-B669-CDEDF4DAA144"
 }

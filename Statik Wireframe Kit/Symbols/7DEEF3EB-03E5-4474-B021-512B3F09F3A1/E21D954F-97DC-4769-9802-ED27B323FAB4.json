@@ -17,11 +17,10 @@
     "constrainProportions": false,
     "height": 32,
     "width": 67,
-    "x": 269.83203125,
-    "y": 20
+    "x": 10,
+    "y": 10
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -38,7 +37,7 @@
       "value": "Label"
     }
   ],
-  "resizingConstraint": 12,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -95,6 +94,5 @@
       "kModelPropertiesKey": {
       }
     }
-  },
-  "verticalSpacing": 0
+  }
 }

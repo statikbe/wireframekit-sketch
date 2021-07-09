@@ -21,7 +21,6 @@
     "y": 10
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -104,6 +103,5 @@
       "stayOnTargetScreen": 0,
       "transition": 0
     }
-  },
-  "verticalSpacing": 0
+  }
 }
